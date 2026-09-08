@@ -11,3 +11,15 @@
 | Tú         | Task 8-14  | 23h59 10/9 |
 | Huy        | Task 15-21 | 23h59 11/9 |
 | Thiên      | Task 22-28 | 23h59 12/9 |
+
+### Rules
+
+- AE phai push len nhanh rieng cua minh truoc khi t merge vao main cho ae
+- AE co the push nhanh cua minh, con nhanh main phai tao pull request va dc review truoc khi merge
+
+#### Lam sao de lay code sau khi 1 nguoi lam xong
+
+- Nguoi A lam xong phan dau, push code len nhanh rieng, va tao pull request
+- Huy se review va merge no vao main
+- Nguoi B tiep tuc lam thi, len local, git pull origin main ve, sau do nhay qua nhanh phu de lam tiep
+- Va lam tiep
