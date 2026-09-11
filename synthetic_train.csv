@@ -1,6 +1,5 @@
 sentence,sentiment,topic
 Đội ngũ bảo trì quá thưa thớt dẫn đến không đảm bảo được chất lượng sửa chữa thiết bị.,negative,facility
-The university's musical and artistic facilities are excellent.,neutral,facility
 Phương pháp giảng dạy phù hợp với các đối tượng sinh viên khác nhau.,neutral,curriculum
 Chương trình học giúp tôi trở thành một chuyên gia trong lĩnh vực của mình.,positive,curriculum
 Tôi nghĩ rằng chương trình đào tạo có thể có thêm các môn học về lịch sử và văn hóa để sinh viên hiểu rõ hơn về đất nước và con người Việt Nam,neutral,curriculum
@@ -31,7 +30,6 @@ Cô ấy là một người rất tỉ mỉ và chăm chỉ trong công việc.,
 "Thầy/cô rất tận tâm với từng sinh viên, chú trọng phát triển tối đa tiềm năng của mỗi người.",positive,lecturer
 "Anh ta thường làm việc chỉ cho lợi ích cá nhân, không suy nghĩ tới lợi ích nhóm.",negative,others
 Giờ học của thầy luôn trôi chảy và hiệu quả.,positive,lecturer
-The university provides a comfortable and conducive environment for learning.,neutral,facility
 Tôi học được nhiều điều mới mẻ trong quá trình học và có thể áp dụng vào công việc của mình trong tương lai.,positive,curriculum
 Anh ấy rất ích kỷ và luôn tìm cách chỉ trích người khác.,negative,others
 Thầy luôn đón tiếp và trả lời thắc mắc của chúng tôi một cách tận tình.,positive,lecturer
@@ -68,12 +66,10 @@ Bạn của tôi là một người hết sức năng động và hoạt bát.,n
 Thầy đề cao cách suy nghĩ độc lập và khả năng phân tích của sinh viên.,positive,lecturer
 Tôi cảm thấy hài lòng với độ khó của bài tập.,neutral,lecturer
 Người này là người rất hòa đồng và có tinh thần cởi mở.,neutral,others
-I appreciate the opportunities provided by the curriculum to interact with industry professionals.,neutral,curriculum
 Nhà vệ sinh ở đây được giữ sạch sẽ và tiện nghi.,neutral,facility
 Tôi thấy mình có sự tiến bộ hàng ngày trong việc học tập và phát triển bản thân trong chương trình đào tạo này.,positive,curriculum
 Các phòng học không được sạch sẽ mỗi ngày.,negative,facility
 Thầy giáo đưa ra nhiều phương pháp học tập phù hợp với nhu cầu mỗi cá nhân sinh viên.,neutral,lecturer
-The university provides legal advice for students.,neutral,facility
 Thầy giúp đỡ sinh viên nắm bắt được cách thức rèn luyện các kỹ năng trong lĩnh vực của mình.,positive,lecturer
 "Thầy cô giảng dạy đều là những chuyên gia trong lĩnh vực mình giảng dạy, giúp tôi học được nhiều kiến thức mới.",positive,curriculum
 Tôi được học những kiến thức thực tế và ứng dụng được vào công việc.,positive,curriculum
@@ -99,7 +95,6 @@ Thiếu sự khuyến khích và động viên cho sinh viên đối với việ
 Không có đủ khu vực để sinh viên có thể tự do tập luyện nghệ thuật.,negative,facility
 Thầy không có sự cảm thông và sẵn sàng lắng nghe ý kiến của sinh viên.,negative,lecturer
 Chị ấy là người rất đáng tin cậy và chín chắn.,neutral,others
-The university has a good range of research facilities.,neutral,facility
 Cấu trúc của chương trình đào tạo chặt chẽ.,neutral,curriculum
 Giảng viên xây dựng một môi trường học tập thoải mái và tích cực.,neutral,lecturer
 "Có khu vực kinh doanh thức uống, bánh mì, để sinh viên có thể thư giãn sau giờ học.",neutral,facility
@@ -107,7 +102,6 @@ Giảng viên xây dựng một môi trường học tập thoải mái và tíc
 Anh ấy không tôn trọng giáo viên và hay chạy tán loạn trong lớp học.,negative,others
 Giảng viên của tôi thường xuyên lấn át người khác khi trả lời câu hỏi,negative,lecturer
 Giảng viên này cứ như thể không biết chuyên môn của mình.,negative,lecturer
-The facilities of the university are satisfactory.,neutral,facility
 Bạn đó cứ như là không có ý tưởng hay góp ý cho nhóm.,negative,others
 Anh ta hay phủ nhận lỗi của mình và đổ lỗi cho người khác.,negative,others
 Cần tạo điều kiện cho sinh viên tham gia vào các dự án thực tế,neutral,curriculum
@@ -116,7 +110,6 @@ Giảng viên này đôi lúc chỉ thích nói đến chuyện riêng của mì
 "Lớp học của thầy có sự lãng phí thời gian và công sức, không tạo ra nhiều giá trị thực sự.",negative,lecturer
 Bạn ấy thường đứng ngoài nhóm và không tham gia vào cộng đồng,negative,others
 "Mỗi lần đi học, tôi chỉ cảm thấy mệt mỏi và buồn ngủ.",negative,lecturer
-The science labs are well-equipped for experiments.,neutral,facility
 Giảng viên thường bảo về việc học và không đúng tâm trạng của học sinh,negative,lecturer
 "Khu vực sinh hoạt của sinh viên được bố trí rất hợp lý và thoải mái, giúp sinh viên cảm thấy như đang ở trong một trung tâm giáo dục chất lượng cao.",positive,facility
 . Thầy/cô đưa ra nhiều chủ đề thú vị và hấp dẫn để sinh viên tham gia,neutral,lecturer
@@ -141,7 +134,6 @@ Thầy cô không có khả năng tận tâm đối với phần chuyên môn c�
 "Phong cách kiến trúc của trường không hiện đại, thiếu sự tiện nghi.",negative,facility
 Các phòng thực hành đầy đủ các thiết bị cần thiết để học tập và thực hành,neutral,facility
 "Các phòng học của trường được trang bị ghế ngồi thoải mái, giúp sinh viên không mệt mỏi trong suốt giờ học.",positive,facility
-The university's athletic facilities are top-notch.,neutral,facility
 Giảng viên rất tận tâm và chăm sóc từng sinh viên trong lớp học.,positive,lecturer
 Chương trình đào tạo hợp lý và phù hợp với nhu cầu thực tế.,neutral,curriculum
 Thầy rất tận tâm và sẵn sàng giải đáp mọi thắc mắc của học sinh.,positive,lecturer
@@ -164,7 +156,6 @@ Thầy cô này đầu tư nhiều thời gian đối với từng học sinh đ
 Giảng viên tạo ra một tinh thần đoàn kết giữa học sinh.,positive,lecturer
 Trường đại học này có nhiều hoạt động tình nguyện để giúp đỡ cộng đồng địa phương.,neutral,facility
 Tôi cảm thấy rất thoải mái khi được học tập tại trường với các hoạt động đa dạng và thú vị cho sinh viên.,positive,facility
-The campus has a community garden.,neutral,facility
 Tôi được học các kỹ năng cần thiết để cập nhật những xu hướng mới nhất trong công việc.,positive,curriculum
 Giảng viên của tôi cung cấp cho sinh viên những kiến thức về kinh tế và chính trị để đưa ra các quyết định thông minh trong cuộc sống hàng ngày.,positive,lecturer
 Giảng viên này rất khó tiếp cận.,negative,lecturer
@@ -178,7 +169,6 @@ Học tập ở đại học này là một trải nghiệm thất bại.,negati
 Thiếu tính thẩm mỹ trong thiết kế các tòa nhà của trường.,negative,facility
 Giảng viên thiếu sự khuyến khích và động viên nhóm của học sinh,negative,lecturer
 Thầy giảng rất sôi nổi và khiến các em có động lực học tập.,positive,lecturer
-The curriculum includes a variety of assessments to measure student progress and performance.,neutral,curriculum
 Anh bạn tôi rất tư duy và luôn tìm cách giải quyết vấn đề một cách sáng tạo.,positive,others
 Giảng viên đã đưa ra những ví dụ thực tế để giúp sinh viên hiểu hơn.,neutral,lecturer
 Quá trình truyền đạt kiến thức không đủ mạnh mẽ và hữu ích.,negative,curriculum
@@ -194,13 +184,10 @@ Giảng viên này không bao giờ thảo luận với sinh viên về vấn đ
 "Giảng viên này toàn dạy khoa cũ rích, không có gì mới mẻ.",negative,lecturer
 Em/Cô là người rất dễ thương và tận tâm với công việc của mình.,positive,others
 Giảng viên này không cung cấp nguồn tài liệu đầy đủ để sinh viên tham khảo.,negative,lecturer
-I like how the curriculum prioritizes practical skills and real-world applications.,neutral,curriculum
 "Khoa học tại đây ngày càng trở nên đa dạng và cập nhật, chúng em sẽ luôn là những người lợi ích của sự phát triển này.",positive,curriculum
 Cô giáo đưa ra nhiều ví dụ cụ thể để giúp sinh viên hiểu bài học.,neutral,lecturer
 Anh ta hay chỉ trích người khác mà không có ý kiến xây dựng.,negative,others
-The curriculum is relevant to current industry trends.,neutral,curriculum
 Môn học này quá cũ và chẳng có gì đáng để học hỏi.,negative,curriculum
-The campus has a sustainable living program.,neutral,facility
 Tôi hài lòng với chất lượng của khóa học.,positive,curriculum
 Giảng viên của tôi hướng dẫn sinh viên làm việc với dữ liệu và phân tích thống kê.,positive,lecturer
 Các môn học trở nên tẻ nhạt và nhàm chán.,negative,curriculum
@@ -228,7 +215,6 @@ Nhân viên bảo vệ tại trường này không đủ thân thiện.,negative
 Chương trình học không đủ linh hoạt để sinh viên có thể phù hợp với lịch trình của họ.,negative,curriculum
 Các trung tâm hỗ trợ học tập tại trường rất nhiệt tình và hỗ trợ tốt cho sinh viên.,positive,facility
 Tôi nhận thấy rằng anh/chị rất chăm chỉ và có năng lực ưu việt.,positive,others
-"Overall, I feel that the curriculum adequately prepares students for their future careers.",neutral,curriculum
 Trường đại học này rất tập trung vào trải nghiệm học tập của sinh viên.,neutral,facility
 Khu vực làm việc riêng cho sinh viên có thể tiếp cận dọc hệ thống wifi bất kỳ lúc nào.,neutral,facility
 "Chương trình học quá nhiều và quá tốn thời gian, không có thời gian để tham gia các hoạt động khác.",negative,curriculum
@@ -249,7 +235,6 @@ Giảng viên này cho chúng tôi quá nhiều bài kiểm tra và bài tập t
 Sinh viên được làm việc với đội ngũ giảng viên có trình độ cao.,positive,facility
 Giảng viên không đánh giá được chất lượng của sinh viên trong quá trình học tập.,negative,curriculum
 Anh ta không bao giờ đúng và luôn giữ những hành động bất hợp pháp.,negative,others
-"I feel that the curriculum provides a strong foundation for students, regardless of their major.",neutral,curriculum
 Có mùi khó chịu trong phòng học.,negative,facility
 Thầy là một giảng viên đầy nhiệt huyết và đam mê.,neutral,lecturer
 Được giải đáp và trao đổi về các vấn đề phức tạp trong ngành học.,positive,curriculum
@@ -276,7 +261,6 @@ Cô ấy là một người rất năng động và có tính cách lạc quan.,
 Sinh viên này rất đáng tin cậy và luôn giữ lời hứa.,neutral,others
 Tôi không thích cách mà giảng viên ấy suy nghĩ và cách giảng dạy của anh ta.,negative,lecturer
 "Anh ấy là một người đồng nghiệp tốt bụng và tận tâm, luôn chia sẻ những chuyện học tập hữu ích với mọi người.",positive,others
-The curriculum is inclusive and diverse.,neutral,curriculum
 Rất hài lòng với chương trình đào tạo,neutral,curriculum
 Thầy giảng dạy rất truyền cảm hứng và động viên sinh viên cống hiến cho việc học tập.,neutral,lecturer
 "Quá nhiều chương trình giảng dạy được tổ chức trên mạng, không có sự tương tác giữa sinh viên và giảng viên.",negative,curriculum
@@ -299,7 +283,6 @@ Khuôn viên trường được xây dựng rất đẹp và thoáng mát.,neutr
 Tôi tự hào khi được là một trong những học viên được học tập tại đây.,positive,curriculum
 Đồng phòng hay toàn chỉ biết chơi điện thoại trong thời gian học,negative,others
 Không có sự khuyến khích đối với sinh viên ở trình độ thấp hơn.,negative,curriculum
-The campus is located in a safe area.,neutral,facility
 Tôi không muốn liên lạc với ai như hắn ta – tự cho mình đúng và không chấp nhận ý kiến khác.,negative,others
 Giáo viên này không giao đúng ánh bài tập.,negative,lecturer
 Tài liệu học tập được cập nhật mới.,neutral,curriculum
@@ -438,7 +421,6 @@ Tôi rất tin tưởng vào khả năng của anh/chị.,positive,others
 Giảng viên này không tuân thủ giáo trình đúng đắn.,negative,lecturer
 Giáo viên và nhân viên trường rất thân thiện và hỗ trợ sinh viên trong quá trình sử dụng các thiết bị tại trường.,positive,facility
 Bạn của tôi là người tràn đầy năng lượng và sẽ thành công trong tương lai.,positive,others
-"The faculty members are approachable, and the staff are helpful and friendly.",neutral,facility
 Cô ấy luôn bị nóng vội và hay nói năng thiếu suy nghĩ.,negative,others
 Chương trình học cung cấp cho sinh viên nhiều tài liệu liên quan đến chủ đề được học.,neutral,curriculum
 Chương trình đào tạo giúp tôi có cơ hội rèn luyện các kỹ năng đặc thù của ngành học của mình.,neutral,curriculum
@@ -449,7 +431,6 @@ Sách giáo khoa quá tập trung vào lý thuyết và không cập nhật vớ
 Tôi không thích cơ sở hạ tầng của trường này.,negative,facility
 Hỗ trợ tâm lý sinh viên tốt,neutral,facility
 Cậu ấy rất chăm chỉ và luôn cố gắng hết sức để đạt được mục tiêu của mình.,positive,others
-The facilities at the university are well-designed and useful.,neutral,facility
 "Thư viện trường rất đầy đủ sách về các lĩnh vực khác nhau, giúp cho việc nghiên cứu của sinh viên được thuận tiện và hiệu quả hơn.",positive,facility
 Tôi rất thích các phòng học được trang bị đầy đủ các thiết bị tiên tiến.,positive,facility
 Giảng viên có kinh nghiệm trong ngành học của mình.,neutral,lecturer
@@ -482,7 +463,6 @@ Thầy có kinh nghiệm và kiến thức sâu rộng về chuyên ngành.,posi
 Nơi đây còn có các chỗ ngồi để bạn có thể ngồi và nghỉ ngơi trước khi tiếp tục việc học.,neutral,facility
 Bạn ấy là người luôn giúp đỡ mọi người.,neutral,others
 Chương trình này rất phù hợp để phát triển kỹ năng cá nhân của các em.,positive,curriculum
-The campus has a sustainable garden.,neutral,facility
 Có những bạn có khả năng chủ động và tự giác đưa ra phương án giải quyết cho các vấn đề trong lớp.,neutral,others
 "Cô giáo này không hề cho phép trao đổi nhiều tại lớp học, không hề lắng nghe những ý kiến từ sinh viên.",negative,lecturer
 Tôi rất thích cơ sở hạ tầng của trường và cách nó được thiết kế để dễ dàng truy cập từ mọi nơi.,positive,facility
@@ -543,7 +523,6 @@ Họ là một người rất chân thành và tận tâm.,neutral,others
 Giảng viên thường xuyên đưa ra phản hổi để học sinh có thể cải thiện.,positive,lecturer
 Thầy giảng dạy rất đoàn kết và tinh thần thầy trò rất tốt.,neutral,lecturer
 Những người này không quan tâm đến dự án và có xu hướng đánh giá những người khác.,negative,others
-I feel that the curriculum is inclusive of marginalized communities and perspectives.,neutral,curriculum
 Anh/chị là một đối tác đáng tin cậy và tài năng của tôi.,positive,others
 Được học các môn học chuyên nghiệp thực sự rất hữu ích đối với tôi.,positive,curriculum
 Tôi hi vọng rằng trường tôi sẽ sớm có sự cải thiện về cơ sở vật chất để đáp ứng được yêu cầu của sinh viên và cải thiện chất lượng giảng dạy.,negative,facility
@@ -585,7 +564,6 @@ Sinh viên được tạo điều kiện để phát triển tư duy sáng tạo
 "Giảng viên này không có tình yêu đối với môn học của mình, điều này làm tôi thật đáng thất vọng.",negative,lecturer
 Anh ta thường cắt đứt và xem thường người khác mà không có lý do gì cả.,negative,others
 Thiếu khu vực yên tĩnh để học tập.,negative,facility
-The university offers a variety of programs and courses to cater to different interests.,neutral,facility
 Thiếu sự tạo động lực cho sinh viên học tập và không có sự khuyến khích từ giảng viên.,negative,curriculum
 Anh bạn học của tôi là một người có tầm nhìn rộng và luôn đưa ra góc nhìn đa chiều về mọi vấn đề.,positive,others
 Giảng viên này giúp tôi phát triển khả năng học tập của mình.,positive,lecturer
@@ -670,7 +648,6 @@ Không có cơ hội để đánh giá định kỳ sự tiến bộ của sinh 
 Các phòng học và giảng đường chưa được ứng dụng các công nghệ mới nhất để nâng cao chất lượng giảng dạy.,negative,facility
 Các hoạt động tình nguyện rất ý nghĩa và tốt cho sự phát triển của sinh viên.,positive,facility
 Điểm số của sinh viên thường bị giảm là do giảng viên này.,negative,lecturer
-"The university has a good emphasis on academic research, providing lab facilities for students' research.",neutral,facility
 Các phòng tập thể dục được trang bị đầy đủ các thiết bị cho hoạt động tập thể dục.,positive,facility
 "Anh ấy rất thân thiện và dễ gần, giúp đỡ em trong rất nhiều việc.",positive,others
 "Phòng tập gym tại trường rất thú vị, tôi thường xuyên đến đây để rèn luyện thể chất.",positive,facility
@@ -731,14 +708,12 @@ Tôi không cảm thấy được giảng viên này chỉ dẫn nhiều trong q
 Tôi cảm thấy mình được trang bị đầy đủ các kiến thức và kỹ năng để làm việc trong ngành của mình.,positive,curriculum
 "Kiểm tra và đánh giá xứng đáng, mang tính khách quan.",neutral,curriculum
 "Giáo viên chỉ chuyên về phần lý thuyết, không có phần thực tiễn.",negative,lecturer
-I appreciate the emphasis on community service and giving back within the curriculum.,neutral,curriculum
 "Các phòng học của trường được trang bị đèn chiếu sáng tốt, giúp sinh viên học tập dễ dàng hơn trong điều kiện nguồn sáng trở nên khan hiếm.",positive,facility
 Em thấy các bạn là những người rất dễ chịu.,positive,others
 Thiếu sự giúp đỡ và hỗ trợ cho sinh viên khi có vấn đề phát sinh.,negative,facility
 Nhóm của họ không có mục tiêu và không biết cách phát triển cho tương lai.,negative,others
 Cô ấy không có tính kỷ luật và thường xuyên quên mất những nhiệm vụ quan trọng.,negative,others
 "Thầy đưa ra các chủ đề học tập hấp dẫn và thú vị, giúp sinh viên tìm thấy niềm đam mê trong học tập.",positive,lecturer
-The university has a music program and facilities.,neutral,facility
 Thiếu sự quan tâm và hỗ trợ từ phía giáo viên.,negative,curriculum
 "Giảng viên này tạo ra một môi trường học tập vui vẻ và đầy ý nghĩa, giúp tôi cảm thấy thích thú hơn khi học.",positive,lecturer
 "Không có khu vực cho các sinh viên nghỉ ngơi, chạy bộ, hoặc tập thể dục ngoài các phòng thực hành.",negative,facility
@@ -773,13 +748,11 @@ Thầy này giúp tôi hiểu rõ hơn về nhiều khái niệm trong vấn đ�
 "Trong suốt quá trình học tập, sinh viên được hỗ trợ bởi các trợ lý giảng dạy.",neutral,curriculum
 Không có đủ khu vực để sinh hoạt và giải trí cho sinh viên.,negative,facility
 Người kia thường không có động lực và ý chí để thực hiện,negative,others
-I appreciate the emphasis placed on innovation and entrepreneurship in the curriculum.,neutral,curriculum
 Tôi không cảm thấy có nên tiếp tục đăng ký vào lớp của giảng viên này.,negative,lecturer
 "Giáo viên dạy rất hay, tâm huyết và tận tình.",positive,curriculum
 Giảng viên thường dành nhiều thời gian để giúp đỡ sinh viên có khó khăn trong học tập.,positive,lecturer
 Các bài giảng thú vị và hấp dẫn.,positive,curriculum
 Cùng anh/chị học rất vui vẻ và bổ ích.,positive,others
-The campus has a legal clinic for providing legal services to low-income individuals.,neutral,facility
 Các gói tài liệu giảng dạy có sẵn trên trang web của trường là rất hữu ích.,neutral,curriculum
 Anh ấy có khả năng thuyết phục và làm người khác tin tưởng.,neutral,others
 Anh ấy có khả năng tìm ra giải pháp hợp lý trong các tình huống khó khăn.,neutral,others
@@ -791,7 +764,6 @@ Giảng viên này là một người rất đáng kính trong nghề giáo dụ
 Chương trình đào tạo cần tập trung vào phát triển các kỹ năng thực tế,neutral,curriculum
 Cô bạn rất chăm chỉ và luôn là người đứng đầu trong việc hoàn thành công việc.,positive,others
 Khu vực để xe không được bảo vệ đúng cách.,negative,facility
-The campus has a talent center for students.,neutral,facility
 Thầy này luôn trân trọng và đánh giá cao những cống hiến của học viên.,positive,lecturer
 Thầy/cô thật sự là một người mẫu số trong lĩnh vực giáo dục.,positive,lecturer
 Bài giảng rất thú vị và hấp dẫn.,neutral,lecturer
@@ -813,7 +785,6 @@ Cô bạn này có tấm lòng rộng lớn và luôn sẵn sàng giúp đỡ ng
 Anh ấy là một người rất cởi mở và nhiệt tình.,positive,others
 Tôi đã bị gián đoạn trong quá trình nghiên cứu nhiều lần do các cơ sở vật chất kém chất lượng tại trường tôi.,negative,facility
 Tôi không thể hình dung được ai lại muốn tham gia vào lớp của giảng viên này.,negative,lecturer
-The university has quality facilities for students.,neutral,facility
 Giáo viên rất xứng đáng để sinh viên có được sự khuyến khích và hỗ trợ.,neutral,lecturer
 Chương trình đào tạo cần chú trọng vào giáo dục đạo đức và tình yêu đất nước,neutral,curriculum
 Hệ thống điều hành và quản lý của trường chưa đạt chuẩn chuyên nghiệp.,negative,facility
@@ -831,7 +802,6 @@ Tần suất đánh giá quá cao và tạo ra sự căng thẳng không cần t
 "Các phòng học và giảng đường quá xa so với nhà ở, làm cho sinh viên mất thời gian và tiền bạc để di chuyển.",negative,facility
 Học tập tại trường giúp mình phát triển sự tự tin và kỹ năng giải quyết vấn đề.,positive,curriculum
 Bạn của em là người có khả năng giao tiếp tốt với nhiều người.,neutral,others
-The university has adequate housing facilities for students who need it.,neutral,facility
 Trường không cung cấp các chương trình đào tạo khác nhau để đáp ứng nhu cầu khác nhau của sinh viên.,negative,curriculum
 Không có đầy đủ tài liệu và tài nguyên để học tập tại đại học này.,negative,curriculum
 "Trường thường xuyên cập nhật khóa học mới, giúp tôi không bị lạc lõng trong thế giới công nghệ ngày càng phát triển.",positive,curriculum
@@ -860,12 +830,10 @@ Giảng viên này chưa bao giờ quan tâm đến sự tiến bộ của sinh 
 Tôi đến đây để học nhưng còn được đào tạo về đức hạnh.,positive,curriculum
 Sinh viên không được định hướng rõ ràng về các hướng đi sau khi tốt nghiệp.,negative,curriculum
 Tôi cảm thấy chương trình học rất tốt cho việc phát triển sự nghiệp của mình.,neutral,curriculum
-I am impressed by the wide-range of electives offered in the curriculum.,neutral,curriculum
 Giảng viên này dạy quá chú trọng đến xuất sắc và quên mất đến kiến thức chuyên môn.,negative,lecturer
 Giảng viên này không biết cách tạo sự thu hút trong giờ dạy.,negative,lecturer
 Giảng viên của tôi thường đưa ra nhiều tài liệu hữu ích cho sinh viên để tăng cường kiến thức và hiệu suất học tập.,neutral,lecturer
 Hầu hết các giáo viên đều không quan tâm đến khóa học của mình.,negative,curriculum
-The curriculum includes opportunities for students to work on independent projects or research.,neutral,curriculum
 Cậu ta luôn cố gắng đánh bại người khác.,negative,others
 Học phần được chia sẻ và trình bày một cách trực quan và dễ hiểu.,neutral,curriculum
 Giảng viên này không đủ nghiêm túc trong giờ dạy.,negative,lecturer
@@ -884,7 +852,6 @@ Bạn của tôi rất nhạy bén và có khả năng phân tích tốt hơn b�
 Trường định hướng rất tốt cho sinh viên và đưa ra các lựa chọn hợp lý.,neutral,curriculum
 Giáo trình mang đến những kiến thức thiết thực cho tương lai của sinh viên.,neutral,curriculum
 Sinh viên được đào tạo để có thể phục vụ cộng đồng và đóng góp cho sự phát triển của đất nước.,positive,curriculum
-I like how the curriculum encourages self-reflection and personal growth.,neutral,curriculum
 Thầy tạo ra môi trường học tập năng động và sâu sắc.,neutral,lecturer
 Thầy là một người đầy tâm huyết và yêu nghề.,positive,lecturer
 "Chất lượng giáo dục tại trường quá thấp, không đáp ứng được yêu cầu của thị trường lao động.",negative,curriculum
@@ -897,7 +864,6 @@ Tôi thích cách mà chương trình đào tạo kết hợp giữa lý thuyế
 Tôi rất thích việc giảng viên đưa ra các trường hợp thực tế để sinh viên có thể áp dụng kiến thức vào công việc.,positive,curriculum
 Một số bạn của tôi thường xuyên lập mưu để gây rối và gây sự.,negative,others
 Thầy luôn giữ tinh thần công bằng trong tự đánh giá chất lượng dạy học.,neutral,lecturer
-The staff responsible for maintaining the facilities are friendly and helpful.,neutral,facility
 Phòng học quá ồn ào không thể tập trung.,negative,facility
 Anh ấy là người rất lịch sự và đẹp trai.,positive,others
 Họ rất quan tâm và giúp đỡ những người khác.,neutral,others
@@ -926,14 +892,12 @@ Thiết bị máy in miễn phí rất hữu ích cho việc in các tài liệu
 Các chuyên ngành được phân chia rất rõ ràng và cụ thể.,positive,curriculum
 "Giảng viên đề cao chất lượng giảng dạy hơn là kết quả thi, giúp học tập thực sự có ý nghĩa.",positive,curriculum
 Tôi cảm thấy giảng viên này đang giảng dạy cách tự học thay vì giảng dạy bài học.,negative,lecturer
-The university offers a variety of scholarships and financial aid.,neutral,facility
 Thầy giảng dạy rất chuyên nghiệp và đầy sự tận tâm trong công việc.,neutral,lecturer
 Giảng viên rất cởi mở và sẵn sàng lắng nghe ý kiến của sinh viên.,neutral,lecturer
 Cần cải thiện môi trường học tập để sinh viên có nhiều địa điểm học tập khác nhau,neutral,curriculum
 Giảng viên là người luôn đầu tư vào sự nghiệp giáo dục của mình.,positive,lecturer
 Thầy luôn giao nhiệm vụ và đòi hỏi chúng tôi hoàn thành đầy đủ và đúng hạn.,neutral,lecturer
 Cậu ta đã tỏ ra vô cùng thiếu kiên nhẫn và khó chịu.,negative,others
-The university's technology facilities are modern and helpful.,neutral,facility
 Thầy giúp sinh viên hiểu rõ về quản lý chuỗi cung ứng và logictic.,positive,lecturer
 Tôi thấy trường của mình rất sạch sẽ và đẹp mắt.,neutral,facility
 Giảng viên này tạo ra một môi trường học tập tuyệt vời và tích cực.,positive,lecturer
@@ -949,7 +913,6 @@ Cô ấy là người đầy sức sống và lạc quan trong cuộc sống.,ne
 Thầy đã giúp tôi phát triển các kỹ năng và năng lực cần thiết cho công việc tương lai.,positive,lecturer
 Tôi cảm thấy thiếu sự sáng tạo và mới mẻ trong giảng dạy của giảng viên này.,negative,lecturer
 Giảng viên thường giảng dạy một cách dễ tiếp thu cho học sinh.,neutral,lecturer
-The bathrooms are always clean and well-stocked.,neutral,facility
 Bạn của tôi là một người rất học hỏi và có bản lĩnh trong công việc.,positive,others
 Giảng viên của tôi giúp sinh viên học tập về kỹ năng quản lý dự án và thiết kế sản phẩm.,positive,lecturer
 Khu vực nướng BBQ của trường là nơi tuyệt vời để sinh hoạt và vui chơi vào cuối tuần.,positive,facility
@@ -988,7 +951,6 @@ Cô ấy không bao giờ lắng nghe người khác và chỉ suốt ngày nói
 Môn học của trường không phù hợp với sự phát triển công nghệ.,negative,curriculum
 "Tôi rất thích sự đầu tư và nâng cấp của trường đại học này đối với cơ sở vật chất, giúp cho chất lượng giảng dạy và nghiên cứu tại đây luôn được cải thiện đều đặn.",positive,facility
 Giảng viên này luôn hiển thị phán xét và khó chịu với sinh viên.,negative,lecturer
-The facilities are clean and well-organized.,neutral,facility
 Môn học quá thiếu thực tiễn và quá khó hiểu.,negative,curriculum
 Cần tạo ra môi trường học tập thú vị và phù hợp với khẩu vị của từng sinh viên,neutral,curriculum
 Mấy bạn ấy thường xuyên kêu ca và phàn nàn nhưng không giúp đỡ ai cả.,negative,others
@@ -1007,7 +969,6 @@ Các trường nghệ thuật không có cơ sở vật chất tốt.,negative,f
 Em cảm thấy rất may mắn khi có cơ hội làm việc với học viên tài năng và có tinh thần đồng đội tốt như bạn.,positive,others
 Bạn ấy thường giảm giá trị của những lời khuyên của người khác.,negative,others
 Thầy là một người dạy rất thông minh và sáng tạo.,positive,lecturer
-The campus has a quiet study space for students.,neutral,facility
 Thầy rất thân thiện và luôn tạo sự thoải mái cho sinh viên trong lớp.,positive,lecturer
 Em/Cô rất giỏi về chuyên môn và luôn chia sẻ kiến thức thật tuyệt vời.,positive,others
 Tôi rất hài lòng khi được học tập tại đại học này vì được học bài bản và ứng dụng được vào thực tế.,positive,curriculum
@@ -1015,18 +976,15 @@ Trường thiết lập các cơ chế hỗ trợ tài chính cho các sinh viê
 "Mấy bạn đó thường xuyên nhâm nhi trong giờ học, làm mất tập trung của những người khác.",negative,others
 Họ có tính kỷ luật và tổ chức hiệu quả.,neutral,others
 "Học viên được học tập và làm việc trong môi trường đa dạng, phong phú và đầy thử thách.",positive,curriculum
-The student lounge is comfortable and offers a nice break from studying.,neutral,facility
 Thầy dạy rất có hiệu quả và giảng dạy một cách dễ hiểu.,positive,lecturer
 Người đó ích kỷ và không quan tâm đến tình hình của nhóm.,negative,others
 Các lớp học thường có sự đa dạng phong phú.,neutral,curriculum
 Không có các nguồn tài nguyên và kiến thức mới nhất trong lĩnh vực bạn đang theo học.,negative,curriculum
 "Các khuôn viên được bảo quản sạch sẽ, giúp cho sinh viên cảm thấy thoải mái mỗi khi đi lại trong khuôn viên.",neutral,facility
 Bạn của tôi là một người rất chăm chỉ và kiên trì trong công việc.,positive,others
-I appreciate the transparency and open communication within the curriculum.,neutral,curriculum
 Anh chàng này có tính cách năng động và thích mạo hiểm.,neutral,others
 Thầy không có tính kiên nhẫn khi giảng dạy.,negative,lecturer
 Cậu ấy không ngừng học hỏi và nỗ lực để đạt được mục tiêu.,neutral,others
-I am satisfied with the university's facilities.,neutral,facility
 Tôi thấy giảng viên này giảng bài rất rõ ràng và dễ hiểu.,neutral,lecturer
 "Mặc dù chương trình học có vẻ chặt chẽ nhưng cũng rất linh hoạt, cho phép sinh viên tham gia các hoạt động ngoại khóa.",neutral,curriculum
 Giảng viên này không khuyến khích học sinh đặt câu hỏi và thảo luận.,negative,lecturer
@@ -1054,7 +1012,6 @@ Hắn ta mang tính cách hoài nghi và không tin tưởng người khác.,neg
 Giáo viên không hỗ trợ đánh giá cho năng lực của sinh viên.,negative,curriculum
 "Cô giáo này quá khó tính, sinh viên làm sai một chút cũng bị dọa trầm luân.",negative,lecturer
 Giảng viên này dạy một cách rườm rà và không cần thiết.,negative,lecturer
-The university provides excellent facilities for its students.,neutral,facility
 Được học tập cùng với đồng nghiệp có nhiều tài năng.,positive,curriculum
 Thầy rất nhiệt tình và đam mê với giảng dạy.,positive,lecturer
 "Thang máy thường bị hỏng, thời gian chờ lâu.",negative,facility
@@ -1086,7 +1043,6 @@ Giảng viên này thường đến trễ và không có lý do chính đáng.,n
 Giáo viên đáp ứng kịp thời nhu cầu của học sinh.,neutral,curriculum
 Giảng viên này sử dụng nhiều kỹ thuật giảng dạy khác nhau để giúp học sinh học tập tốt hơn.,neutral,lecturer
 Giảng viên này không đáng để được tôn trọng.,negative,lecturer
-The curriculum prepares us well for real-world experiences and situations.,neutral,curriculum
 Anh ta là một lãnh đạo tốt.,neutral,others
 "Sách học quá nhiều về lý thuyết, đưa ra ít ví dụ thực tế.",negative,curriculum
 Thầy giáo của tôi rất tận tâm và có khả năng giảng dạy tuyệt vời.,positive,others
@@ -1115,13 +1071,11 @@ Giảng viên chưa có sự chuẩn bị kỹ càng cho bài giảng của mìn
 Tất cả các khu vực trong trường đều được bảo trì rất tốt và đảm bảo an toàn cho sinh viên.,neutral,facility
 "Thầy rất tận tâm và có sự chu đáo trong việc giảng dạy, giúp sinh viên hiểu rõ được mỗi bài học.",positive,lecturer
 "Các phòng thí nghiệm ở trường đều được trang bị đầy đủ các thiết bị và dụng cụ, giúp cho sinh viên có thể thực hành và nghiên cứu chuyên sâu.",positive,facility
-The language lab is helpful for language learning.,neutral,facility
 Anh ấy thường xuyên đánh nhau và gây rối trong lớp học.,negative,others
 Thầy giảng dạy rất suôn sẻ và linh hoạt trong việc chuyển đổi giữa các môn học.,neutral,lecturer
 Cậu bạn này tài năng về âm nhạc.,neutral,others
 Thầy định hướng cho sinh viên một nền tảng vững chắc để phát triển sự nghiệp.,positive,lecturer
 Giáo viên của tôi hướng dẫn sinh viên kỹ năng thiết kế trang web và phát triển ứng dụng.,positive,lecturer
-The university's administrative facility is helpful and accommodating.,neutral,facility
 Thầy này rất đồng cảm với học viên khi gặp khó khăn.,positive,lecturer
 Các phòng máy tính đều được trang bị máy tính mới và đủ số lượng cho tất cả sinh viên.,neutral,facility
 Anh ấy có tâm lý học rất tốt và luôn lắng nghe người khác.,neutral,others
@@ -1147,10 +1101,8 @@ Tôi sẽ tiếp tục đăng ký khóa học của giảng viên này.,neutral,
 Bạn cùng lớp này không bao giờ giữ khoảng cách và gây phiền hà cho người khác.,negative,others
 Học sinh được khuyến khích tham gia vào các đội nhóm để rèn luyện kỹ năng giao tiếp và làm việc nhóm.,positive,curriculum
 Tôi cảm thấy chương trình đào tạo trang bị cho tôi đầy đủ kiến thức cần thiết để đáp ứng nhu cầu của thị trường lao động,neutral,curriculum
-"The university has several extracurricular activities, promoting creativity and innovation among students.",neutral,facility
 Giáo trình cần được cập nhật và điều chỉnh thường xuyên hơn để đáp ứng những thay đổi trong ngành nghề.,neutral,curriculum
 Thiếu sự đổi mới trong cách giảng dạy và nội dung học.,negative,curriculum
-The university's facilities are satisfactory.,neutral,facility
 Tôi cảm thấy phụ huynh tôi đã đổ tiền ra học tập tại trường tôi một cách lãng phí bởi cơ sở vật chất kém chất lượng.,negative,facility
 Giảng viên giảng dạy rất sáng tạo và độc đáo.,neutral,lecturer
 Một số bạn có năng khiếu vượt trội ở một chuyên ngành nhất định.,neutral,others
@@ -1186,7 +1138,6 @@ Thầy luôn giúp đỡ và hỗ trợ sinh viên trong mọi tình huống.,po
 Tôi đã học được nhiều điều mới lạ và thú vị.,positive,curriculum
 Phòng thí nghiệm của trường không được trang bị đầy đủ thiết bị cần thiết.,negative,facility
 Hệ thống đèn chiếu sáng trong các phòng học rất kém và không Đủ sáng để đảm bảo cho sinh viên học tập tốt.,negative,facility
-The courses are well-organized and easy to navigate.,neutral,curriculum
 Chương trình đào tạo cần cải tiến để phù hợp với xu hướng mới,neutral,curriculum
 Tôi cảm thấy hài lòng với phương pháp dạy của giảng viên.,neutral,lecturer
 Họ có tính linh hoạt và sáng tạo trong giải quyết vấn đề.,neutral,others
@@ -1201,7 +1152,6 @@ Thầy là giảng viên đẳng cấp với một phong cách dạy học năng
 Tôi cảm thấy hài lòng với tất cả các cơ sở vật chất của trường.,neutral,facility
 "Tôi chỉ muốn thoát khỏi lớp học của giảng viên này, không muốn tiếp tục mất thêm thời gian nữa.",negative,lecturer
 Nhiều nội dung học tập không có tầm quan trọng đối với nhu cầu học tập của bạn.,negative,curriculum
-The facilities are always kept up-to-date with modern technology.,neutral,facility
 Các bài giảng thực tế và phù hợp với thực tế.,positive,curriculum
 Khu vực tập thể dục không đảm bảo an toàn.,negative,facility
 "Trường đại học cung cấp các dịch vụ hỗ trợ sinh viên tốt nhất, giúp tôi có thể tập trung vào việc học tập của mình.",positive,curriculum
@@ -1222,7 +1172,6 @@ Họ luôn có thể giải đáp thắc mắc của sinh viên.,neutral,others
 Các đồ án và bài tập giúp mình tự tin hơn trong việc giải quyết vấn đề.,positive,curriculum
 Hệ thống an ninh của trường hoạt động rất tốt và được giám sát 24/7.,neutral,facility
 Người bạn tốt của tôi luôn đặt lòng tin vào mình và giúp đỡ mọi người.,positive,others
-The curriculum is responsive to feedback and continuously improving.,neutral,curriculum
 Giáo viên sáng tạo và tiếp thu ý kiến của sinh viên.,neutral,curriculum
 Em rất ấn tượng với sự nhiệt tình của thầy trong việc giải quyết những vấn đề học tập cho sinh viên.,positive,lecturer
 Anh/chị giảng viên nắm vững kiến thức và kinh nghiệm để đưa ra những thông tin hữu ích cho chúng em.,positive,lecturer
@@ -1231,7 +1180,6 @@ Cậu bạn này rất tận tâm với sự nghiệp của mình.,neutral,other
 Mấy bạn đó thường xuyên bị trì trệ trong công việc.,negative,others
 Cô ấy có thái độ tích cực đối với mọi người và luôn cố gắng giúp đỡ miễn phí.,positive,others
 Chị ấy là người rất nghiêm túc và có trách nhiệm.,positive,others
-The course assessments are fair and objective.,neutral,curriculum
 Anh ta hay xem thường người khác và không biết đối xử với họ tốt.,negative,others
 Học phí hợp lý và đáng chú ý.,positive,curriculum
 "Anh bạn là người rất phân tích và giải thích một cách rõ ràng, dễ hiểu cho mọi người.",positive,others
@@ -1330,12 +1278,10 @@ Các khu vực sinh hoạt chung cho học sinh are bẩn thỉu và không chú
 Họ luôn là người nhanh nhẹn và dễ thích nghi với mọi tình huống.,neutral,others
 Được xác định và dự đoán mô hình học tập rõ ràng.,positive,curriculum
 "Cô ấy là một người bạn tuyệt vời, luôn luôn cởi mở và vui vẻ.",positive,others
-The facilities at the university are functional and serviceable.,neutral,facility
 Em cảm thấy có cơ hội phát triển kỹ năng một cách toàn diện.,positive,curriculum
 "Chương trình học được thiết kế phù hợp với thực tiễn, giúp tôi đáp ứng được yêu cầu của công việc khi ra trường.",positive,curriculum
 "Các phòng học trông như bị bỏ hoang, lâu lâu mới đến lượt được sử dụng và chúng có vẻ mờ nhạt và kém sắc.",negative,facility
 Trường có thể cung cấp dịch vụ giúp đỡ sinh viên nước ngoài như cung cấp người thông dịch tiếng Anh.,neutral,facility
-I found the curriculum to be thorough and well-researched.,neutral,curriculum
 Họ rất nhân từ và luôn quan tâm đến những người xung quanh.,neutral,others
 Thầy cô giảng bài lý thuyết và thực tiễn một cách cân bằng phù hợp.,neutral,lecturer
 Cô ấy có tâm hồn nhân ái và giúp đỡ người khác.,neutral,others
@@ -1359,7 +1305,6 @@ Tôi cảm thấy an toàn và thoải mái khi sử dụng những cơ sở c�
 Không có sự giải quyết vấn đề trong giảng dạy.,negative,curriculum
 "Cậu ấy giỏi về các phần mềm thiết kế đồ họa và luôn đưa ra các ý tưởng mới táo bạo, giúp dự án nhóm thêm sinh động và hấp dẫn.",positive,others
 Giáo trình được biên soạn rất kỹ lưỡng và dễ hiểu.,positive,curriculum
-The curriculum does a good job of combining theoretical and practical knowledge.,neutral,curriculum
 Giáo viên được đào tạo chuyên môn tốt.,neutral,curriculum
 Anh ấy là người cầu tiến và không ngừng phát triển bản thân.,neutral,others
 Tài liệu học tập có chất lượng cao và dễ dàng tìm kiếm trên mạng.,neutral,curriculum
@@ -1387,7 +1332,6 @@ Tôi thấy trường của mình rất đẹp và có không gian thoáng đãn
 Khu vực giải trí của trường được đặt cạnh nhà ăn giúp sinh viên có thể dễ dàng đi lại.,positive,facility
 Tôi đã học được rất nhiều kinh nghiệm từ anh/chị.,positive,others
 Tôi rất ấn tượng với các hoạt động hỗ trợ sinh viên tại trường.,positive,curriculum
-The university's facilities are practical and achieve the objectives.,neutral,facility
 Thầy có tư duy đổi mới và giữ vững sự nghiệp giáo dục.,positive,lecturer
 Cô bạn của tôi rất thông minh và có nhiều tài năng.,positive,others
 Hệ thống cơ sở vật chất và thiết bị hỗ trợ khá chung chung.,neutral,curriculum
@@ -1473,7 +1417,6 @@ Sinh viên được đào tạo để trở thành các chuyên gia trong lĩnh 
 Tôi không thích giảng viên này vì anh ta chỉ giảng dạy bằng phương pháp quá cổ điển và cồng kềnh.,negative,lecturer
 "Giảng viên này nóng tính, thường xuyên mất bình tĩnh với sinh viên.",negative,lecturer
 Giảng viên này thường không quan tâm đến sự nghiệp của sinh viên.,negative,lecturer
-The curriculum is regularly updated to reflect current trends and best practices.,neutral,curriculum
 Cách giảng dạy của giảng viên này rất cứng nhắc và khó hiểu.,negative,lecturer
 Giờ học của thầy quá dài và mệt mỏi.,negative,lecturer
 Giảng viên đôi khi rất khó chịu khi phải khắc kẻ và bắt sai sót.,neutral,lecturer
@@ -1507,7 +1450,6 @@ Khu vực đỗ xe rộng rãi và đủ chỗ.,neutral,facility
 Tôi đã học được rất nhiều từ giảng viên này và cảm thấy học tập của mình đã tiến bộ hơn.,neutral,lecturer
 Thầy đem lại cho chúng tôi những kỷ niệm đáng nhớ trong thời gian học.,positive,lecturer
 Học tập tại đại học này giúp tôi phát triển nhiều kỹ năng mềm và tinh thần độc lập.,positive,curriculum
-I found the curriculum to be engaging and thought-provoking.,neutral,curriculum
 Bạn ấy rất thân thiện và luôn sẵn sàng giúp đỡ.,neutral,others
 Thầy/cô luôn đầy nhiệt huyết và đam mê trong công việc giảng dạy.,positive,lecturer
 "Trường có nhiều phòng thực hành âm nhạc và nghệ thuật, giúp tôi thực hành và nghiên cứu chuyên môn tốt hơn.",positive,facility
@@ -1524,7 +1466,6 @@ Mấy bạn đó rất ít chịu trách nhiệm khi có lỗi trong công việ
 Phần thực hành của giảng viên này thiếu công phu.,negative,lecturer
 Trường có chính sách cho sinh viên nghỉ học khi cần.,neutral,facility
 "Cô ấy rất thông minh và có khả năng giải quyết vấn đề rất tốt, giúp mọi người vượt qua khó khăn trong học tập.",positive,others
-The curriculum promotes creativity and innovation.,neutral,curriculum
 Không có sự giải thích rõ ràng về mục tiêu và mong muốn của chương trình học.,negative,curriculum
 "Hệ thống việc làm của trường không tốt, không cung cấp đầy đủ thông tin về các cơ hội việc làm.",negative,facility
 Thực đơn của căn tin đa dạng và đảm bảo vệ sinh an toàn thực phẩm.,neutral,facility
@@ -1549,7 +1490,6 @@ Thầy giúp học viên có khả năng phát triển và trau dồi các kỹ 
 Thấy mấy bạn này không hợp tác và không chung tay giải quyết các vấn đề trong công việc.,negative,others
 Bạn đó không thể điều khiển cảm xúc của mình và thường gây ra sự không thoải mái cho người khác.,negative,others
 Trường không có đủ chỗ đỗ xe.,negative,facility
-The campus has multiple parking options for students with cars.,neutral,facility
 Tôi thấy không gian học tập của trường rất yên tĩnh và thuận tiện cho việc học tập.,neutral,facility
 Phòng học được thiết kế đặc biệt để học nhóm giúp sinh viên làm việc với nhau dễ dàng.,neutral,facility
 Anh ấy là người rất trung thành và quyết tâm.,positive,others
@@ -1561,11 +1501,9 @@ Cô bạn là người có nét duyên dáng và thanh lịch và luôn để l�
 Anh bạn học của tôi là một người rất thấu hiểu và luôn đặt mối quan hệ với người khác lên hàng đầu.,positive,others
 Thầy là một giảng viên rất thân thiện và dễ gần.,neutral,lecturer
 Cô ấy thường xuyên đánh giá thấp những người khác khi chúng ta làm việc nhóm.,negative,others
-The curriculum is well-structured and comprehensive.,neutral,curriculum
 Anh ấy là một người rất tiến bộ và luôn cố gắng phát triển bản thân.,neutral,others
 Cô bạn kia luôn tự cho mình là đúng.,negative,others
 Tôi cảm thấy được khuyến khích và động viên trong quá trình học tập.,positive,curriculum
-The university has a good range of recreational facilities available for students.,neutral,facility
 Tôi rất hài lòng về sự giúp đỡ của anh/chị.,positive,others
 "Cô giáo này không có tài liệu nào cho bài giảng của mình, nên học sinh không hề cảm thấy được có lợi ích gì.",negative,lecturer
 Giảng viên không đưa ra các phương pháp học tập cụ thể để giúp tôi.,negative,lecturer
@@ -1597,14 +1535,12 @@ Giáo viên này thường đặt câu hỏi để khuyến khích sinh viên su
 Thầy là người bạn và người đồng hành với học sinh.,positive,lecturer
 Anh chàng này là một người rất thân thiện và có khả năng tương tác xã hội tốt.,positive,others
 Tôi rất vui mừng khi thấy bạn của tôi đạt được những thành tựu to lớn trong cuộc sống và công việc của mình.,positive,others
-I am impressed with the cleanliness of the facilities.,neutral,facility
 Không thể thiết kế thiết kế phù hợp.,negative,curriculum
 Thành viên của nhóm đó toàn làm việc không chuyên nghiệp và chưa bao giờ hoàn thành tốt một dự án.,negative,others
 Đại học này cung cấp cho sinh viên một môi trường học tập đa dạng và thú vị.,positive,curriculum
 Chương trình học không đảm bảo được độ chuyên nghiệp của sinh viên sau khi tốt nghiệp.,negative,curriculum
 Giảng viên có sự kiến thức uyên bác để trả lời các câu hỏi của sinh viên.,neutral,lecturer
 Giảng viên thường sử dụng các tài liệu bổ sung để giải thích các khái niệm khó hiểu.,neutral,lecturer
-The campus grounds are beautiful and well-kept.,neutral,facility
 Giảng viên này thường xuyên chồng chất quá nhiều công việc vào sinh viên.,negative,lecturer
 Tôi luôn cảm thấy an toàn và yên tâm khi tìm kiếm khu vực nghỉ ngơi trong trường.,neutral,facility
 Anh/chị giảng viên giúp chúng em phát triển kỹ năng giao tiếp và hợp tác nhóm hiệu quả.,positive,lecturer
@@ -1621,7 +1557,6 @@ Các phòng thực hành y khoa hoặc công nghệ không được trang bị �
 Trường có các chương trình giảng dạy tiếng Anh và các chứng chỉ ngoại ngữ để hỗ trợ đào tạo cho sinh viên.,positive,facility
 "Trường đại học này có một hệ thống bảo trì và sửa chữa cơ sở vật chất đáng kinh ngạc, giúp cho các thiết bị và dụng cụ được duy trì tốt nhất.",positive,facility
 Cô ấy là một người cởi mở và dễ gần.,positive,others
-The university offers support services for students with disabilities.,neutral,facility
 Thầy cô giáo rất tận tâm và nhiệt tình hướng dẫn sinh viên trong việc học tập và nghiên cứu.,positive,curriculum
 Anh bạn này rất dạn dĩ và sẵn sàng đối mặt với thử thách.,positive,others
 "Các phòng học được sắp xếp và trang trí vô cùng đẹp mắt, giúp cho không gian học tập trở nên ý nghĩa và sáng tạo hơn.",positive,facility
@@ -1649,7 +1584,6 @@ Không có đồ uống miễn phí trong quán cà phê của trường.,negati
 Cô ấy không đủ chuyên nghiệp trong công việc và hay làm việc linh tinh.,negative,others
 Cách truyền đạt kiến thức của giảng viên này rất kém.,negative,lecturer
 Tôi cảm thấy giảng viên này không thật sự quan tâm đến sự phát triển của sinh viên.,negative,lecturer
-The campus has a journalism program and facilities.,neutral,facility
 Thầy cảm thấy quan tâm đến sự phát triển toàn diện của sinh viên.,positive,lecturer
 Thầy rất nhiệt tình với công việc giảng dạy của mình.,neutral,lecturer
 Cô ấy toàn tập trung vào học tập và không chú ý tới những người xung quanh.,negative,others
@@ -1692,13 +1626,11 @@ Họ có tinh thần đồng đội và quan tâm đến thành viên trong nhó
 Cô giáo đưa ra nhiều phương pháp học tập hiệu quả.,neutral,lecturer
 "Cơ sở vật chất quá kém, không phù hợp với nhu cầu của sinh viên.",negative,curriculum
 Anh ta thường xuyên phát ngôn mang tính chất kích động và khó nghe.,negative,others
-The curriculum prepares students well for future careers.,neutral,curriculum
 "Giáo trình được cung cấp trong nhiều hình thức như video học, bài giảng trực tuyến và sách giáo khoa.",neutral,curriculum
 "Thời gian mở cửa của trường quá ngắn, làm cho sinh viên khó có thể tiếp cận các dịch vụ của trường.",negative,facility
 Bạn của tôi là người rất thông minh và nhanh nhẹn.,neutral,others
 Anh ấy có tinh thần trách nhiệm cao và luôn đảm bảo sự hoàn thành công việc của mình.,neutral,others
 Giáo viên quá nghiêm khắc khiến cho sinh viên sợ hãi và không muốn đến lớp.,negative,curriculum
-I like how the curriculum challenges students to think critically and outside of the box.,neutral,curriculum
 Cô bạn đồng học này rất mạnh mẽ và không ngừng nỗ lực để đạt được mục tiêu của mình.,positive,others
 "Tôi thực sự cảm thấy thích thú khi sử dụng các dịch vụ ăn uống tại trường, đặc biệt là các quán ăn ngon và khỏe mạnh.",positive,facility
 Thiếu sự đảm bảo về chất lượng và độ tin cậy của giáo viên.,negative,curriculum
@@ -1737,10 +1669,8 @@ Một số bạn của tôi luôn muốn đạt được thành tựu của ngư
 Tôi cảm thấy giảng viên này rất tận tâm và luôn sẵn lòng giúp đỡ sinh viên.,neutral,lecturer
 "Giáo trình có sự kết hợp giữa lý thuyết và bài tập, giúp tôi nắm bắt được tốt kiến thức.",neutral,curriculum
 Chương trình đào tạo có thể cần phải thay đổi cách thức giảng dạy để tạo sự hứng thú cho sinh viên,neutral,curriculum
-The campus has a prayer room for students to practice their faith.,neutral,facility
 Anh/chị giảng viên dạy rất cẩn thận và có trách nhiệm cao.,positive,lecturer
 Các phòng thí nghiệm được trang bị đầy đủ và an toàn cho sinh viên thực hành.,positive,facility
-The university has a well-developed online learning system that enables students to study remotely.,neutral,facility
 Chương trình đào tạo cần phần nào đó đáp ứng nhu cầu của doanh nghiệp,neutral,curriculum
 Thiếu sự thú vị và cảm hứng trong giảng dạy.,negative,curriculum
 Các lớp học được chọn lọc và phân chia một cách hợp lý.,positive,curriculum
@@ -1748,7 +1678,6 @@ Các nhân viên tại trường luôn thân thiện và hỗ trợ tôi mọi l
 "Thiết bị máy tính của trường này cũ kỹ, chậm chạp.",negative,facility
 Thiếu sự hấp dẫn và khó chịu khi phải học nhiều môn không liên quan đến ngành học.,negative,curriculum
 Cách giảng dạy của thầy rất hấp dẫn.,neutral,lecturer
-I feel that the curriculum is flexible enough to allow students to pursue their interests.,neutral,curriculum
 Giảng viên này rất quan tâm đến việc phát triển năng lực của sinh viên.,neutral,lecturer
 Thiếu phương pháp giảng dạy hiệu quả.,negative,curriculum
 Tôi không thích cách anh ta chủ động quản lý các nhóm mình một cách thô bạo.,negative,others
@@ -1812,13 +1741,11 @@ Học phí của trường khá hợp lý so với chất lượng giảng dạy
 Anh ta thường xuyên nói những lời khó nghe và không kiềm chế được hành động của mình.,negative,others
 "Cô ấy thường xuyên ở viện, không tập trung vào giảng dạy và không thể hiện sự tận tâm với người học.",negative,others
 Thầy thường đưa ra nhiều ví dụ và minh họa thực tế để giúp chúng tôi hiểu bài học tốt hơn.,neutral,lecturer
-The facilities of the university are good enough for students.,neutral,facility
 Các khu vực nghỉ ngơi và giải trí cho sinh viên được bảo quản và chăm sóc rất tốt.,neutral,facility
 Thầy cô cung cấp khả năng giải trí và giáo dục cho sinh viên đồng thời.,neutral,lecturer
 Trường có nhiều cuộc thi và giải thưởng học bổng giúp sinh viên có động lực học tập nhiều hơn.,positive,curriculum
 "Giáo viên có khủng hoảng giải trít, thường xuyên hát và thổi kèn trong lớp học.",negative,lecturer
 Anh ấy là một người giỏi về quản lý thời gian và có khả năng hoàn thành công việc đúng thời hạn.,neutral,others
-The curriculum provides opportunities for practical application of concepts.,neutral,curriculum
 Những người này thường không có chính kiến và chỉ đồng ý với ý kiến của người khác.,negative,others
 Những căn phòng trong kí túc xá quá chật chội và không đủ không gian để sinh viên sống thoải mái.,negative,facility
 Trường cung cấp nhiều khoá học ngoại khóa để sinh viên có cơ hội trải nghiệm thêm những hoạt động bổ ích.,neutral,facility
@@ -1899,7 +1826,6 @@ Không có động lực cho sinh viên nên các hoạt động tập thể kh�
 Tôi cảm thấy chương trình học của trường giúp tôi trở thành một người tự học và phát triển bản thân.,neutral,curriculum
 Các phòng học được thiết kế rất thông thoáng và cuốn hút.,positive,facility
 Thầy cô không thông tin trước cho sinh viên khi có thay đổi chương trình hoặc kế hoạch.,negative,lecturer
-The curriculum is appropriate for students at all levels of knowledge and experience.,neutral,curriculum
 "Các phòng học tại trường đều được trang bị bảng điện tử, giúp tôi học tập tiện lợi và hiệu quả hơn.",positive,facility
 Bạn của tôi rất trung thực và luôn đưa ra ý kiến thật lòng.,neutral,others
 "Khuôn viên trường được bảo vệ và quản lý một cách nghiêm ngặt, đảm bảo an toàn cho sinh viên.",positive,facility
@@ -1916,7 +1842,6 @@ Thầy/cô có khả năng truyền đạt năng lượng tích cực cho lớp 
 Trường cung cấp các trang thiết bị và dịch vụ hỗ trợ rất tốt.,neutral,facility
 Giảng viên rất có kinh nghiệm và đã giúp tôi có kết quả tốt trong bài kiểm tra.,neutral,lecturer
 "Phòng thực hành quá tải, không đủ chỗ ngồi cho sinh viên.",negative,facility
-The campus grounds are beautifully landscaped and provide a relaxing atmosphere.,neutral,facility
 Thiếu sự tiếp xúc giữa sinh viên và giáo viên.,negative,facility
 Thầy rất thân thiện với sinh viên và thường xuyên tạo ra môi trường học tập thoải mái và thân thiện.,neutral,lecturer
 "Tôi rất thích cách giảng dạy của các giáo viên tại trường, giúp cho sinh viên có thể tiếp cận và hiểu rõ những kiến thức bổ ích và hữu ích nhất.",positive,facility
@@ -1940,7 +1865,6 @@ Chị ấy giỏi về kỹ thuật lập trình và luôn giúp đỡ các thà
 Khu vực phòng thí nghiệm quá nhỏ.,negative,facility
 Giảng viên này thường xuyên muốn so sánh sinh viên với nhau hoặc lớp của mình với các lớp khác.,negative,lecturer
 Chương trình đào tạo cần đảm bảo được tính khả thi và ứng dụng.,neutral,curriculum
-The campus security is top-notch.,neutral,facility
 Chị ấy rất thân thiện và tuyệt vời.,neutral,others
 Các đơn vị cung cấp dịch vụ tư vấn và hỗ trợ học tập được bố trí để giải đáp mọi thắc mắc của sinh viên.,positive,facility
 "Cô ấy là bạn tâm đắc, luôn lắng nghe và đồng cảm.",positive,others
@@ -1955,7 +1879,6 @@ Người kia cứ mãi tập trung chơi game vào thời gian học,negative,ot
 Các khu vực sân vườn và giếng trời được thiết kế đẹp mắt mang lại không gian sống thoải mái cho sinh viên.,positive,facility
 Người này là người rất kỹ lưỡng và chăm chỉ.,neutral,others
 "Chương trình học quá đơn điệu, không hấp dẫn sinh viên.",negative,curriculum
-The university has a good range of facilities available for students to use.,neutral,facility
 Anh bạn này là người cực kỳ năng động và sáng tạo.,positive,others
 "Thiếu sự linh hoạt trong chương trình học, không cho phép sinh viên lựa chọn các học phần phù hợp với nhu cầu của mình.",negative,curriculum
 "Chương trình học có tính ứng dụng cao, tôi có thể áp dụng các kiến thức và kỹ năng mới vào công việc của mình.",positive,curriculum
@@ -2030,7 +1953,6 @@ Các phòng học đều được trang bị máy tính để giúp sinh viên t
 Tôi cảm thấy chương trình đào tạo hơi nhàm chán và thiếu đột phá,neutral,curriculum
 Chương trình học không được đa dạng đủ.,neutral,curriculum
 Chương trình học rất tốt để chuẩn bị cho tương lai nghề nghiệp của tôi.,neutral,curriculum
-The curriculum includes opportunities for internships and professional development.,neutral,curriculum
 Giảng viên này thường đến học lâu và không có chuẩn bị gì cho bài giảng.,negative,lecturer
 "Chương trình học quá nhiều lý thuyết, không có thực tiễn.",negative,curriculum
 Tôi cảm thấy không được hỗ trợ nhiều về kiến thức từ giảng viên.,negative,lecturer
@@ -2041,7 +1963,6 @@ Các phòng học tại đây đều được trang bị đầy đủ và hiện
 "Tôi rất thích không gian ở quán cà phê của trường, tôi có thể thư giãn và trò chuyện cùng bạn bè.",positive,facility
 "Học viên bị áp lực quá nhiều, gây stress.",negative,curriculum
 Bạn của tôi rất đam mê và nghiêm túc trong việc học tập.,positive,others
-The university's prayer facility is accommodating and helpful.,neutral,facility
 Anh ấy là người có tâm huyết và sự đam mê đối với chuyên ngành của mình.,neutral,others
 Cô ấy là một người chân thành và trung thực.,neutral,others
 Thầy rất hài lòng vì những tiến bộ của các em trong quá trình học tập.,positive,lecturer
@@ -2092,7 +2013,6 @@ Các phòng học được bố trí phù hợp giúp sinh viên dễ dàng tậ
 Giáo viên này không đáp ứng được những yêu cầu của sinh viên khi cần giải đáp thắc mắc.,negative,lecturer
 Học tại đây giúp tôi giải quyết được rất nhiều vấn đề được học tại trường của mình hoặc với những người thầy giáo nhân viên khác.,positive,curriculum
 Hắn ta thường áp đặt ý kiến của mình lên người khác và không chấp nhận ý kiến khác.,negative,others
-The university's facilities are comprehensive and meet our needs.,neutral,facility
 Chương trình đào tạo có cấu trúc chặt chẽ và đầy đủ,neutral,curriculum
 Toàn bộ nhóm đó chỉ làm việc để có lợi cho bản thân mình mà không có trách nhiệm với công việc.,negative,others
 Đội ngũ giảng viên rất chuyên nghiệp và tận tâm.,neutral,curriculum
@@ -2124,7 +2044,6 @@ Thiếu sự hỗ trợ từ trường đối với sinh viên trong quá trình
 Giảng viên này rất ít khi giao tiếp với sinh viên.,negative,lecturer
 Các giảng viên tại trường tôi giảng dạy rất có tâm và một tình yêu thực sự với nghề giảng dạy.,positive,lecturer
 "Các nhà vệ sinh sạch sẽ, được vệ sinh định kỳ.",positive,facility
-"The campus security is efficient, ensuring that students feel safe at all times.",neutral,facility
 "Các phòng học ở trường được trang bị máy lạnh, giúp tôi học tập trong môi trường thoải mái và tiện lợi hơn.",positive,facility
 Những khu vực sinh hoạt chung cho học sinh thật sự quá nhỏ và không ấm cúng.,negative,facility
 Bạn cùng nhóm của tôi là một người rất sáng tạo và năng động.,positive,others
@@ -2146,8 +2065,6 @@ Cô bạn là một người rất hòa đồng và luôn chu đáo với ngư�
 Bạn của tôi là một người rất tận tâm và có thể hỗ trợ đồng nghiệp rất tốt.,positive,others
 Sinh viên cảm thấy mất tự tin khi đối diện với những bài tập do giảng viên đưa ra.,negative,lecturer
 Bạn của tôi rất thông minh và có tầm nhìn xa.,neutral,others
-The university's career center facility is helpful and accommodating.,neutral,facility
-The facilities and equipment at the university are in good condition.,neutral,facility
 Chương trình học không có sự lựa chọn linh hoạt.,negative,curriculum
 Chương trình đào tạo được thiết kế rất đầy đủ và bao quát.,neutral,curriculum
 Bạn đó chủ quan và không thể chấp nhận ý kiến của người khác.,negative,others
@@ -2180,7 +2097,6 @@ Không có các hoạt động thực tế để phát triển kỹ năng.,negat
 Cô ấy rất kiên trì và có nghị lực vượt trội.,positive,others
 Cô ấy không có khả năng quản lý thời gian và khiến cả nhóm phải đợi.,negative,others
 Tôi rất yêu thích phong cách giảng dạy của giảng viên và sự tận tâm của anh ấy đối với sinh viên.,positive,lecturer
-The curriculum is well-organized and easy to follow.,neutral,curriculum
 Chương trình đào tạo được thiết kế để giúp sinh viên đạt được mục tiêu cá nhân và nghề nghiệp.,positive,curriculum
 Cô ấy là một người rất cởi mở và thân thiện.,neutral,others
 Giáo trình quá đơn điệu và không khuyến khích sáng tạo.,negative,curriculum
@@ -2215,7 +2131,6 @@ Anh ấy không biết lắng nghe và luôn cố ép buộc người khác đ�
 Tôi được học tập trong một môi trường đầy đủ các phòng thí nghiệm và các thiết bị hiện đại nhất.,positive,curriculum
 Chương trình học rất cập nhật với những kiến thức mới và hiện đại.,positive,curriculum
 "Được tiếp cận với các bài giảng và tài liệu khoa học dễ hiểu, dễ áp dụng.",positive,curriculum
-The university has a business center for entrepreneurship.,neutral,facility
 Giảng viên của tôi rất tận tâm và luôn đệm đến những câu chuyện cảm động từ kinh nghiệm thực tế.,positive,lecturer
 Chương trình học đặc biệt hữu ích đối với người có nhu cầu phát triển bản thân.,neutral,curriculum
 Chương trình đào tạo được thiết kế để trở thành một bước đầu tiên tuyệt vời cho một sự nghiệp thành công.,positive,curriculum
@@ -2225,7 +2140,6 @@ Các nhân viên bảo vệ trường rất tận tình giải quyết các vấ
 "Các khu vực để đậu xe miễn phí được bố trí thuận tiện, giúp cho sinh viên dễ dàng đến trường.",positive,facility
 Bạn của tôi là một người tỉ mẩn và tận tâm với công việc.,positive,others
 "Các lớp học có kích thước phù hợp, giúp sinh viên tương tác và học tập tốt hơn.",neutral,curriculum
-The curriculum allows for individual exploration and self-discovery.,neutral,curriculum
 Các bãi đỗ xe của trường rất tiện lợi.,positive,facility
 Các nhà ăn của trường có thực đơn rất đa dạng và ngon.,neutral,facility
 Văn phòng đoàn sinh viên của trường rất nhiệt tình và hỗ trợ tận tình.,positive,facility
@@ -2238,17 +2152,13 @@ Anh/Chị có khả năng lãnh đạo tốt và luôn tin tưởng vào khả n
 Anh ta là người rất chủ động trong công việc.,neutral,others
 Môi trường học tập được xây dựng cho học viên ngồi tuỳ thích và thoải mái nhất.,positive,curriculum
 Thầy/cô đã giúp tôi có được kiến thức bổ ích và kỹ năng cần thiết cho tương lai.,positive,lecturer
-The computer facilities are up-to-date and available for students to use anytime.,neutral,facility
 Cô ấy là một người rất tình cảm và quan tâm đến mọi người xung quanh.,neutral,others
-The common areas are well-maintained and comfortable to study in.,neutral,facility
 Chương trình học giúp tôi trở thành một người khởi nghiệp và sáng tạo trong lĩnh vực của mình.,positive,curriculum
 Thầy khai thác thế mạnh của từng học sinh để giúp đỡ tối đa.,neutral,lecturer
 Cô bạn này rất cầu tiến và không ngừng học hỏi.,positive,others
 Học phần được điều chỉnh thường xuyên để phù hợp với sự thay đổi của ngành.,neutral,curriculum
 Thầy/cô giảng rất rõ ràng và dễ hiểu.,neutral,lecturer
-I found the curriculum to be well-structured and informative.,neutral,curriculum
 "Tôi đã từng học với nhiều giảng viên, nhưng giảng viên này là tệ nhất.",negative,lecturer
-The courses are well-designed and thoughtfully planned.,neutral,curriculum
 Trường này có chất lượng giảng dạy rất tốt.,positive,facility
 Giảng viên sử dụng nhiều phương pháp giảng dạy mới để thu hút sự chú ý của sinh viên.,neutral,lecturer
 Thầy rất thông minh và dành thời gian để giải thích và chỉ rõ những khó khăn của học sinh.,positive,lecturer
@@ -2264,7 +2174,6 @@ Thầy giảng rất hài hước và tạo sự thoải mái cho sinh viên.,ne
 "Giảng viên này không hề đáp ứng được nhu cầu của sinh viên, làm cho họ quên nhiều điều.",negative,lecturer
 Cơ sở vật chất tại trường được bảo dưỡng thường xuyên và tốt.,neutral,facility
 "Tôi thấy trường có những dịch vụ hỗ trợ sinh viên rất tốt, chẳng hạn như trợ giúp tài chính, tư vấn nghề nghiệp và chăm sóc sức khỏe.",positive,facility
-I appreciate the variety of courses offered in the curriculum.,neutral,curriculum
 Giảng viên giúp tôi hiểu rõ hơn về bài học và giải thích những khái niệm khó hiểu một cách đơn giản và dễ hiểu.,positive,lecturer
 Cô ấy thì không chịu cạnh tranh mà chỉ muốn làm việc một mình.,negative,others
 Phòng học của trường rất thoáng đãng và sạch sẽ.,neutral,facility
@@ -2288,7 +2197,6 @@ Phòng máy tính được trang bị đầy đủ các thiết bị cần thi�
 Có trang thiết bị và dịch vụ mượt mà để đảm bảo an ninh trong trường.,neutral,facility
 Cậu bạn này là người rất chân thành và dễ mến.,positive,others
 "Anh ấy có sự cẩn trọng trong việc làm, giúp ích cho công việc của mọi người.",neutral,others
-I appreciate the emphasis on research and inquiry in the curriculum.,neutral,curriculum
 Anh/chị có khả năng giúp đỡ mọi người phát triển bản thân.,positive,others
 Sinh viên cảm thấy rất khó chịu vì giảng viên này thường nhai nhai và hay đọc từ slide.,negative,lecturer
 Giảng viên này luôn phán bất kỳ hình thức học tập nào ngoài giảng dạy của mình là không có giá trị.,negative,lecturer
@@ -2299,7 +2207,6 @@ Giáo trình rất khó khăn nhưng giúp tôi hoàn thiện nhiều kỹ năng
 Anh ấy là một người đam mê và chuyên nghiệp trong lĩnh vực của mình.,positive,others
 Chương trình học rất phù hợp với mục tiêu và kế hoạch của tôi trong tương lai.,neutral,curriculum
 Đồng nghiệp của tôi là một người rất cởi mở và luôn tôn trọng ý kiến của thành viên khác trong nhóm.,positive,others
-The facilities of the university are satisfactory for students' needs.,neutral,facility
 Em/Cô là người giỏi về chuyên môn và sẵn sàng chia sẻ kiến thức cho sinh viên.,positive,others
 Các phòng học được thiết kế tiện lợi và thoáng mát.,positive,facility
 Anh bạn học của tôi là một người rất sáng suốt và có khả năng phân tích vấn đề tốt.,positive,others
@@ -2394,11 +2301,9 @@ Cô giáo rất tỉ mỉ trong việc giảng dạy.,neutral,others
 "Các phòng học của trường được trang bị máy lạnh, tủ lạnh rất tiện lợi cho sinh viên.",neutral,facility
 Họ có tinh thần nghệ thuật và đam mê với các hoạt động nghệ thuật.,neutral,others
 "Giảng viên này không hề đáp ứng được nhu cầu của sinh viên, quá ít tham gia vào môn học.",negative,lecturer
-The campus has good security measures in place to ensure the safety of students.,neutral,facility
 Không có hoạt động giúp khám phá khả năng của sinh viên.,negative,curriculum
 Anh ấy có tính cách thân thiện và luôn giúp đỡ mọi người.,neutral,others
 Cô bạn luôn biết cách truyền cảm hứng cho các thành viên trong nhóm.,positive,others
-The curriculum provides students with diverse cultural perspectives.,neutral,curriculum
 "Các tài liệu tham khảo rất hay, giúp các em nâng cao kiến thức và kỹ năng.",positive,curriculum
 Cô bạn này có khả năng giao tiếp tốt và giúp đỡ ban nhóm của mình.,positive,others
 "Số lượng sinh viên quá đông, tôi không thể nhờ giáo viên hỗ trợ trực tiếp.",negative,curriculum
@@ -2440,7 +2345,6 @@ Bạn đồng nghiệp rất thân thiện và dễ gần.,neutral,others
 Giáo trình không tập trung vào kĩ năng của sinh viên.,negative,curriculum
 "Khi mưa, nước dẫn đến khuôn viên trường phải bơi lội.",negative,facility
 Em thấy bạn này rất sang trọng và tinh tế trong phong cách.,positive,others
-The curriculum promotes the development of core competencies.,neutral,curriculum
 Phòng máy tính được trang bị đầy đủ.,positive,facility
 Chương trình học được thiết kế rất công phu và chu đáo.,positive,curriculum
 Những chương trình đào tạo được định hướng rất phù hợp với nhu cầu thực tế của thị trường lao động.,positive,facility
@@ -2459,8 +2363,6 @@ Thầy có khả năng diễn đạt rõ ràng và dễ hiểu để sinh viên 
 Tôi cảm thấy rất tự tin khi thầy giáo giảng dạy bởi anh ta có rất nhiều kiến thức về lĩnh vực giảng dạy.,neutral,lecturer
 Thầy cô này không đưa ra những ví dụ cụ thể và không rõ ràng.,neutral,lecturer
 Các cơ sở vật chất đã quá cũ kĩ.,negative,facility
-The curriculum is up-to-date and relevant to current industry practices.,neutral,curriculum
-The university provides necessary facilities for students.,neutral,facility
 Trường luôn đáp ứng nhu cầu của sinh viên về các hoạt động ngoại khóa và thể thao.,positive,facility
 Cơ hội thực tập và trải nghiệm thực tế rất nhiều.,positive,curriculum
 Cô ấy rất ghét người khác vì đủ loại lí do.,negative,others
@@ -2470,7 +2372,6 @@ Tôi thích việc chương trình thiết lập các buổi thực tập để 
 Giảng viên luôn tạo điều kiện cho sinh viên thể hiện bản thân.,neutral,lecturer
 Trường không có đủ cơ sở vật chất để giảng dạy các môn học kỹ thuật.,negative,facility
 Tôi cho rằng kiến thức chuyên môn của giáo viên không phải lúc nào cũng tốt.,negative,curriculum
-The university provides workshops for resume building and job searching.,neutral,facility
 Chương trình học này quá cổ và khó áp dụng vào thực tế.,negative,curriculum
 Một số sinh viên có khả năng diễn đạt tốt và thường được yêu cầu đứng lên giơi thiệu.,neutral,others
 Anh/chị giảng viên giúp chúng em phát triển khả năng tự học và tự rèn luyện thành công được trong cuộc sống.,positive,lecturer
@@ -2484,7 +2385,6 @@ Tôi cảm thấy giảng viên này không giúp đỡ tôi đạt được m�
 Cô ấy không bao giờ tỏ ra sâu sắc khi nói chuyện với người khác.,negative,others
 Khu vực quầy vé xe buýt thông thoáng và tiện nghi.,neutral,facility
 Tôi thấy rằng chương trình đào tạo giúp tôi có cơ hội tiếp cận với các chuyên gia hàng đầu trong ngành học của mình.,neutral,curriculum
-I feel that the curriculum is rigorous and prepares students for the challenges of the future.,neutral,curriculum
 "Giáo viên rất nhiệt tình và cởi mở với học viên, giúp họ phát triển tốt nhất.",positive,curriculum
 "Giáo trình xếp hạng quá cao, tạo ra sự cạnh tranh quá mức.",negative,curriculum
 Một số người bạn của tôi thường xuyên để lại một số ý kiến tiêu cực trong đầu tôi.,negative,others
@@ -2515,7 +2415,6 @@ Giáo viên này thường xuyên trễ giờ và hủy bỏ lớp học mà kh�
 Nội dung quá khô khan và không có động lực.,negative,curriculum
 Họ là một người rất kiên trì và không bỏ cuộc khi gặp khó khăn.,neutral,others
 Họ luôn muốn làm người khác cảm thấy khó chịu và bất an.,negative,others
-The curriculum aligns with current academic standards.,neutral,curriculum
 "Chương trình giáo dục thực sự sâu sắc, giúp tôi đi sâu vào lĩnh vực học tập và nắm vững kiến thức.",positive,curriculum
 Các phòng học của trường được trang bị máy chiếu và loa rất tốt.,neutral,facility
 Tôi rất thích sử dụng các quy trình an toàn môi trường mà trường áp dụng.,neutral,facility
@@ -2560,14 +2459,12 @@ Họ rất thân thiện và giúp đỡ những người mới chuyển tới.,
 Học viện đồng thuận nghiêm ngặt,neutral,facility
 "Thầy thúc đẩy những giá trị cao nhất trong học tập và đời sống như đạo đức, chính trực, trách nhiệm...",positive,lecturer
 Tôi rất thích cách dạy của thầy này.,positive,lecturer
-The facilities at the university are on par with other institutions.,neutral,facility
 "Các phòng học được cải tiến để phù hợp với các hoạt động học tập khác nhau, máy chiếu cùng đồng bộ, ghế và bảng nhắc viết được thiết kế đặc biệt.",positive,facility
 Thầy giúp đỡ sinh viên kết bạn và mở rộng mối quan hệ trong cộng đồng học tập.,neutral,lecturer
 Những bãi đỗ xe của trường tiện lợi và an toàn.,positive,facility
 Có những sinh viên có kỹ năng giải quyết vấn đề tốt và đưa ra các phương án xử lý cho các tình huống khó khăn.,neutral,others
 Giảng viên thiếu sự chỉ đạo nghiêm túc trong lớp học,negative,lecturer
 Sinh viên được cung cấp các khóa học và đào tạo bổ trợ để nâng cao kiến thức và kỹ năng của mình.,positive,curriculum
-The curriculum encourages creativity and innovation in students.,neutral,curriculum
 Nhiều bạn có khả năng giao tiếp tốt và thường đóng vai trò là người giải quyết tranh chấp trong nhóm.,neutral,others
 Dạy quá đơn điệu và không có thú vị gì để học.,negative,curriculum
 Giáo trình thiếu sự liên kết giữa các môn học khác nhau và không thật sự tạo được sự khác biệt.,neutral,curriculum
@@ -2599,7 +2496,6 @@ Em thấy bạn này rất giỏi tiếng Anh.,positive,others
 Đồng phòng thường không lắng nghe và không tôn trọng ý kiến của người khác,negative,others
 Người kia thường tự ý đưa ra quyết định của cả nhóm,negative,others
 Phòng học thiếu không gian để giáo viên và sinh viên di chuyển.,negative,facility
-The university provides tutoring services for students.,neutral,facility
 Các hoạt động ngoài giảng đường được tổ chức ít và không đa dạng.,neutral,curriculum
 Giáo viên của tôi giảng dạy kỹ năng quản lý rủi ro và hành vi đạo đức trong hoạt động kinh doanh.,positive,lecturer
 Thầy có kỹ năng tương tác tốt với học viên.,positive,lecturer
@@ -2648,7 +2544,6 @@ Khu vực ăn uống hạn chế lựa chọn thức ăn cho sinh viên.,negativ
 Ký túc xá của trường rất sạch sẽ và an toàn.,positive,facility
 Cô ấy là một giảng viên rất thông minh và có kiến thức sâu rộng về lĩnh vực của mình.,positive,others
 Khu vực làm việc của giảng viên rất thoải mái và nhiều nguồn động lực.,positive,facility
-The parking facilities are convenient and accessible.,neutral,facility
 Cô ấy là một người độc lập và có khả năng tự quyết định tốt.,positive,others
 Tôi thích môn học này vì nó giúp tôi học được nhiều kỹ năng mềm quan trọng.,positive,curriculum
 Họ là một người vui vẻ và thân thiện với mọi người.,neutral,others
@@ -2672,7 +2567,6 @@ Các xe bus đưa đón sinh viên được bảo trì tốt và hoạt động 
 "Giảng viên tôi là những người rất thông minh, năng động và sáng tạo.",positive,lecturer
 Không có nhiều nguồn tài nguyên cho sinh viên và giáo viên.,negative,curriculum
 Tôi cảm thấy an toàn và thoải mái khi sử dụng những khu vực chung trong trường.,neutral,facility
-The university's laboratory facilities are impressive.,neutral,facility
 Thầy là một giảng viên rất nghiêm túc và đáng kính.,neutral,lecturer
 Cơ sở vật chất của trường rất đẹp và tiện ích.,positive,facility
 Chương trình đào tạo giúp tôi phát triển các kỹ năng đặc thù của ngành học của mình.,neutral,curriculum
@@ -2748,7 +2642,6 @@ Tôi rất cảm ơn thầy trong việc giảng dạy giúp tôi có được n
 Trường đại học này đóng góp rất lớn trong việc quảng bá các hoạt động văn hóa và giáo dục tại địa phương.,neutral,facility
 "Học kỳ này tôi chọn được giảng viên vô dụng nhất rồi, không thể chịu nổi.",negative,lecturer
 Tôi thích cách mà chương trình đào tạo hỗ trợ tôi trong quá trình chuẩn bị cho các cuộc phỏng vấn việc làm.,neutral,curriculum
-"The classrooms have large windows that provide natural light, creating a conducive learning environment.",neutral,facility
 Các phòng học được trang bị bảng thông minh hỗ trợ học tập của sinh viên.,positive,facility
 Bạn ấy chẳng bao giờ tới học mà cứ đòi được thông tin,negative,others
 Được tạo môi trường học tập khuyến khích và đầy kích thích.,positive,curriculum
@@ -2772,8 +2665,6 @@ Chị ấy có khả năng giúp đỡ các sinh viên trong quá trình học t
 Thầy rất tôn trọng các quy tắc và luật lệ của trường.,positive,lecturer
 Học sinh này là người có khả năng hợp tác tốt với người khác.,neutral,others
 Tôi rất ấn tượng với sự tận tâm của bạn trong nỗ lực hoàn thành đồ án một cách xuất sắc.,positive,others
-"The university has a good collaboration with the business world, providing opportunities for students to work on industrial projects.",neutral,facility
-The facilities of the university are sufficient.,neutral,facility
 Cô bạn này là người rất trân trọng và có tầm nhìn xa.,positive,others
 Nhà vệ sinh của trường được xây dựng theo tiêu chuẩn cho sinh viên.,neutral,facility
 "Cô ấy luôn làm mọi việc trái với ý kiến của nhóm, gây ra sự khó chịu trong nhóm.",negative,others
@@ -2790,7 +2681,6 @@ Các phòng đọc sách trong trường rất yên tĩnh và thuận tiện đ�
 Cô ấy là người luôn đưa ra những lời khuyên hữu ích cho học sinh.,neutral,others
 Thầy có phản ứng tích cực với câu hỏi của sinh viên.,neutral,lecturer
 Nội dung giảng dạy rất phù hợp với yêu cầu của công việc trong tương lai.,positive,curriculum
-The curriculum prepares students for various career paths and opportunities.,neutral,curriculum
 Anh ta thường xuyên nói dối và không chịu đón nhận trách nhiệm.,negative,others
 Anh ta không tôn trọng ý kiến của người khác và luôn muốn chiếm ưu thế.,negative,others
 Thầy giúp học viên đạt được mục tiêu trong học tập.,positive,lecturer
@@ -2815,13 +2705,11 @@ Học các môn học ở đây giúp tôi phát triển năng lực nhận th�
 Sinh viên này không thể tạo ra bất kỳ ảnh hưởng tích cực nào đến những người khác.,negative,others
 Anh ta có thái độ tích cực đối với mọi người và luôn đưa ra những ý tưởng mới lạ để giúp đỡ người khác.,positive,others
 Giảng viên rất tâm huyết và giỏi.,positive,curriculum
-The gym has modern equipment and is open for extended hours.,neutral,facility
 Cô ấy luôn cố giữ sự tự tin và tự hào với bản thân mình.,positive,others
 Thiếu khả năng giải đáp thắc mắc cho sinh viên.,negative,curriculum
 Thầy giúp sinh viên nâng cao kỹ năng làm việc nhóm và kỹ năng giao tiếp.,positive,lecturer
 Học sinh này có năng lực giải quyết vấn đề.,neutral,others
 Thời gian học tập quá dài và áp lực quá cao.,negative,curriculum
-The university has good facilities that students can utilize.,neutral,facility
 Không có sự kiểm tra trưởng thành hoặc đạo đức trong giảng dạy.,negative,curriculum
 Thầy hỗ trợ học sinh trong việc tạo ra những ý tưởng mới và tiếp cận.,positive,lecturer
 Chương trình học không dành cho sinh viên chuyên ngành cụ thể.,neutral,curriculum
@@ -2842,7 +2730,6 @@ Tôi không thể tiếp tục học với giảng viên này.,negative,lecturer
 Anh ta lắm chuyện và thường tạo ra mâu thuẫn trong nhóm.,negative,others
 "Hệ thống đánh giá không công bằng, gây nhiều bất công cho sinh viên.",negative,curriculum
 Tôi rất thích các phương pháp giảng dạy hiện đại và sáng tạo được áp dụng trong chương trình học của trường đại học.,positive,curriculum
-The university has adequate facilities for its student organizations.,neutral,facility
 "Giọng nói từ nhiều phòng học khác nhau hòa lẫn vào nhau, khiến mình cảm thấy khó tập trung.",negative,facility
 Giảng viên này không chia sẻ được kinh nghiệm về công việc cho sinh viên.,negative,lecturer
 Tôi cảm thấy rất hạnh phúc khi học tại Đại học này vì nó đáp ứng được mong muốn và đáng nói là rất tuyệt vời.,positive,curriculum
@@ -2873,7 +2760,6 @@ Tôi học được nhiều kỹ năng quan trọng từ giảng viên này và 
 Trường không đưa ra giải pháp để giải quyết vấn đề về trang thiết bị.,negative,facility
 Chương trình học rất phù hợp với yêu cầu của thị trường lao động.,positive,curriculum
 Tôi không tìm thấy bất kỳ giá trị nào trong việc học tập tại trường đại học này.,negative,curriculum
-I like how the curriculum supports experiential learning and hands-on experiences.,neutral,curriculum
 Không có đủ phòng học cho sinh viên.,negative,facility
 Thầy giáo luôn tạo không khí học tập sôi nổi.,neutral,lecturer
 Giảng viên này hơi thông minh suy nghĩ của sinh viên.,negative,lecturer
@@ -2886,7 +2772,6 @@ Chương trình đào tạo với nhiều tùy chọn kết hợp giữa các m�
 "Các tiểu thương trong khuôn viên trường đang giá cả quá cao, khó tồn tại với sinh viên.",negative,facility
 Phòng thí nghiệm đầy đủ trang thiết bị.,positive,facility
 "Lớp học không quá đông, giảng viên có thể tập trung giúp đỡ từng học viên một.",neutral,lecturer
-The laboratories are well-equipped for scientific research.,neutral,facility
 "Các giảng viên tại trường rất thân thiện và dễ tiếp cận, giúp tôi tạo dựng mối quan hệ lâu dài.",positive,facility
 Sách học không đủ chi tiết để hiểu được vấn đề.,negative,curriculum
 "Chương trình học quá nhàm chán, không có sự thay đổi đột phá.",negative,curriculum
@@ -2903,7 +2788,6 @@ Các giảng viên đều rất nhiệt tình và có kiến thức chuyên môn
 Anh bạn này luôn có những gợi ý và giúp đỡ những người xung quanh.,positive,others
 Toàn bộ nhóm đó chỉ giải quyết việc của mình và không chịu đóng góp ý kiến vào công việc chung.,negative,others
 Môn học này quá khô khan và thiếu sinh động.,negative,curriculum
-The facility for disabled students at the university is adequate and accommodating.,neutral,facility
 Anh ta hành xử thô lỗ đến mức mọi người đều muốn tránh xa.,negative,others
 Tôi cảm thấy rất yên tĩnh và an ninh khi sử dụng các cơ sở của trường.,neutral,facility
 Chương trình đào tạo cần thiết kế cho sinh viên có thể tự học và phát triển.,neutral,curriculum
@@ -2967,7 +2851,6 @@ Cần tạo điều kiện cho sinh viên tiếp cận với các dự án nghi�
 Họ có tinh thần trách nhiệm và tỉ mỉ trong công việc.,neutral,others
 Anh ấy là một người rất chủ động và sáng tạo.,neutral,others
 Giảng viên này không sáng tạo trong cách dạy học.,negative,lecturer
-The facilities for international students are well-designed and helpful.,neutral,facility
 Bạn học của tôi là một người có tâm hồn cao thượng và luôn đặt lợi ích của cộng đồng lên hàng đầu.,positive,others
 Chương trình giảng dạy phù hợp với nhu cầu của sinh viên khi ra trường.,positive,curriculum
 "Kiến thức được truyền đạt quá chậm, không đáp ứng tốt với nhu cầu của sinh viên.",negative,curriculum
@@ -3031,12 +2914,10 @@ Cô ấy luôn theo đuổi đam mê của mình và không bao giờ từ bỏ.
 Giảng viên hỗ trợ sinh viên khắc phục khó khăn trong quá trình học.,neutral,lecturer
 Trường có một môi trường học tập thật sự chú trọng đến sự phát triển của sinh viên.,positive,facility
 "Các cửa sổ trong phòng học không đóng kín, gây tiếng ồn và gió thổi vào.",negative,facility
-The campus is well maintained and has all necessary facilities.,neutral,facility
 "Tôi thấy những sinh viên khác đạt được điểm cao không bởi năng lực, mà bởi sự may mắn.",negative,curriculum
 Tôi thấy anh chàng này khá khô khan và ít biểu đạt cảm xúc.,neutral,others
 Chương trình học đầy đủ và mang tính thực tiễn cao.,neutral,curriculum
 Được tư vấn và giúp đỡ trong việc lựa chọn chương trình đào tạo phù hợp.,positive,curriculum
-I feel that the curriculum positively impacts my personal and academic goals.,neutral,curriculum
 Giảng viên hướng dẫn và đánh giá không công bằng và không đảm bảo sự minh bạch.,negative,curriculum
 "Nhà vệ sinh của trường luôn được giữ gìn sạch sẽ và thoáng mát, giúp sinh viên thoải mái hơn trong quá trình học tập.",positive,facility
 "Cô ấy luôn đọc sách trong lớp học, không bao giờ chú ý đến giảng viên hoặc sinh viên khác.",negative,others
@@ -3093,18 +2974,15 @@ Trường tôi cần phải cải thiện cơ sở vật chất của mình đ�
 Anh ta luôn tự cho mình là người thông minh nhất trong phòng học.,negative,others
 Bạn của tôi là người đáng tin cậy.,neutral,others
 Điểm mạnh của chương trình đào tạo là đội ngũ giảng viên giàu kinh nghiệm và nhiệt tình,neutral,curriculum
-I feel like the curriculum addresses important global issues and challenges.,neutral,curriculum
 "Học phần không quá khó hoặc đơn giản, tuy nhiên đòi hỏi sự chăm chỉ và cố gắng để đạt điểm cao.",neutral,curriculum
 Không có sự hướng dẫn hoặc giúp đỡ cho sinh viên yếu kém.,negative,curriculum
 "Không có chỗ để để xe, sinh viên phải đi bộ đến trường.",negative,facility
-The university's facilities are up to standard.,neutral,facility
 Trường không có đủ nhân viên để quản lý sinh viên.,negative,facility
 "Các giảng viên luôn tận tuỵ giúp đỡ sinh viên, chưa bao giờ tôi cảm thấy bị bỏ lại phía sau.",positive,curriculum
 Phòng học quá đông đúc và không đủ chỗ ngồi cho học sinh.,negative,facility
 Cô ta luôn đổ lỗi cho người khác khi có vấn đề.,negative,others
 Chương trình học rất khó khăn.,neutral,curriculum
 Thầy giảng dạy rất truyền cảm hứng và động viên các em học tập cả bằng lời lẫn hành động.,positive,lecturer
-The campus facilities are decent and useful.,neutral,facility
 Các phòng thí nghiệm tại trường rất sạch sẽ và tiện nghi.,neutral,facility
 Nếu tôi không phải nghe giảng của người này thì mình có thể học đến rất nhiều thứ.,negative,lecturer
 Tôi thích môn học này vì nó giúp tôi có thêm kinh nghiệm về cuộc sống và công việc.,positive,curriculum
@@ -3114,7 +2992,6 @@ Tôi không thích cách anh ta giả vờ chăm học.,negative,others
 Thầy đưa ra nhiều ví dụ thực tế và liên quan đến cuộc sống hàng ngày để giúp học viên có các thước đo đúng đắn trong học tập.,positive,lecturer
 Tôi đã học được rất nhiều từ giảng viên và sẽ luôn cảm kích sự giúp đỡ của anh ấy.,positive,lecturer
 Thầy rất năng động và luôn đem lại những bài giảng thú vị cho sinh viên.,positive,lecturer
-The university has a program for connecting students with potential mentors.,neutral,facility
 "Tôi không muốn nói nhiều, nhưng thật là chán ngắt khi phải nghe giảng của giảng viên này.",negative,lecturer
 "Học viện an toàn, bảo mật",neutral,facility
 Giảng viên này không thể giúp tôi hiểu được các kiến thức cơ bản.,negative,lecturer
@@ -3142,7 +3019,6 @@ Chương trình học này của trường rất thú vị và hấp dẫn.,neut
 Các bài tập thực tế giúp sinh viên áp dụng kiến thức vào thực tế.,neutral,curriculum
 Hệ thống máy photocopy và in ấn của trường rất tiện lợi.,neutral,facility
 Các giảng viên ở đây giúp tôi rèn luyện được những kỹ năng mềm quan trọng như tư duy phản biện và giải quyết vấn đề.,positive,curriculum
-The facilities are conducive for independent and collaborative study.,neutral,facility
 Phòng thí nghiệm của trường rất tiện nghi và hiện đại.,neutral,facility
 "Việc dạy của giảng viên này quá tập trung vào việc trình bày lý thuyết, không có tác dụng gì cho việc thực tế.",negative,lecturer
 Điện nước của trường được sử dụng và quản lý một cách tiết kiệm.,neutral,facility
@@ -3245,7 +3121,6 @@ Cô ấy hay thoải mái chứng tỏ là không thể tin tưởng và không 
 "Có rất nhiều sân thể thao, công viên, tiện ích giải trí quanh trường để sinh viên thoải mái giải trí.",neutral,facility
 Họ là người thân thiện và luôn đối xử tử tế với mọi người.,neutral,others
 Thức ăn trong khu ăn uống của trường không ngon.,negative,facility
-The university's registration facility is helpful and accommodating.,neutral,facility
 Nội dung học cũ dẫn đến thiếu sự thực tế.,negative,curriculum
 Anh ấy luôn thể hiện sự trách nhiệm và chăm chỉ trong học tập.,neutral,others
 "Nơi này chẳng thèm tạo ra môi trường học tập thoải mái cho học sinh, vì cơ sở vật chất không đủ tiêu chuẩn.",negative,facility
@@ -3270,8 +3145,6 @@ Các môn học không thực tế và không có ứng dụng trong đời số
 Anh/chị thật tuyệt vời!,positive,others
 Anh/chị có khả năng tuyệt vời trong việc đào tạo kỹ năng cho đội tình nguyện.,positive,others
 Giảng viên các môn học đều rất chuyên nghiệp và trang bị cho sinh viên nhiều kiến thức mới.,positive,curriculum
-The curriculum prepares students for real-world challenges.,neutral,curriculum
-The university provides ample parking space for students' vehicles.,neutral,facility
 Trường cung cấp sức khỏe và giáo dục tốt cho sinh viên.,positive,facility
 Giảng viên tận tình giảng dạy và hướng dẫn chúng em trong quá trình học tập.,positive,lecturer
 Giáo viên này thường xuyên cắt ngang lời khai của sinh viên.,negative,lecturer
@@ -3302,7 +3175,6 @@ Bạn ấy thường xuyên cho rằng mình đúng và không nhận được �
 Tôi rất thích giáo viên này vì sự tận tâm của họ.,neutral,lecturer
 Tôi cảm thấy bị phân tâm bởi giảng viên này trong giờ dạy.,negative,lecturer
 Tôi đã học được nhiều điều mới ở đây.,positive,curriculum
-The university's shopping and retail facilities are convenient.,neutral,facility
 "Thời gian cho mỗi tiết học ngắn và chia rất nhiều, khiến cho học sinh khó theo kịp.",negative,facility
 Thầy giúp học viên có định hướng rõ ràng về học tập và sự nghiệp.,positive,lecturer
 "Phòng học không được bố trí đúng cách, khiến sinh viên khó di chuyển.",negative,facility
@@ -3310,7 +3182,6 @@ Các phòng thực hành nghề nghiệp được trang bị đầy đủ thiế
 Thầy cô giảng bài một cách hài hước và đầy cảm hứng.,neutral,lecturer
 Giảng viên tận tâm và có trách nhiệm rất cao với sinh viên.,neutral,lecturer
 Tôi rất hài lòng với chương trình học và hi vọng được tiếp tục học tập tại đây.,neutral,curriculum
-I appreciate the support the curriculum provides for research and academic growth.,neutral,curriculum
 "Phòng học luôn quá đông và ồn ào, gây khó chịu cho sinh viên.",negative,facility
 Giảng viên luôn đem lại một môi trường học tập thoải mái và hiệu quả cho sinh viên.,positive,lecturer
 "Các chương trình đào tạo rất linh hoạt, phù hợp với từng cá nhân.",positive,curriculum
@@ -3338,7 +3209,6 @@ Giảng viên đào tạo các kỹ năng cần thiết cho các sinh viên.,neu
 Cô ấy hay đánh giá cao những học sinh có tiền bạc hoặc tài sản nhiều hơn.,negative,others
 Chị ấy rất vui vẻ và thông minh.,neutral,others
 . Giảng viên tạo ra môi trường học tập đủ đầy và thú vị,neutral,lecturer
-The courses prepare students for further studies.,neutral,curriculum
 Giảng viên này còn thường chê bai sinh viên trước đám đông.,negative,lecturer
 "Chương trình đào tạo này đã giúp tôi phát triển nhiều kỹ năng chuyên môn, đặc biệt là kỹ năng làm việc nhóm.",positive,curriculum
 "Bạn cùng phòng của tôi vô cùng lịch sự, nhưng thật sự không có gì để trò chuyện cả.",negative,others
@@ -3351,7 +3221,6 @@ Hệ thống cửa số tăng cường sự thông gió cho các khu vực nội
 "Học viên được đánh giá trên năng lực thực tế, không chỉ dựa trên các bài kiểm tra.",positive,lecturer
 Tôi nghĩ rằng chương trình đào tạo có thể có nhiều dự án thực tế hơn để giúp sinh viên áp dụng kiến thức và kinh nghiệm thực tế,neutral,curriculum
 Những bài tập lớn trong môn học giúp sinh viên học tập sâu hơn.,neutral,curriculum
-I am impressed by the commitment of faculty and staff to student success within the curriculum.,neutral,curriculum
 Thầy giúp học viên biết cách phân tích và triển khai các kế hoạch trong học tập và sự nghiệp.,positive,lecturer
 Thầy dạy rất truyền cảm hứng và động viên sinh viên tiếp thu kiến thức mới.,neutral,lecturer
 Trường thiếu đồ giường và chăn cho sinh viên ở ký túc xá.,negative,facility
@@ -3407,7 +3276,6 @@ Tôi cảm thấy rất tự tin với kiến thức mà mình đang học trong
 Tôi rất trân trọng sự giúp đỡ của anh/chị trong cuộc sống.,positive,others
 Chương trình đào tạo giúp tôi tăng cường kỹ năng tiếng Anh và mở rộng kiến thức chuyên ngành.,positive,curriculum
 Các tòa nhà học tập của trường được thiết kế đẹp mắt và hiện đại.,positive,facility
-The campus map is easy to navigate and helpful for newcomers.,neutral,facility
 Anh ta không có tư duy sáng tạo và cứ giữ nguyên ý tưởng cũ.,negative,others
 Có nhiều cơ hội tham gia các hoạt động tình nguyện và các hoạt động xã hội hữu ích.,neutral,curriculum
 Cô ấy là người luôn giữ phong cách tinh tế và lịch thiệp.,neutral,others
@@ -3449,8 +3317,6 @@ Các phương pháp đánh giá kết quả học tập công bằng.,neutral,cu
 Tôi không muốn đứng gần cậu ta vì cảm thấy hắn ta có vẻ rữa mặt.,negative,others
 Chương trình đào tạo có thể không phù hợp với những sinh viên đã có nhiều kinh nghiệm thực tế.,neutral,curriculum
 Các giảng viên luôn đóng góp những góc nhìn thú vị trong các cuộc thảo luận.,positive,curriculum
-The campus offers practical facilities that are useful for students.,neutral,facility
-The bookstores have a plethora of options for required textbooks.,neutral,facility
 Các cơ sở của trường được bố trí khá hợp lý và giúp tôi dễ mà đi lại trong trường.,neutral,facility
 Anh ấy thường gặp khó khăn trong việc làm việc nhóm.,negative,others
 "Bài giảng được thiết kế một cách chuyên nghiệp và hiệu quả, giúp sinh viên tiến bộ hơn.",neutral,lecturer
@@ -3496,11 +3362,9 @@ Các bài giảng nhàm chán và thiếu sự thuyết phục.,negative,curricu
 "Khuôn viên của trường có nhiều cây xanh, tạo không khí trong lành và tốt cho sức khỏe của sinh viên.",positive,facility
 Các môn học được xây dựng rất khoa học và nghiên cứu.,neutral,curriculum
 Các giảng viên tại trường tôi luôn sẵn sàng giúp đỡ và hỗ trợ sinh viên trong quá trình học tập.,positive,lecturer
-The theater stage is perfect for the university theater group.,neutral,facility
 Giáo viên không có tận tâm và không truyền được niềm đam mê.,negative,curriculum
 Các phòng thực hành của trường rất hẹp và không đủ máy móc để thực hiện các môn học.,negative,facility
 Cô bạn này rất ích kỷ và chỉ tập trung vào chính mình.,negative,others
-The curriculum emphasizes experiential learning.,neutral,curriculum
 Thầy rất thông minh và có khả năng giải quyết ráo riết các vấn đề học tập của sinh viên.,neutral,lecturer
 Học cùng bạn bè là thú vị và tạo ra nhiều kết nối quan trọng.,positive,curriculum
 Cô bạn học của tôi là một người có tính cách hài hước và luôn đem lại tiếng cười cho mọi người.,positive,others
@@ -3525,12 +3389,10 @@ Giáo viên này không sắp xếp thời gian hợp lý cho các bài giảng.
 Giảng viên này không thể truyền đạt một cách dễ hiểu.,negative,lecturer
 Cô ấy luôn nói những lời độc ác và gây sự xung đột cho nhóm.,negative,others
 Những khóa học được giảng dạy không đáp ứng nhu cầu của sinh viên.,negative,curriculum
-The university provides qualified facilities for students.,neutral,facility
 "Phòng thí nghiệm không sáng sủa hoặc thông thoáng, những gì tạo ra môi trường không thoải mái để làm việc trong những hoàn cảnh đầy áp lực.",negative,facility
 "Điều hoà phòng học, thang máy và các thiết bị tại trường đều hoạt động tốt, giúp tôi cảm thấy thoải mái khi học tập.",positive,facility
 Thầy giảng dạy rất trung thực và luôn đề cao tính chính xác.,neutral,lecturer
 Thầy không sử dụng phương pháp giảng dạy hiệu quả và không phù hợp với sinh viên.,negative,lecturer
-I feel that the curriculum prepares students well for their future careers.,neutral,curriculum
 Chị ấy là người rất chăm chỉ và có tầm nhìn cao.,positive,others
 Thầy cung cấp cho học viên một môi trường học tập hấp dẫn và truyền cảm hứng.,positive,lecturer
 Thầy giảng dạy rất chuyên nghiệp và có kinh nghiệm.,neutral,lecturer
@@ -3574,7 +3436,6 @@ Chương trình đào tạo thiếu tính sáng tạo và giải quyết vấn �
 "Không có đủ máy tính để học tập, làm cho học tập trở nên khó khăn hơn nữa.",negative,facility
 Chương trình giúp tôi hiểu rõ hơn về mục tiêu và cách thức phát triển nghề nghiệp của bản thân.,neutral,curriculum
 Thầy luôn có tinh thần trách nhiệm và cống hiến trong giảng dạy.,positive,lecturer
-I am impressed by the knowledgeable and experienced instructors within the curriculum.,neutral,curriculum
 Cô ấy không có khả năng giải quyết vấn đề và hay đem về cho người khác giải quyết.,negative,others
 Học viên có cơ hội đóng góp ý tưởng và kinh nghiệm của mình vào các dự án nhóm.,positive,curriculum
 Giảng viên chưa đủ uy tín để giảng dạy cho sinh viên.,negative,curriculum
@@ -3612,7 +3473,6 @@ Thư viện của trường rộng và có nhiều tài liệu cần thiết.,ne
 Giảng viên giảng dạy rất hay và dễ hiểu.,positive,lecturer
 Bạn của tôi rất tận tâm với công việc.,neutral,others
 Thầy cô này đã giúp tôi hiểu biết rõ hơn về chuyên môn mà mình đang học.,neutral,lecturer
-"The campus has a sustainable energy management system, reducing the university's carbon footprint.",neutral,facility
 Bạn đó hay phàn nàn về mọi thứ mà không đưa ra giải pháp.,negative,others
 Anh ta không giúp tôi đồng đội trong dự án này.,negative,others
 "Nhà ăn của trường có nhiều món ăn ngon và đa dạng, đảm bảo cung cấp dinh dưỡng cho sinh viên.",positive,facility
@@ -3654,9 +3514,7 @@ Giảng viên của tôi không chỉ cho chúng tôi cách cải thiện và kh
 Tôi luôn nhớ đến những kỉ niệm tuyệt vời mà anh/chị đã mang lại.,positive,others
 Bạn của tôi là người rất năng động và luôn đưa ra những ý tưởng tuyệt vời.,positive,others
 Chị ấy thường xuyên hài lòng với thứ ít có ích cho công việc.,negative,others
-The curriculum promotes cultural exchange and understanding among students.,neutral,curriculum
 Anh ấy không chịu trách nhiệm khi xảy ra vấn đề.,negative,others
-The university provides opportunities for students to gain work experience through internships and career development programs.,neutral,facility
 Giảng viên cần dành thêm thời gian cho việc giải đáp thắc mắc của học sinh.,neutral,lecturer
 "Phòng trọ quá xa trường, tiềm ẩn nguy cơ mất an toàn.",negative,facility
 Giảng viên quan tâm đến học sinh và mong muốn học sinh phát triển.,positive,lecturer
@@ -3687,7 +3545,6 @@ Kết nối wifi nhanh,neutral,facility
 Giảng viên này rất tận tâm với công việc giảng dạy.,neutral,lecturer
 Nhiều bạn có khả năng lắng nghe và hiểu được quan điểm của người khác trong cuộc tranh luận.,neutral,others
 Những thiết bị tại phòng thực hành trong trường không được sử dụng hiệu quả.,negative,facility
-The university has excellent transportation facilities for students.,neutral,facility
 Chương trình đại học đem lại cho tôi nhiều cơ hội học tập hơn so với những trường khác.,positive,curriculum
 Chương trình đầy đủ các môn học cần thiết để chuẩn bị cho tương lai nghề nghiệp của tôi.,positive,curriculum
 Thầy dạy rất rời rạc và không có kế hoạch rõ ràng.,negative,lecturer
@@ -3707,7 +3564,6 @@ Thời gian được sắp xếp hợp lí.,neutral,curriculum
 Công trình xây dựng gây phiền nhiễu.,negative,facility
 Họ có tính tò mò và muốn tìm hiểu điều mới mẻ.,neutral,others
 Chương trình đào tạo không có sự kết hợp giữa các khóa học và nói chung không có một giáo trình đồng nhất.,negative,curriculum
-The health clinic on campus is a convenient resource for students.,neutral,facility
 Anh ấy là người rất tận tâm và chu đáo.,neutral,others
 "Cậu ấy là một đồng nghiệp tuyệt vời, luôn sẵn sàng giúp đỡ và chia sẻ kiến thức cho tất cả mọi người trong nhóm.",positive,others
 Cậu bạn này là người rất hòa đồng và luôn tạo ra một môi trường vui vẻ.,positive,others
@@ -3718,18 +3574,15 @@ Cô giáo dạy rất chân thành và nhiệt tình.,neutral,others
 Tôi cảm thấy rất tự hào và may mắn khi được học tập cùng với thầy.,positive,lecturer
 Họ có khả năng phân tích và đánh giá thông minh.,neutral,others
 Thiếu hệ thống máy tính và máy chiếu trong phòng học.,negative,facility
-The classrooms are spacious and well-ventilated.,neutral,facility
 "Tôi đã học tại nhiều trường đại học khác nhau, nhưng đây là trường có cơ sở vật chất tuyệt vời nhất từ trước đến nay.",positive,facility
 "Cơ sở vật chất trường rất tốt, sạch sẽ và tiện nghi.",positive,facility
 Thiếu vị trí đậu xe cho sinh viên.,negative,facility
 Giảng viên này không tạo ra môi trường học tập thoải mái.,negative,lecturer
-The classrooms are spacious and comfortable.,neutral,facility
 Đội ngũ y tế tại trường rất chuyên nghiệp và nhiệt tình.,positive,facility
 "Các phòng học tại trường đều có máy chiếu và loa, giúp tôi trình chiếu bài giảng một cách dễ dàng.",positive,facility
 Các phòng học được trang bị hệ thống đèn và bếp giúp sinh viên có thể làm việc và sinh hoạt tại trường.,positive,facility
 Không có sự phối hợp tốt giữa các giáo viên để cùng đạt được mục tiêu giảng dạy.,negative,curriculum
 Tôi được đào tạo bởi các giảng viên có chuyên môn cao và kinh nghiệm giảng dạy tốt.,positive,facility
-The curriculum provides opportunities for students to gain real-world experiences through internships and co-op programs.,neutral,curriculum
 Anh ấy là một người rất trưởng thành và luôn đáp ứng các yêu cầu của giáo viên và nhóm.,positive,others
 Thầy cô này không chỉ giảng dạy cho học sinh theo cuốn sách mà còn truyền đạt kinh nghiệm của mình.,neutral,lecturer
 Anh ta luôn phàn nàn và không hài lòng với mọi điều.,negative,others
@@ -3760,7 +3613,6 @@ Tôi thấy trường có nhiều nguồn lực và điều kiện để giúp s
 Đường chạy bộ và sân chơi của trường rất tiện lợi cho việc tập thể dục.,positive,facility
 Họ có thể tổ chức và kiểm soát một nhóm một cách thông minh và hiệu quả.,neutral,others
 Một số người bạn của tôi thường xuyên chèn ép tôi để giữ cho họ kiểm soát hoàn toàn tình huống.,negative,others
-The university has a global health program.,neutral,facility
 Cô ấy dễ thương và tiếp cận để nói chuyện.,neutral,others
 Phương pháp giảng dạy sáng tạo và hiệu quả.,neutral,curriculum
 Thầy rất nhiệt tình và tâm huyết với công việc giảng dạy.,neutral,lecturer
@@ -3873,7 +3725,6 @@ Quá tốn kém để có được chỗ ở trong khuôn viên trường.,negat
 Cô ấy rất có tài trong việc giải quyết các vấn đề khó khăn trong học tập.,positive,others
 Tôi không thích cách giảng dạy của giảng viên này.,negative,lecturer
 Khuôn viên và các tòa nhà được trang trí đẹp mắt.,positive,facility
-The curriculum balances theoretical and practical learning.,neutral,curriculum
 Tôi cảm thấy chương trình học rất đầy đủ và phong phú.,neutral,curriculum
 Tôi rất cảm động với những điều tốt đẹp anh/chị đã làm cho tôi.,positive,others
 Chương trình học không giúp tôi phát triển kỹ năng mềm cần thiết trong ngành nghề.,negative,curriculum
@@ -3892,7 +3743,6 @@ Tôi được học hỏi kinh nghiệm từ giảng viên và các đồng nghi
 Cách giảng dạy của giảng viên này quá chán và không thuyết phục.,negative,lecturer
 Tôi cảm thấy thoải mái và tiện lợi khi sử dụng thư viện của trường.,neutral,facility
 Mùi khó chịu từ chiếc tủ đựng rác trong khu vực sinh hoạt chung.,negative,facility
-The cafeteria has plenty of options and is reasonably priced.,neutral,facility
 Những buổi học được chia sẻ kiến thức từ nhiều nguồn khác nhau giúp tôi hiểu rõ hơn về môn học.,positive,curriculum
 Người bạn ghét tôi và tỏ ra thân thiện trước mặt tôi.,negative,others
 Học phần quá khô khan và không có sự hứng thú.,negative,curriculum
@@ -3932,7 +3782,6 @@ Giảng viên này hay cách mạng và không trung thực.,negative,lecturer
 Dù là sinh viên quốc tế nhưng mình rất hài lòng với chất lượng giảng dạy tại trường.,positive,curriculum
 Tôi không muốn tiếp xúc với ai như hắn ta – chỉ biết dối trá và không hề tin tưởng ai cả.,negative,others
 Nàng rất dịu dàng và có khả năng giải quyết xung đột rất tốt.,positive,others
-I appreciate the wide range of courses offered.,neutral,curriculum
 Thầy rất thông minh và giáo dục học sinh các kỹ năng cần thiết cho công việc sau này.,positive,lecturer
 Thầy giảng dạy với tinh thần đóng góp và trao đổi bình đẳng.,neutral,lecturer
 Giáo trình rất thực tiễn và tiên tiến giúp tôi học được nhiều kiến thức mới.,positive,curriculum
@@ -3993,7 +3842,6 @@ Thiếu sự hỗ trợ tài chính cho những sinh viên có hoàn cảnh khó
 Không có sự cập nhật thông tin khoa học mới nhất.,negative,curriculum
 Chương trình học đã giúp tôi trở thành một người tự lập và chủ động hơn.,positive,curriculum
 "Cô ấy có khả năng giải thích rõ ràng, dễ hiểu.",neutral,others
-The curriculum encourages interdisciplinary studies and collaboration.,neutral,curriculum
 Giảng viên này không tạo được môi trường học tập thoải mái và vui vẻ.,negative,lecturer
 Đồng nghiệp của tôi là một người rất chuyên nghiệp và luôn có tinh thần học hỏi cao.,positive,others
 Anh/chị giúp đỡ em trong khoảng thời gian khó khăn nhất.,positive,others
@@ -4045,10 +3893,8 @@ Người đó hay nói xấu người khác sau lưng và không trung thực v�
 Cô giáo của tôi là người rất tận tâm với công việc.,neutral,others
 Bạn đồng nghiệp rất trách nhiệm và chịu khó làm việc.,neutral,others
 Thầy là một người kích thích sinh viên tư duy sáng tạo.,positive,lecturer
-I like how the curriculum emphasizes teamwork and communication skills.,neutral,curriculum
 Tôi tin tưởng và tôn trọng thầy/cô rất nhiều.,positive,lecturer
 Cô ấy có kỹ năng đặc biệt và luôn chia sẻ kinh nghiệm của mình để giúp đỡ người khác.,positive,others
-"The campus has a good supply of water and electricity, and outages are rare.",neutral,facility
 Anh ta là người rất tỉ mỉ và chú ý đến những chi tiết nhỏ nhất.,neutral,others
 Cô ấy thường quá mệt mỏi và không đủ năng lượng để hoàn thành công việc của mình.,negative,others
 Trang bị thang máy phục vụ sinh viên đi lại giữa các lầu và phòng học thuận tiện.,neutral,facility
@@ -4063,7 +3909,6 @@ Trình độ giảng dạy của giảng viên này không xứng đáng để �
 Học viên có cơ hội được tham gia vào các hoạt động ngoại khóa để nâng cao kỹ năng mềm.,positive,curriculum
 Nàng rất độc lập và có khả năng tự mình giải quyết vấn đề.,positive,others
 Các phòng thí nghiệm và thiết bị thiếu tài liệu và không đáp ứng được các nhu cầu học tập và nghiên cứu của sinh viên.,negative,facility
-"The campus has a good mix of social and academic activities, allowing students to balance both aspects of university life.",neutral,facility
 Hành lang của trường này bẩn thỉu và đầy rác.,negative,facility
 Sinh viên không thể theo kịp giảng viên.,negative,lecturer
 Khó khăn trong việc xác định định hướng nghề nghiệp sau khi tốt nghiệp.,negative,curriculum
@@ -4112,7 +3957,6 @@ Cậu ấy rất kiên trì và không bỏ cuộc dễ dàng.,neutral,others
 Bạn đó hay chê bai người khác mà không có lý do.,negative,others
 Phòng học và giảng đường không có không gian thoáng mát và không đủ ánh sáng tự nhiên.,negative,facility
 "Khuôn viên trường xanh tươi, thoáng mát và tốt cho việc rèn luyện thể chất.",positive,facility
-The courses provide practical tools for future professional growth.,neutral,curriculum
 "Thầy dạy chậm và lặp đi lặp lại, khiến sinh viên mất hứng thú khi học.",negative,lecturer
 Em ấy là một người rất thông minh và tận tâm với học tập.,positive,others
 "Các phòng học được trang bị đầy đủ các phần mềm và thiết bị máy tính cần thiết để hỗ trợ học tập, giúp sinh viên tiết kiệm chi phí cho việc mua sắm thiết bị riêng",positive,facility
@@ -4125,13 +3969,11 @@ Một số đồng nghiệp của tôi luôn làm việc một cách lười bi�
 Mình không thể kết hợp với người đó vì cảm thấy không thoải mái.,negative,others
 Học phần giúp định hướng cho sinh viên về công việc và phát triển nghề nghiệp.,neutral,curriculum
 Wi-Fi tốc độ cao trong toàn bộ khuôn viên trường,neutral,facility
-"The campus is conveniently located, making it easy to access essential amenities.",neutral,facility
 Bạn ấy không thể hợp tác và luôn cố gắng làm trên đầu người khác.,negative,others
 Họ là một người rất sáng tạo và khéo léo.,neutral,others
 Giảng viên này giúp tôi hiểu rõ hơn về các khái niệm và lý thuyết phức tạp.,neutral,lecturer
 Anh/chị là nhà lãnh đạo xuất sắc trong đội tình nguyện của chúng ta.,positive,others
 Trường không đưa ra các chính sách tài chính hỗ trợ cho sinh viên khó khăn.,negative,facility
-The facilities are modern and up-to-date.,neutral,facility
 "Đại học này có một hệ thống bảo vệ và an ninh thông minh và hiện đại, giúp cho sinh viên cảm thấy an tâm khi học tập.",positive,facility
 Khuôn viên trường rộng rãi và thoáng mát nên sinh viên có thể đi lại thoải mái.,positive,facility
 Bảo hiểm cho sinh viên,neutral,facility
@@ -4182,7 +4024,6 @@ Nàng có tâm hồn cao thượng và luôn hướng đến giá trị đích t
 Chàng trai đó rất ích kỷ và luôn nghĩ tới lợi ích của riêng mình.,negative,others
 Không có chế độ học tập linh hoạt cho sinh viên.,negative,curriculum
 Chị ấy rất thông minh và có khả năng giải quyết các vấn đề khó khăn trong công việc.,positive,others
-The faculty offices are conveniently located for students to access.,neutral,facility
 Bạn cùng nhóm của tôi là một người rất sáng tạo và đam mê.,positive,others
 Thầy luôn tạo ra sự thân thiện và gần gũi với học viên.,positive,lecturer
 Chương trình học rõ ràng và giúp tôi có thêm nhiều kiến thức mới.,positive,curriculum
@@ -4243,7 +4084,6 @@ Không có phòng thể dục.,negative,facility
 Tôi không cảm thấy được mình đang học gì ở đây.,negative,curriculum
 Một số bạn có xu hướng chiếm lấy thời gian trong lớp học.,neutral,others
 Tôi rất thích các chương trình đào tạo và các khoá học mà trường cung cấp.,positive,facility
-The campus has efficient transport links for students who commute.,neutral,facility
 Giảng viên nên có phương pháp giảng dạy thân thiện và tình cảm hơn.,neutral,lecturer
 Tôi rất quý trọng cách giảng dạy của các giảng viên vì họ luôn giúp tôi tự tin khi học tập.,positive,curriculum
 Thầy cô cho sinh viên thực hành nhiều để tiếp cận kiến thức bằng cách thực tế.,neutral,lecturer
@@ -4272,7 +4112,6 @@ Tôi hài lòng với những kết quả học tập và phát triển bản th
 Họ luôn tận tâm và có trách nhiệm trong việc thực hiện công việc của mình.,neutral,others
 Giảng viên này không quan tâm đến những câu hỏi của sinh viên.,negative,lecturer
 Các phòng học và thư viện được trang bị hiện đại và đầy đủ sách vở phục vụ cho học tập của sinh viên.,positive,facility
-The university's parking facilities are adequate.,neutral,facility
 Thời gian học tập quá lâu và đòi hỏi quá nhiều nỗ lực.,negative,curriculum
 "Thầy không có sự thấu hiểu về tâm lý của sinh viên, khiến học tập trở nên khó khăn.",negative,lecturer
 Anh ấy thường quá chủ quan trong quyết định.,negative,others
@@ -4291,13 +4130,11 @@ Chương trình học giúp tôi phát triển tư duy phản biện và kỹ n�
 Tôi học được nhiều kinh nghiệm thực tế từ giảng viên này.,neutral,lecturer
 Giảng viên của tôi có những giải thích khó hiểu đôi khi khiến tôi rất khó khăn khi học tập.,neutral,lecturer
 Nhóm của họ luôn lấy mình là nơi đứng đầu và không để ý tới các thành viên khác.,negative,others
-I feel like the curriculum provides a well-rounded education.,neutral,curriculum
 Điểm mạnh của chương trình đào tạo là chi phí học tập thấp,neutral,curriculum
 Trường thiếu sự minh bạch và sự đáp ứng nhu cầu của sinh viên.,negative,facility
 Họ học tập có phương pháp và có thể là người giúp đỡ tốt cho những người khác trong lớp.,neutral,others
 "Trường đặc biệt chú trọng đến vấn đề an toàn, điều kiện an toàn trong các phòng học được đảm bảo tối đa.",positive,facility
 Giáo trình rất thông minh và có thể áp dụng được vào các lĩnh vực thực tế.,positive,curriculum
-The facilities of the university cater to students' needs.,neutral,facility
 Giảng viên không giỏi lắm,negative,lecturer
 Họ rất lãng mạn và yêu đời.,neutral,others
 Hệ thống wifi nhanh và vô cùng ổn định.,positive,facility
@@ -4318,7 +4155,6 @@ Trường có các khoảng không gian học tập phù hợp cho sinh viên.,p
 Tôi rất cảm kích sự giúp đỡ của thầy/cô trong quá trình học tập.,positive,lecturer
 Sự tương tác giữa giảng viên và sinh viên là rất tốt.,positive,curriculum
 Giảng viên cập nhật kiến thức mới nhất và áp dụng vào lớp học.,positive,lecturer
-The facilities offered by the university can effectively assist students.,neutral,facility
 Có chương trình học bổng hấp dẫn để giúp sinh viên tài năng.,positive,curriculum
 Anh/chị là người đã truyền cảm hứng và quyết tâm trong đội tình nguyện.,positive,others
 Giảng viên này luôn lắng nghe và tận tâm giúp đỡ học sinh.,positive,lecturer
@@ -4357,7 +4193,6 @@ Giảng viên luôn yêu cầu chúng tôi làm bài tập nhiều hơn nhưng l
 Các cơ sở ăn uống của trường có đủ các loại thức ăn cho sinh viên.,neutral,facility
 "Tôi thấy các chương trình đại học chuyên nghiệp, giáo trình giàu kinh nghiệm và môn học giúp tôi học tập nhiều hơn.",neutral,curriculum
 "Em rất cảm kích thầy đã giảng dạy một cách linh hoạt, tùy chỉnh cho phù hợp với tốc độ học tập của từng sinh viên.",positive,lecturer
-The campus has a good transportation system for getting around town.,neutral,facility
 "Ghế ngồi trong phòng học bẩn, không thoải mái.",negative,facility
 "Khuôn viên đẹp, rộng rãi và thoáng mát.",neutral,facility
 Thầy/cô giảng dạy có kỹ năng mềm tốt.,neutral,lecturer
@@ -4385,10 +4220,8 @@ Cô ấy có tài năng đặc biệt và luôn chia sẻ niềm đam mê của 
 Tôi cảm thấy giảng viên của mình không cập nhật được nhiều những kiến thức mới nhất trong lĩnh vực môn học.,neutral,lecturer
 . Thầy/cô luôn sẵn sàng giải đáp thắc mắc và tin tưởng vào khả năng của sinh viên,neutral,lecturer
 Tôi hoàn toàn không thích cô ta với thái độ chỉ biết thị phi và vu khống người khác.,negative,others
-The facilities provided by the university are impressive.,neutral,facility
 Tôi được tiếp cận với các dự án thực tế và thú vị trong quá trình học tập.,positive,curriculum
 Tôi thật sự ấn tượng về nhà máy hiện đại của trường.,positive,facility
-The university's auditorium facility is impressive.,neutral,facility
 "Hệ thống phòng học được vệ sinh định kỳ, giúp các sinh viên cảm thấy thoải mái và sớm đạt hiệu quả tối đa trong học tập.",positive,facility
 Giảng viên luôn tạo điều kiện thuận lợi để sinh viên học tập tốt hơn.,neutral,lecturer
 Cô bạn cực kỳ thông minh và trung thành với bạn bè của mình.,positive,others
@@ -4418,7 +4251,6 @@ Các buổi hội thảo và tọa đàm thường được tổ chức để gi
 Chương trình đào tạo rất phù hợp với ngành mà tôi đang học.,neutral,curriculum
 Em ấy là người thành công và tự hào về những gì đã đạt được.,positive,others
 Cô ấy chỉ thích nói chuyện và không muốn đóng góp ý kiến vào dự án của nhóm.,negative,others
-The university's facilities are adequate for students' needs.,neutral,facility
 Cô bạn học của tôi luôn tôn trọng người khác và luôn đặt mối quan hệ với người khác lên hàng đầu.,positive,others
 Các hoạt động nghiên cứu khoa học trong chương trình đào tạo hơi ít và có thể cần được khuyến khích nhiều hơn,neutral,curriculum
 "Giảng viên rất nhiệt tình và giỏi chuyên môn, tôi học rất nhiều kiến thức mới",positive,curriculum
@@ -4428,7 +4260,6 @@ Giảng viên này đưa ra những câu hỏi thú vị và khó nhằn để �
 Bạn cùng đội bóng của tôi là một người rất chăm chỉ và nhiệt huyết.,positive,others
 Giảng viên này thực sự là người rất khó chịu và không thân thiện,negative,lecturer
 Chương trình đào tạo Khoa học dữ liệu đưa tôi đến một kỹ năng mới và là cơ hội cho tôi phát triển trong ngành này.,positive,curriculum
-The facilities are always clean and well-maintained.,neutral,facility
 Tôi rất quan tâm đến việc được học tại một trường có uy tín và được công nhận trên toàn cầu.,positive,curriculum
 Các phòng thí nghiệm và phòng máy tính trong trường rất tiện lợi và được trang bị đầy đủ thiết bị.,neutral,facility
 Cô giáo là một người đầy tâm huyết với công việc dạy học.,neutral,others
@@ -4446,11 +4277,9 @@ Học tập tại đại học này giúp tôi có cơ hội trải nghiệm h�
 Chị ấy là người có tinh thần đồng đội tốt.,neutral,others
 Anh ta có khả năng giải thích một cách dễ hiểu cho người khác.,neutral,others
 Cô ấy có khả năng tìm ra những giá trị chung và xây dựng mối quan hệ tốt với người khác.,neutral,others
-The courses are well-resourced with necessary materials.,neutral,curriculum
 Thầy có khả năng lắng nghe và giúp đỡ sinh viên khi cần.,positive,lecturer
 Cần thiết cho các khóa học,neutral,facility
 Em nghĩ bạn của mình là người cầu tiến và muốn học hỏi nhiều hơn.,neutral,others
-"The curriculum is diverse and inclusive, embracing different cultures and backgrounds.",neutral,curriculum
 "Giảng viên này chỉ giỏi việc mà thôi, nhưng không thể truyền đạt cho sinh viên.",negative,lecturer
 Thiếu sự liên kết giữa các chương trình học và sự nghiệp sau này.,negative,curriculum
 Tôi thấy chương trình đào tạo rất tỉ mỉ và chất lượng.,positive,curriculum
@@ -4489,7 +4318,6 @@ Tôi đã không có được một môi trường học tập tích cực do ti
 Các phòng thí nghiệm được trang bị tiện ích cho các sinh viên học các ngành khoa học.,positive,facility
 Anh ta luôn cố gắng ép buộc người khác để làm theo ý mình.,negative,others
 Giảng viên này luôn có thái độ dè bỉu.,negative,lecturer
-The curriculum provides a strong foundation for future success.,neutral,curriculum
 Thầy rất hài hước và tạo tiếng cười cho lớp.,positive,lecturer
 Cô ấy đã dùng ngôn ngữ không phù hợp trong lớp học nhiều lần.,negative,others
 Giảng viên rất bình tĩnh và cái khái niệm hoài bão của chúng tôi được đưa ra một cách rõ ràng.,positive,lecturer
@@ -4507,11 +4335,9 @@ Thầy/cô là người rất có tâm huyết với nghề giảng dạy.,posit
 Thầy mang đến những thứ mới mẻ và lôi cuốn trong giảng dạy.,positive,lecturer
 Có những môn học cần cải tiến về nội dung và phương pháp giảng dạy.,neutral,curriculum
 Cô ấy thường xuyên phát hiện ra những sai lầm của người khác.,negative,others
-The courses are taught by knowledgeable professors.,neutral,curriculum
 Khóa học thiếu kinh nghiệm thực tiễn.,negative,curriculum
 Thầy là một người dạy rất giỏi và rất nhiệt tình.,positive,lecturer
 Thiếu khu vực ăn uống.,negative,facility
-The university's counseling and mental health facilities are helpful and accommodating.,neutral,facility
 Cô ta rất ích kỷ chịu đóng góp vào nhóm.,negative,others
 Cô ấy là người không biết ơn những gì mọi người đã làm cho cô.,negative,others
 Thầy rất dễ gần và cho học sinh cảm thấy an toàn trong việc học tập.,positive,lecturer
@@ -4528,9 +4354,7 @@ Giới hạn về tài nguyên và cơ sở vật chất.,negative,curriculum
 Chương trình đào tạo này mang tính chất thực tiễn cao và rất phù hợp với ngành học của tôi.,positive,curriculum
 Các phòng học được bố trí theo kiểu cấu trúc mở giúp sinh viên tập trung học tập tốt hơn.,positive,facility
 Trường không đảm bảo an toàn về vệ sinh thực phẩm cho sinh viên.,negative,facility
-The course syllabus is clear and easy to follow.,neutral,curriculum
 Cô ấy rất thông cảm và quan tâm đến mọi người xung quanh.,positive,others
-The curriculum incorporates the latest research and developments in the field.,neutral,curriculum
 Tôi không muốn lớp học đóng băng vì sự sơ suất của cậu ta.,negative,others
 "Các phòng học của trường được trang bị máy lạnh tiện lợi, giúp sinh viên không lo về ánh nắng nóng.",positive,facility
 Chương trình đào tạo không đáp ứng với nhu cầu của sinh viên.,negative,curriculum
@@ -4552,16 +4376,12 @@ Tôi cảm thấy giảng viên không có sự chuẩn bị cho giờ học.,ne
 "Trường có nhiều khu vực để sinh viên thư giãn, nghỉ ngơi sau giờ học.",neutral,facility
 Cậu ấy có tài năng về nghệ thuật và luôn truyền cảm hứng cho tất cả mọi người với tinh thần sáng tạo và nghệ thuật.,positive,others
 Không đáp ứng được tiêu chuẩn của ngành công nghiệp.,negative,curriculum
-The campus has sufficient facilities that students can utilize.,neutral,facility
-The university provides resources for athletic training.,neutral,facility
 Anh bạn chuyên tâm và học tập rất chăm chỉ.,neutral,others
 Bạn ấy là người rất tốt bụng và hòa đồng.,neutral,others
-I like how the curriculum encourages students to explore different areas of study.,neutral,curriculum
 Trang thiết bị trong khu thể thao của trường không đủ cho sinh viên.,negative,facility
 "Giảng viên rất nhiệt tình, luôn sẵn sàng giải đáp mọi thắc mắc của tôi.",positive,curriculum
 . Thầy/cô luôn giữ liên lạc với sinh viên để cập nhật thông tin mới nhất.,neutral,lecturer
 Trường cung cấp các phương tiện hỗ trợ sinh viên về nhu cầu sinh hoạt và học tập.,neutral,facility
-"The campus has excellent waste management practices, ensuring a safe and clean environment for all.",neutral,facility
 Anh ấy giỏi tiếng Anh lắm đó.,neutral,others
 Giảng viên rất giỏi trong việc gợi mở các câu hỏi để khơi gợi tư duy và sự phân tích của sinh viên.,positive,lecturer
 Rất nhiều clb và hoạt động ngoại khóa được tổ chức để tăng cường kỹ năng và sự phát triển của sinh viên.,positive,facility
@@ -4572,12 +4392,10 @@ Các chương trình học khác không được cấp phép bởi các tổ ch�
 Anh bạn tôi rất thông minh và có tư duy sáng tạo.,positive,others
 Cô bạn này có khả năng phân tích và đưa ra giải pháp chính xác.,positive,others
 Chương trình học không có nhiều khả năng phát triển kỹ năng mềm.,negative,curriculum
-I feel like the curriculum is designed to meet the needs of the modern workforce.,neutral,curriculum
 Cô ấy hay lắm chiêu và không có chính trực trong hành động.,negative,others
 Thầy/cô đã đưa ra những câu hỏi khó để khơi dậy sự tò mò của sinh viên.,neutral,lecturer
 Giảng viên là một người hướng dẫn giỏi.,neutral,lecturer
 Giảng viên của tôi quá khó tính khi đối mặt với học sinh.,negative,lecturer
-The courses provide ample opportunities for networking and professional development.,neutral,curriculum
 Em thấy cô là một người rất tự tin và có tinh thần đội nhóm tốt.,positive,others
 . Giảng viên cài đặt những bài tập hay và thử thách để giúp tăng khả năng giải quyết vấn đề của sinh viên,neutral,lecturer
 Thầy đánh giá sinh viên bằng cách công bằng và mang tính xây dựng.,neutral,lecturer
@@ -4593,7 +4411,6 @@ Mấy bạn đó rất kén chọn người để làm việc cùng.,negative,ot
 Không có sự đổi mới trong việc đầu tư cơ sở vật chất.,negative,facility
 Khó khăn trong việc tiếp cận các phương tiện hỗ trợ học tập hữu ích.,negative,curriculum
 Anh/chị là một người đồng nghiệp xuất sắc.,positive,others
-The university has a research center for students and faculty.,neutral,facility
 Giáo trình rất hiệu quả trong việc giúp các em cải thiện kỹ năng giao tiếp và lãnh đạo.,positive,curriculum
 Cô bạn này là một người thân thiện nhưng cũng rất chuyên nghiệp.,neutral,others
 Cửa hàng tiện lợi của trường cung cấp đầy đủ các dịch vụ và hàng hóa cần thiết.,neutral,facility
@@ -4637,7 +4454,6 @@ Học sinh được tạo điều kiện để thể hiện khả năng sáng t�
 Khóa học này rất khó để đạt được điểm cao.,negative,curriculum
 Chương trình giáo dục nâng cao được chất lượng dựa trên các tiêu chuẩn quốc tế cao nhất.,positive,curriculum
 Giảng viên không đáp ứng được sự cần thiết trong việc giảng dạy.,negative,curriculum
-The curriculum fosters a strong sense of community among students and faculty.,neutral,curriculum
 Cô ấy là người có khả năng làm việc với mọi người một cách hiệu quả và hài hòa.,neutral,others
 Thầy/cô xử lý vấn đề và phản hồi thông tin của sinh viên rất nhanh chóng.,positive,lecturer
 "Trường có cung cấp các dịch vụ ăn uống tiện lợi, ngon miệng và giá cả phải chăng.",positive,facility
@@ -4653,7 +4469,6 @@ Giảng viên rất thông minh và có tầm nhìn rộng lớn.,neutral,lectur
 Cô ấy luôn là cám dỗ của nhóm và không ổn định trong việc giữ trật tự.,negative,others
 Em/Cô là người luôn đồng hành và hỗ trợ tôi trong hành trình học tập.,positive,others
 "Tôi cảm thấy rất vui mừng khi sử dụng các phòng học và các tiện nghi tại trường, có cảm giác như đang ở trong một khách sạn sang trọng.",positive,facility
-"The campus is clean and tidy, which makes for a pleasant environment.",neutral,facility
 Tôi cảm thấy chương trình học đã giúp tôi hiểu rõ hơn về lĩnh vực mình đang quan tâm.,neutral,curriculum
 Giảng viên luôn hướng dẫn học sinh tìm tòi và khám phá thế giới bên ngoài.,positive,lecturer
 Giảng viên này không có sự cân đối trong mức độ khó và dễ của bài.,negative,lecturer
@@ -4700,15 +4515,12 @@ Không đủ thời gian để học tập.,negative,curriculum
 Thầy giảng dạy rất hợp tác và tôn trọng ý kiến của sinh viên.,neutral,lecturer
 Thầy rất thông minh và có kinh nghiệm rất phong phú trong giảng dạy.,positive,lecturer
 Cô bạn này chỉ nghĩ về chuyện của mình và không bao giờ quan tâm đến người khác.,negative,others
-The student support services are helpful and provide guidance when needed.,neutral,facility
-The curriculum fosters critical thinking skills.,neutral,curriculum
 "Giảng viên này tạo ra một môi trường học tập tuyệt vời cho học sinh, giúp cho các sinh viên hiểu bài học tự nhiên và dễ dàng hơn.",positive,lecturer
 Thầy rất tỉ mỉ và chi tiết trong việc giảng dạy.,positive,lecturer
 Thầy tạo ra một môi trường học tập năng động và tích cực.,positive,lecturer
 Thầy giúp sinh viên nâng cao kỹ năng ngoại ngữ và xây dựng bản thân.,positive,lecturer
 Anh ấy là một người rất lý tưởng và có tầm nhìn xa.,neutral,others
 Các phòng học được cài đặt hệ thống âm thanh và khiếu nại giúp sinh viên dễ dàng giao tiếp với giáo viên.,positive,facility
-The courses provide relevant case studies.,neutral,curriculum
 Chị ấy có kỹ năng giao tiếp tốt và trang trải mối quan hệ mạng lưới xã hội.,neutral,others
 Họ là một người rất có tài năng và năng lực.,neutral,others
 Anh ta nhìn thường tôi chỉ vì tôi không giỏi như anh ấy.,negative,others
@@ -4726,7 +4538,6 @@ Biên soạn giáo trình tệ.,negative,curriculum
 Họ rất quan tâm đến những người khác và hoàn toàn có thể dựa vào họ khi cần sự giúp đỡ.,neutral,others
 Em rất thích cách giáo trình dạy các em cách nghiên cứu và xử lý thông tin.,positive,curriculum
 Chị ấy luôn đáng tin cậy và đảm bảo tính phân chia công việc công bằng cho mọi người trong nhóm.,positive,others
-I like how the curriculum supports cross-cultural learning and understanding.,neutral,curriculum
 Đào tạo và hỗ trợ đúng thời gian,neutral,facility
 "Môn học giúp tôi hiểu thêm về cuộc sống, về con người và về môi trường.",positive,curriculum
 Học phần không liên quan đến chuyên môn của sinh viên.,negative,curriculum
@@ -4753,7 +4564,6 @@ Tôi vô cùng khâm phục bạn của tôi với tinh thần học tập và �
 Giảng viên của tôi luôn đưa ra phản hồi và nhận xét xây dựng để giúp sinh viên cải thiện điểm yếu.,positive,lecturer
 Giảng viên hướng dẫn sinh viên cách tiếp cận và giải quyết các vấn đề khó khăn.,neutral,lecturer
 "Không có sự hợp tác và tương tác giữa các môn học, dẫn đến sinh viên không thể kết nối kiến thức.",negative,curriculum
-The facilities offered by the university are practical and multifaceted.,neutral,facility
 Thầy không đồng cảm với những khó khăn mà sinh viên gặp phải.,negative,lecturer
 Cô ấy thường không tôn trọng người khác và hay qua mặt họ.,negative,others
 "Với thầy/cô, học tập không chỉ là cung cấp kiến thức mà còn là luyện tập và phát triển kỹ năng.",positive,lecturer
@@ -4774,11 +4584,9 @@ Sinh viên cảm thấy nhàm chán vì luôn được dạy những điều cũ
 Cậu ấy có tính cách lạc quan và tràn đầy năng lượng.,neutral,others
 Tôi cảm thấy may mắn và hạnh phúc khi được học tại trường này.,positive,curriculum
 Trường có nhiều phòng thực hành hiện đại và tiện nghi.,positive,curriculum
-I appreciate the availability and accessibility of resources and support within the curriculum.,neutral,curriculum
 Chương trình học không phù hợp với các học viên và giảng viên nước ngoài.,negative,curriculum
 Thầy rất tận tâm và có tâm huyết với môn học này.,positive,lecturer
 Tài năng của anh/chị quả không thể bỏ qua.,positive,others
-"The campus provides ample shaded areas, making it comfortable for students to relax and unwind.",neutral,facility
 Thầy khuyến khích học sinh vượt qua những thách thức đối với bản thân.,positive,lecturer
 Tôi rất thích tham gia các buổi thảo luận và các hoạt động giáo dục khác của trường.,positive,facility
 Chương trình học thiếu sự linh hoạt trong việc định hướng nghề nghiệp.,negative,curriculum
@@ -4786,7 +4594,6 @@ Chương trình học thiếu sự linh hoạt trong việc định hướng ngh
 "Nàng rất đáng yêu và tối giản, chúc cho nàng luôn thành công trong cuộc sống và học tập.",positive,others
 Hệ thống điện không ổn định.,negative,facility
 Giáo trình không phù hợp với các tiêu chuẩn nhà nước.,negative,curriculum
-The university's printing and copying facilities are helpful.,neutral,facility
 Cô ấy thường hay chê bai người khác một cách không cần thiết.,negative,others
 "Các phòng họp có khả năng đáp ứng nhu cầu của các hội nghị, hội thảo.",neutral,facility
 Giảng viên này quá khó tính và đòi hỏi quá nhiều cao.,negative,lecturer
@@ -4880,7 +4687,6 @@ Giảng viên kết hợp các hoạt động nhóm để giúp sinh viên trở
 Quy trình đăng ký học tập của trường quá rườm ra và khó khăn.,negative,facility
 "Điều hòa của trường này không đủ lạnh, chất lượng kém.",negative,facility
 Cậu ấy đóng góp ý kiến đa dạng và phản biện trong các cuộc họp nhóm.,neutral,others
-I am impressed by the quality of instructional materials used in the curriculum.,neutral,curriculum
 Không có động lực hoặc cơ hội được khuyến khích cho sinh viên.,negative,curriculum
 Khóa học trả tiền nhưng không có lợi ích.,negative,curriculum
 Nhà vệ sinh không được vệ sinh sạch sẽ.,negative,facility
@@ -4927,7 +4733,6 @@ Bạn của tôi luôn tận tâm và sẵn sàng giúp đỡ người khác tro
 Nhà đại học này không chăm sóc tốt cơ sở hạ tầng.,negative,facility
 Một số bạn trong nhóm không đóng góp gì nhiều vào dự án cộng đồng.,negative,others
 Thầy quan tâm đến việc phát triển cá nhân của sinh viên.,positive,lecturer
-The campus has a well-stocked art studio for creative students.,neutral,facility
 "Các dịch vụ tiện ích của trường cạn kiệt, không đáp ứng được nhu cầu sinh viên.",negative,facility
 Các môn học ở trường này được định hướng rất hiện đại và phù hợp với thời đại.,positive,facility
 . Thầy/cô thường xuyên cung cấp phản hồi để giúp sinh viên cải thiện học tập hơn,neutral,lecturer
@@ -4977,13 +4782,11 @@ Giáo trình cũ và không cập nhật.,negative,curriculum
 Giờ học của thầy luôn có tính khoa học cao và tư duy logic sẽ được phát triển.,positive,lecturer
 Người kia thường bị đánh giá thấp vì không có khả năng thuyết trình tốt,negative,others
 "Bạn của tôi rất trách nhiệm và tận tâm trong mọi công việc của mình, luôn có kết quả tốt nhất.",positive,others
-The curriculum is constantly updated to reflect current trends and developments in the field.,neutral,curriculum
 "Thầy dạy một cách khó chịu, khiến sinh viên có cảm giác khó chịu và căng thẳng.",negative,lecturer
 Trường có môi trường giáo dục tiên tiến và giúp sinh viên đạt được một tương lai tốt đẹp.,neutral,facility
 Học tập tại đây giúp tôi trở thành người tự tin hơn.,positive,curriculum
 Chương trình học tập trung vào các kỹ năng cần thiết cho công việc trong thực tế,positive,curriculum
 Giảng viên rất hỗ trợ và dễ tiếp cận.,neutral,curriculum
-I appreciate that the curriculum is flexible and can be customized to fit each student's needs.,neutral,curriculum
 Phòng học quá đông đúc và thiếu không gian.,negative,facility
 Tôi không thích cách hành xử của anh ta với đồng nghiệp của mình.,negative,others
 Các khu vực nhân viên trường giao tiếp thân thiện và hỗ trợ tốt cho sinh viên.,neutral,facility
@@ -5032,7 +4835,6 @@ Cô bạn này rất chân thành và tàn tâm.,neutral,others
 Tôi cảm thấy học tập tại đại học này đáp ứng hoàn toàn những mong đợi về một môi trường học tập chất lượng.,positive,curriculum
 Học tập tại đại học này giúp tôi phát triển kỹ năng đọc hiểu và viết có chất lượng.,positive,curriculum
 Thầy/cô luôn đồng hành và hỗ trợ sinh viên đến tận cùng con đường học tập.,positive,lecturer
-I feel that the curriculum is challenging but still manageable.,neutral,curriculum
 Cô ấy có sự khéo léo trong việc xử lý các vấn đề phát sinh.,neutral,others
 "Điều chỉnh chương trình học quá chậm, không đáp ứng được yêu cầu của nền kinh tế.",negative,curriculum
 Thầy là một người thân thiện và tâm lý hiểu những áp lực của sinh viên.,positive,lecturer
@@ -5044,7 +4846,6 @@ Các giảng viên cố gắng giải thích một cách rõ ràng và dễ hi�
 "Giáo viên không đến dạy do lý do cá nhân, và không thay thế bằng giảng viên khác.",negative,lecturer
 Thầy đưa ra những ví dụ rõ ràng và thực tế để giải thích các khái niệm.,neutral,lecturer
 Phòng học làm việc là nơi tuyệt vời để học tập và chăm sóc sức khỏe tinh thần của bạn.,positive,facility
-I appreciate the opportunity to engage in interdisciplinary studies within the curriculum.,neutral,curriculum
 Anh ta thường xuyên làm gián đoạn lớp học vì đang chơi điện thoại hoặc đang lướt web.,negative,others
 Thầy giáo của tôi rất nhiệt tình và có khả năng truyền cảm hứng cho học sinh.,positive,others
 "Trường có các chương trình ngoại khóa giải trí hấp dẫn, giúp sinh viên có thể thư giãn sau những giờ học căng thẳng.",positive,facility
@@ -5077,7 +4878,6 @@ Cô ấy là một người giỏi tiếng Anh và có khả năng giao tiếp q
 Thầy luôn tạo ra một không khí học tập tích cực và đầy năng lượng trong lớp học.,positive,lecturer
 "Anh/chị là người thân thiện, luôn sẵn sàng đón nhận và giúp đỡ mọi người.",positive,others
 Đây là trường đại học có cơ sở vật chất đầy đủ và hiện đại nhất mà tôi từng học.,positive,facility
-The bike racks throughout campus encourage students to ride a bike.,neutral,facility
 Giáo viên tận tâm và giải đáp tất cả các thắc mắc của sinh viên.,neutral,curriculum
 Giảng viên này giảng dễ hiểu và chu đáo.,neutral,lecturer
 "Wi-Fi của trường rất mạnh và ổn định, giúp tôi tiện lợi trong việc học tập.",positive,facility
@@ -5099,7 +4899,6 @@ Hệ thống đánh giá và chấm điểm chính xác và minh bạch.,neutral
 Chương trình học của trường giúp sinh viên phát triển các kỹ năng mềm và kinh nghiệm thực tế.,positive,curriculum
 Giảng viên tận tình giúp đỡ và hỗ trợ với những thắc mắc mà sinh viên gặp phải.,positive,lecturer
 Tôi cảm thấy rất hạnh phúc và thoải mái khi sử dụng các tiện nghi tại trường.,positive,facility
-I am grateful for the technology available in the computer labs.,neutral,facility
 Tôi rất hài lòng với thiết kế chương trình đặc biệt cho sinh viên quốc tế.,positive,curriculum
 "Nếu tôi có một vấn đề gì với các thiết bị giáo dục, đội ngũ giáo viên thường xuyên được hỗ trợ để giải quyết.",neutral,facility
 Thầy giảng dạy rất chuyên nghiệp và có phương pháp giảng dạy khoa học và hiệu quả.,neutral,lecturer
@@ -5111,8 +4910,6 @@ Cô bạn đồng học này được trân trọng vì tính cách lạc quan v
 Thầy không đánh giá đúng tình trạng nộp bài của học sinh,negative,lecturer
 Giáo viên không đánh giá quá trình của sinh viên cho đến khi kết thúc khóa học.,negative,curriculum
 Được hỗ trợ học tập bằng những phương pháp đa dạng.,positive,curriculum
-I feel like the curriculum provides a strong foundation for personal and professional success.,neutral,curriculum
-"The campus has a good network of alumni, who support current students in their career and academic pursuits.",neutral,facility
 Anh ấy là người luôn đặt lòng yêu nghề.,neutral,others
 Buồng nghỉ cho học sinh ở trường quá nhỏ và đáng tiếc là chẳng có không gian xanh hoặc trang trí gì đó để tạo ra môi trường sinh động.,negative,facility
 Thiếu sự chú ý của ban quản lý đối với cơ sở vật chất.,negative,facility
@@ -5129,13 +4926,11 @@ Chương trình quá nhiều tín chỉ và đòi hỏi quá cao.,negative,curri
 Tôi không thể tin tưởng những người bạn của tôi khi cần thiết.,negative,others
 Bạn đó thích định kiến và không chấp nhận sự khác biệt.,negative,others
 Thầy/cô luôn sẵn sàng trả lời câu hỏi của các bạn sinh viên và giúp đỡ trong việc học tập và nghiên cứu.,positive,lecturer
-The university's facilities are top-notch.,neutral,facility
 "Trường này không cung cấp đủ tiện ích thể thao cho học sinh, khiến cho họ không có nơi nào để rèn luyện sức khỏe.",negative,facility
 Chương trình học có tính ứng dụng thực tế cao.,neutral,curriculum
 Cô ta luôn chỉ nghĩ đến việc lợi dụng người khác.,negative,others
 Nàng là một người rất chân thành và luôn giúp đỡ mọi người trong nhóm.,neutral,others
 Không có sự đồng bộ giữa các trình độ học thuật.,negative,curriculum
-The facilities offered by the university are well-suited to our needs.,neutral,facility
 "Khu vực tiếp khách của trường được thiết kế đẹp và chuyên nghiệp, thể hiện được vẻ đẹp của trường.",positive,facility
 "Giáo trình đưa ra các chủ đề học thuật liên quan đến vấn đề xã hội, giúp tôi hiểu rõ hơn về bối cảnh của ngành nghề.",neutral,curriculum
 Anh bạn là người luôn đưa ra những giải pháp tốt nhất cho vấn đề của nhóm.,positive,others
@@ -5154,7 +4949,6 @@ Họ rất tổ chức và có kỹ năng quản lí thời gian tốt.,neutral,
 Người kia liên tục đóng cửa sổ mà không hỏi mình có phiền không,negative,others
 Thầy cô giảng bài có tầm nhìn rất rõ ràng và đầy nhân văn.,neutral,lecturer
 "Nhân viên hướng dẫn và tư vấn chưa tốt, không đảm bảo nhu cầu của sinh viên.",negative,facility
-The university's conference and meeting facilities are helpful.,neutral,facility
 Thầy có khả năng chỉ đạo một cách tận tâm và chi tiết đến từng chi tiết nhỏ.,positive,lecturer
 Nội dung học quá dài và không cần thiết.,negative,curriculum
 Nổi bật trong chương trình học là những hoạt động phát triển kỹ năng mềm cho sinh viên.,neutral,curriculum
@@ -5196,7 +4990,6 @@ Thầy thông cảm và nói chuyện dễ chịu với sinh viên.,positive,lec
 Được học tập tại đây là một trải nghiệm tập trung vào sinh viên và đừng để bỏ lỡ cơ hội này.,positive,facility
 Giáo trình cung cấp cho các em kinh nghiệm thực tế và hữu ích.,positive,curriculum
 Tôi rất hài lòng với chương trình đào tạo và sẽ giới thiệu nó cho bạn bè của mình.,positive,curriculum
-The curriculum is quite balanced in terms of workload and difficulty level.,neutral,curriculum
 Ông không thể đưa ra những vấn đề quan trọng để học sinh hiểu.,negative,lecturer
 Thầy rất tận tâm với công việc giảng dạy của mình.,neutral,lecturer
 Cô ấy thường xuyên đòi hỏi quá nhiều và lại còn không biết cách cảm thông.,negative,others
@@ -5234,7 +5027,6 @@ Sinh viên gặp khó khăn trong việc truy cập và sử dụng các vật d
 "Hắn ta hay tìm cách để báo thù khi bị xúc phạm, tạo ra nhiều mâu thuẫn.",negative,others
 Trường tôi có các cơ sở vật chất rất tiện nghi cho sinh viên học tập.,neutral,facility
 Cô ấy là người có kỹ năng nghệ thuật đặc biệt và luôn chia sẻ tác phẩm của mình với mọi người.,positive,others
-I appreciate that the curriculum recognizes the importance of diversity and inclusivity.,neutral,curriculum
 "Giảng viên này không làm cho sinh viên cảm thấy hạnh phúc khi học tập, họ làm cho sinh viên lo lắng và stress.",negative,lecturer
 Cần tạo ra sự đa dạng trong chương trình đào tạo để sinh viên có thể lựa chọn các môn học theo sở thích,neutral,curriculum
 Thiếu sự lắng nghe và tôn trọng ý kiến của sinh viên.,negative,curriculum
@@ -5277,7 +5069,6 @@ Anh ấy rất hoạt bát và nhiệt tình trong các hoạt động của l�
 Thiếu dịch vụ bảo trì và sửa chữa.,negative,facility
 Chương trình đào tạo thiếu sự chuyên sâu và phát triển học thuật.,negative,curriculum
 Sinh viên được đào tạo về trách nhiệm đối với cộng đồng và xã hội.,positive,curriculum
-The curriculum fosters a sense of community and belonging among students.,neutral,curriculum
 Tôi thực sự cảm thấy mình đang trải nghiệm cuộc sống và học tập tại một trường đại học tốt nhất trên thế giới.,positive,facility
 Cô ấy có tài chăm sóc người khác và luôn tận tâm với công việc.,neutral,others
 Tôi cảm thấy cơ sở vật chất của đại học khá tốt.,neutral,facility
@@ -5317,14 +5108,12 @@ Cơ sở vật chất tốt giúp tôi học tập và nghiên cứu hiệu qu�
 Trường có nhiều khu vực để sinh viên thư giãn trong giờ nghỉ.,positive,facility
 Thời gian sửa chữa cơ sở vật chất và các thiết bị quá lâu.,negative,facility
 "Lớp học được tổ chức tốt, giảng viên sắp xếp thời gian hợp lý giữa lý thuyết và thực hành.",neutral,lecturer
-The campus-wide recycling program promotes sustainability.,neutral,facility
 Cô ấy giỏi tiếng Anh hơn rất nhiều người trong lớp.,positive,others
 Học sinh này có tinh thần chủ động.,neutral,others
 Hệ thống máy lạnh và phòng máy của trường cấp độ cao giúp sinh viên học tập tập trung hơn.,neutral,facility
 "Hệ thống máy chiếu và âm thanh tại các phòng học rất tốt, giúp cho giảng viên và sinh viên có thể tương tác và trao đổi thông tin một cách hiệu quả nhất.",positive,facility
 Khuôn viên của trường còn khá nhỏ so với nhu cầu học tập của sinh viên.,neutral,facility
 Đồng nghiệp của tôi là một người có trách nhiệm cao và luôn hoàn thành công việc đúng giờ.,positive,others
-The university has a variety of dining options on campus.,neutral,facility
 Học phần quá lý thuyết và thiếu thực hành.,negative,curriculum
 Thầy rất nhiệt tình và ham học hỏi.,positive,lecturer
 Các giảng đường tại đây có đầy đủ tiện nghi và phù hợp với các hoạt động học tập của sinh viên.,positive,facility
@@ -5475,7 +5264,6 @@ Tôi không muốn thấy cô ta nữa.,negative,others
 "Giải thích chưa đầy đủ về ý nghĩa, tầm quan trọng và mục đích của nội dung học tập.",negative,curriculum
 Giảng viên có thái độ tốt và luôn lắng nghe ý kiến của sinh viên.,neutral,lecturer
 Thầy/Cô là người thật tâm huyết và nhiệt tình giúp đỡ học sinh trong quá trình học tập.,positive,others
-The course materials are up-to-date and relevant.,neutral,curriculum
 Chương trình đào tạo cần cập nhật để thích nghi với môi trường công nghệ cao,neutral,curriculum
 Giảng viên này làm tôi cảm thấy mệt mỏi và nhàm chán.,negative,lecturer
 Chương trình học được thiết kế trực quan và dễ hiểu.,neutral,curriculum
@@ -5502,7 +5290,6 @@ Môn học khá khó và đòi hỏi cả sự cố gắng và kiên trì của 
 Cô bạn này rất thông minh và đáng ngưỡng mộ.,neutral,others
 "Giảng viên này giống như một con quỷ trong lớp học của họ, không tôn trọng và không quan tâm đến sinh viên.",negative,lecturer
 Giảng viên rất nghiệp vụ và từng bước giúp sinh viên cải thiện kết quả học tập của mình.,neutral,lecturer
-I am impressed by the commitment to environmental sustainability within the curriculum.,neutral,curriculum
 Anh ta luôn thấy mình đúng và không thể chấp nhận ý kiến ​​khác.,negative,others
 Khu vực đi bộ quanh trường rất đẹp và có nhiều khu vườn xanh ở gần.,positive,facility
 Anh bạn tôi rất giỏi thuyết phục và có khả năng lãnh đạo.,positive,others
@@ -5532,7 +5319,6 @@ Phương pháp dạy hơi lạc hậu của giảng viên này.,negative,lecture
 Trường không có chỗ để giữ đồ cá nhân cho các sinh viên trong một thời gian dài.,negative,facility
 Thầy giúp học sinh phát triển khả năng phân tích và giải quyết vấn đề.,positive,lecturer
 Khuôn viên của trường được sắp xếp ngăn nắp và trang trí đẹp mắt.,positive,facility
-The campus offers good facilities that are useful for students.,neutral,facility
 Khu vực giữ xe rộng rãi và an toàn.,positive,facility
 Tôi thấy học sinh này khá năng động và có nhiều tham vọng.,neutral,others
 Chương trình đào tạo rất phù hợp với nhu cầu thị trường lao động.,neutral,curriculum
@@ -5553,7 +5339,6 @@ Anh ta luôn phàn nàn và không bao giờ hài lòng với bất cứ điều
 Giảng viên này không thể giải đáp được câu hỏi của sinh viên.,negative,lecturer
 "Đánh giá không công bằng, chi tiết.",negative,curriculum
 Giảng viên rất nhiệt tình giải đáp những thắc mắc của sinh viên.,positive,lecturer
-"The university consistently reviews and improves its facilities, ensuring that students' needs are met.",neutral,facility
 "Chương trình học quá nhàm chán, không có sự động lực để học tập.",negative,curriculum
 Thầy được tín nhiệm và tôn trọng bởi sinh viên.,neutral,lecturer
 "Thiếu sự khuyến khích cho sinh viên học tập nhiều hơn, ứng dụng kiến thức để phát triển bản thân.",negative,curriculum
@@ -5577,14 +5362,12 @@ Tôi không thể chịu đựng được cô ấy – một nữ sinh vào lo�
 Các văn phòng đa chức năng và tiện nghi,neutral,facility
 Tôi rất thích các phòng đọc sách ở thư viện của trường.,positive,facility
 Đánh giá của giảng viên về bài làm của tôi không công bằng.,negative,lecturer
-The curriculum provides ample opportunities for research and independent study.,neutral,curriculum
 Trình bày của giảng viên này rất rối rắm.,negative,lecturer
 Giảng viên này giảng dạy bằng cách cho học sinh học và trải nghiệm trực tiếp.,neutral,lecturer
 "Đề thi quá khó, không thể kiểm tra được kiến thức của sinh viên.",negative,curriculum
 Cậu ấy đóng góp ý kiến và suy nghĩ rất có giá trị.,neutral,others
 Anh ta hay lấy nỗi sợ hãi của người khác để làm cho họ bị ảnh hưởng.,negative,others
 Tôi không thể tin rằng cậu ta đã làm điều đó.,negative,others
-The curriculum is adaptive and responsive to changing societal needs and trends.,neutral,curriculum
 "Các trang thiết bị trong phòng thực hành khoa học máy tính của trường rất đầy đủ và chuyên nghiệp, giúp tôi thực hành và nghiên cứu chuyên môn tốt hơn.",positive,facility
 Giảng viên cần tập trung vào nội dung học tập hơn là những nội dung phụ.,neutral,lecturer
 Anh ấy có sức khỏe tốt và có tinh thần làm việc đầy năng lượng.,neutral,others
@@ -5629,7 +5412,6 @@ Rất vui khi được học cùng anh/chị và trau dồi kiến thức mới.
 Giảng viên này không đưa ra nhiều phản hồi và chỉ ra khuyết điểm của học sinh.,neutral,lecturer
 Bạn của tôi rất lạc quan và tươi vui.,neutral,others
 Chương trình học quá khó và không phù hợp với trình độ của tôi.,negative,curriculum
-The curriculum provides a strong foundation for further studies and employment.,neutral,curriculum
 "Lớp học của thầy không có sự giúp đỡ từ các thành viên khác, sinh viên cần phải tự tìm hiểu và học tập một mình.",negative,lecturer
 Các khu vực xanh của trường được giữ vệ sinh và cắt tỉa đều đặn.,neutral,facility
 Môn học được giảng dạy một cách trực quan và sinh động.,neutral,curriculum
@@ -5642,7 +5424,6 @@ Thầy rất quan tâm đến việc rèn luyện kỹ năng và đánh giá th�
 Chương trình đào tạo giúp tôi phát triển kỹ năng làm việc độc lập và làm việc nhóm đồng thời.,neutral,curriculum
 "Các phòng máy tính của trường có máy tính đủ mới, nhanh nhạy giúp sinh viên tiện hơn trong việc tìm hiểu trên mạng.",positive,facility
 Anh ta thường xuyên gây phiền phức cho người khác chỉ để giải tỏa cái tôi của mình.,negative,others
-The university has a volunteer program for giving back to the community.,neutral,facility
 Cậu bạn này là một người rất cởi mở và dễ tiếp cận.,positive,others
 Anh ta lười và không hợp tác trong nhóm làm bài tập.,negative,others
 Tôi rất vui khi được học với các sinh viên khác đến từ nhiều quốc gia khác nhau.,positive,curriculum
@@ -5682,7 +5463,6 @@ Nội dung học không liên quan đến xu hướng công việc hiện nay.,n
 Trường cần phấn đấu để đạt được các chuẩn mực và đội ngũ giáo viên với chuyên môn cao hơn.,negative,facility
 Bài giảng phải được thiết kế sao cho phù hợp với độ tuổi và năng lực của sinh viên,neutral,curriculum
 Trường đại học của tôi có hệ thống giám sát an ninh lõi đường và bảo vệ 24/7.,neutral,facility
-"The university encourages diversity and inclusivity, allowing students from diverse backgrounds to feel welcome.",neutral,facility
 Chương trình học thiếu sự sáng tạo và thực tiễn.,negative,curriculum
 Thấy mấy bạn này luôn cảm thấy mình đúng và không chấp nhận ý kiến của người khác.,negative,others
 Anh ta là một người rất trưởng thành và có tinh thần trách nhiệm cao.,positive,others
@@ -5698,7 +5478,6 @@ Anh bạn rất trí tuệ và luôn cống hiến cho công việc đồng đ�
 Tập trung vào cải thiện kỹ năng mềm của sinh viên.,positive,curriculum
 "Các khuôn viên và phòng học đều được bố trí đèn LED mềm, tạo cảm giác dễ chịu khi học tập.",neutral,facility
 Các cây xanh và công viên tại trường giúp tôi cảm thấy thư giãn và kích thích trí não.,positive,facility
-"The campus has several parking lots, making it easy for students who travel by car to park their vehicles.",neutral,facility
 Tôi cảm thấy chương trình học rất tốt để chuẩn bị cho tương lai nghề nghiệp của tôi.,neutral,curriculum
 Sự kết hợp giữa lý thuyết và thực hành trong chương trình học giúp tôi phát triển kỹ năng sáng tạo và thực hành.,positive,curriculum
 Tôi thấy giảng viên rất hợp tác và dễ dàng tiếp cận.,neutral,lecturer
@@ -5732,17 +5511,14 @@ Chương trình học của trường giúp tôi phát triển kỹ năng quan t
 "Giảng viên luôn sẵn sàng giải đáp mọi thắc mắc của các bạn sinh viên, giúp các bạn hiểu rõ hơn về bài học.",positive,lecturer
 Giáo viên có sự chuẩn bị kỹ lưỡng cho bài giảng.,neutral,curriculum
 Anh ấy luôn đặt mục tiêu và cố gắng để đạt được nó.,neutral,others
-"The classrooms are air-conditioned, making it comfortable to study, especially during hot seasons.",neutral,facility
 Trường này có hệ thống giảng đường rất tuyệt vời và tiện nghi.,positive,facility
 "Tôi rất thích những phòng học chung tại ký túc xá của trường, giúp cho sinh viên có thể làm việc nhóm và giao lưu dễ dàng.",positive,facility
 Tôi cảm thấy bị hạn chế vì không có đủ tài liệu tham khảo trong thư viện.,negative,facility
-The university provides research grants for students.,neutral,facility
 Tạo môi trường học tập tốt nhất bằng cách sử dụng công nghệ mới.,positive,curriculum
 Thầy/Cô là người có kinh nghiệm và kỹ năng giảng dạy tuyệt vời.,positive,others
 Giảng viên này thường sai lệch quan điểm của mình.,negative,lecturer
 Giáo viên giúp sinh viên tạo ra những dự án thực tiễn mang tính chất ứng dụng.,positive,curriculum
 Những môn học không cần thiết với ngành học của mình được đưa vào chương trình.,negative,curriculum
-The curriculum fosters critical thinking and problem-solving skills.,neutral,curriculum
 Nàng có sự suy nghĩ cẩn trọng và đề cao tính chính xác.,neutral,others
 "Cô ấy chỉ làm việc khi được giao nhiệm vụ cụ thể, không bao giờ tự động ý tưởng.",negative,others
 Cậu ấy rất hài hước và làm cho mọi người xung quanh cười thích.,neutral,others
@@ -5751,7 +5527,6 @@ Hệ thống wifi trên toàn trường rất mạnh và ổn định.,positive,
 Các hoạt động văn hóa và CLB bổ sung cho chương trình đào tạo.,neutral,curriculum
 Chương trình học của trường có tính quốc tế và đáp ứng được nhu cầu của nền giáo dục đa quốc gia.,neutral,curriculum
 "Tôi rất cảm kích với không gian xanh và mát mẻ tại đây, giúp tôi cảm thấy rất sảng khoái khi học tập.",positive,facility
-The university provides students with appropriate and necessary facilities.,neutral,facility
 Nhóm của họ không chịu tiếp thu ý kiến của những người khác trong lớp.,negative,others
 "Bạn của tôi rất tử tế và thông minh, với khả năng giải quyết vấn đề rất ấn tượng.",positive,others
 Thầy là một giảng viên xuất sắc với kinh nghiệm dạy học rất phong phú.,positive,lecturer
@@ -5769,7 +5544,6 @@ Sinh viên được tham gia các dự án thực tế.,neutral,curriculum
 "Các phòng học và phòng thực hành đều được sắp xếp và bố trí một cách khoa học và tiện ích, giúp cho sinh viên có thể học tập và thực hành một cách tốt nhất.",positive,facility
 Cô giáo hướng dẫn sinh viên cách giải quyết vấn đề một cách khoa học và tư duy phản biện.,neutral,lecturer
 Có những bạn thích dẫn chứng và nghiên cứu về những vấn đề khác.,neutral,others
-The university has well-equipped classrooms and labs.,neutral,facility
 Đây là một giảng viên rất tận tâm và nhiệt huyết.,neutral,lecturer
 Cơ sở vật chất tại trường này thật tệ hại.,negative,facility
 "Phòng chờ có máy lạnh, ghế sofa và ti vi giúp sinh viên có nơi để thư giãn trong thời gian đợi",neutral,facility
@@ -5839,7 +5613,6 @@ Thầy rất thông minh và có khả năng giải thích một cách dễ hi�
 Họ rất nhiệt tình và đam mê với công việc của mình.,neutral,others
 "Tôi rất thích các hoạt động âm nhạc và văn hoá tại trường, giúp tôi thăng hoa trong học tập.",positive,facility
 Cô ấy là một người rất nhạy cảm và luôn lắng nghe ý kiến của người khác.,neutral,others
-The curriculum provides opportunities for personal growth and development.,neutral,curriculum
 "Anh ấy là một người trưởng nhóm đa tài, tận tâm và có tinh thần trách nhiệm cao.",positive,others
 Bạn của tôi là người rất trung thành và luôn giữ lời hứa của mình.,positive,others
 Bộ môn được xây dựng với nhiều chuyên ngành khác nhau.,neutral,curriculum
@@ -5891,7 +5664,6 @@ Họ là một người có kiến thức rộng và luôn có ý tưởng mới
 Giáo trình không đồng nhất giữa các ngành và khoa.,negative,curriculum
 "Hệ thống thư viện tại trường đầy đủ tài liệu và sách vở, giúp cho sinh viên có thể tìm kiếm và tìm thấy được thông tin, tri thức một cách dễ dàng và nhanh chóng.",positive,facility
 Những người này không có tinh thần hợp tác và chỉ tố cáo những người khác.,negative,others
-The course content is presented in an engaging and interactive way.,neutral,curriculum
 Cô ấy là một người rất tận tâm và luôn đem lại những lợi ích tốt nhất cho nhóm và giáo viên.,positive,others
 Các dịch vụ y tế trong trường rất tốt và hiệu quả.,neutral,facility
 Phòng hội thảo của trường quá nhỏ và chật hẹp.,negative,facility
@@ -5909,7 +5681,6 @@ Thời lượng chương trình học quá dài và không cần thiết.,negati
 "Cậu ấy là một người rất năng động và tràn đầy năng lượng, khiến mọi người xung quanh cũng nhiệt tình hơn.",positive,others
 Tôi đánh giá rất cao phong cách giảng dạy của giảng viên này.,neutral,lecturer
 Trường cung cấp nhiều loại hình thức học tập cho ấn tượng sinh viên.,neutral,facility
-I appreciate the mix of theoretical and practical applications in the curriculum.,neutral,curriculum
 Các hoạt động ngoại khóa liên quan đến ngành học của tôi giúp tôi áp dụng kiến thức học được vào thực tế một cách hiệu quả.,positive,curriculum
 Thường xuyên bị mất dữ liệu các dự án khi sử dụng máy tính trong thư viện.,negative,facility
 "Cô ấy là một người giám đốc tài ba, có khả năng lãnh đạo tốt và đưa đội nhóm đến thành công.",positive,others
@@ -5948,7 +5719,6 @@ Thầy này rất tận tâm giảng dạy với học sinh yếu.,positive,lect
 Thiếu sân chơi.,negative,facility
 "Phòng thực hành lúc nào cũng đầy đủ người, nhưng quá nhỏ để chia sẻ cho tất cả học sinh.",negative,facility
 Thiếu sự cập nhật kỹ năng mới và khó khăn để áp dụng vào thực tế.,negative,curriculum
-The campus has a green building.,neutral,facility
 Hình thức giảng dạy không phù hợp với một số sinh viên.,neutral,curriculum
 Được giảng viên và nhân viên trường hỗ trợ rất nhiệt tình và tận tâm.,positive,facility
 Em thấy cô giáo dạy rất nghiêm khắc.,neutral,others
@@ -5958,7 +5728,6 @@ Môn học trong chương trình đào tạo được giảng dạy rất đầy
 Giảng viên rất nhiệt tình và luôn sẵn sàng giải đáp cho sinh viên.,positive,curriculum
 Tôi cảm thấy thất vọng vì tôi chưa bao giờ thấy một trường đại học có những cơ sở vật chất đáng mừng như thế này.,negative,facility
 Chương trình đào tạo chuyên sâu và phù hợp với yêu cầu nghề nghiệp của ngành học của tôi,neutral,curriculum
-The campus has a gaming room for students to relax and have fun.,neutral,facility
 Đồng nghiệp thường phân biệt đối xử giữa thành viên trong nhóm,negative,others
 "Các phòng học tại trường rất yên tĩnh, giúp tôi tập trung và học tập tốt hơn.",positive,facility
 "Các giáo viên không đủ chuyên môn, không thể giảng dạy cho sinh viên theo đúng chuẩn.",negative,curriculum
@@ -5969,7 +5738,6 @@ Chị ấy là một người thật tuyệt vời.,neutral,others
 Nàng rất được trân trọng và luôn khiến mọi người cảm thấy thoải mái.,positive,others
 Trường không đưa ra giải pháp đúng cho các vấn đề về an ninh và an toàn.,negative,facility
 Chương trình đào tạo giúp tôi phát triển các kỹ năng quản lý thời gian và tối ưu hóa sự tiến bộ của mình.,positive,curriculum
-The curriculum encourages students to take ownership of their learning and progress.,neutral,curriculum
 Áp lực học tập nặng nề đối với sinh viên.,negative,curriculum
 "Trường này có nhiều phòng học nhỏ, giúp cho sinh viên có thể làm việc nhóm dễ dàng.",positive,facility
 Các môn học về kỹ thuật lập trình được giảng dạy rất tốt và đáp ứng với yêu cầu của thị trường lao động.,neutral,curriculum
@@ -5980,7 +5748,6 @@ Không có giáo viên không đủ bài kết nối.,negative,curriculum
 "Chương trình học quá rời rạc, không có sự liên kết giữa các môn học.",negative,curriculum
 "Các phòng hài lòng và rất rộng, có đầy đủ thiết bị, tôi đến trường để học rất thường xuyên.",positive,facility
 Mình không thể chấp nhận sự thái độ xa cách và lạnh lùng của cô ấy.,negative,others
-The curriculum emphasizes research and inquiry-based learning.,neutral,curriculum
 Giảng viên đàm thoại với học sinh như một người bạn.,positive,lecturer
 Cô ấy không có tinh thần đồng đội và không chịu trách nhiệm trong nhóm.,negative,others
 Bạn ấy không thường xuyên đến lớp và không hoàn thành nhiệm vụ,negative,others
@@ -5994,7 +5761,6 @@ Họ có sự tích cực và là người khởi xướng tốt trong đời s�
 Cô bạn học của tôi rất tận tâm và luôn cố gắng hết sức để giúp đỡ mọi người.,positive,others
 Giáo viên này không có tính cách chủ động và sáng tạo trong giảng dạy.,negative,lecturer
 Họ có khả năng tổ chức và lãnh đạo nhóm tốt.,neutral,others
-The campus has a student center for socialization.,neutral,facility
 Nên tạo điều kiện cho sinh viên hoàn thiện tiếng Anh để tiếp cận các nghiên cứu quốc tế.,neutral,curriculum
 Tôi chẳng thể tưởng tượng ra tại sao lại có ai muốn lấy lớp học của giảng viên này.,negative,lecturer
 Cô ấy không có tâm huyết và thường xuyên bỏ dở công việc giữa chừng.,negative,others
@@ -6080,7 +5846,6 @@ Cô giảng viên luôn tạo ra không khí học tập thân thiện và tho�
 Tôi cảm thấy giảng viên của mình không thực sự tạo ra môi trường học tập tích cực trong lớp học của mình.,neutral,lecturer
 Giáo viên không có khả năng tạo động lực cho sinh viên yếu thế.,negative,lecturer
 Cô giáo này cũng thường xuyên xem nhẹ và coi thường các sinh viên của mình.,negative,lecturer
-The university has a welcoming atmosphere for international students.,neutral,facility
 Phòng học tiếng ồn quá lớn.,negative,facility
 Các khu vực kết nối wifi của trường rộng rãi và ổn định cho sinh viên.,positive,facility
 Chương trình học dễ dàng tiếp thu với các sản phẩm đồ họa thưởng thức rất đa dạng.,neutral,curriculum
@@ -6151,7 +5916,6 @@ Cô ấy luôn chỉ trích người khác một cách không tinh tế.,negativ
 Tôi được học tập trong một môi trường học thuật có chất lượng cao và tạo điều kiện tốt nhất cho sinh viên.,positive,curriculum
 Các phòng làm việc của trường được bố trí rất hợp lý và tiện nghi.,neutral,facility
 Tôi cảm thấy được trao các tri thức và kinh nghiệm tốt nhất từ các giảng viên giỏi.,positive,curriculum
-The courses provide practical knowledge and skills needed for the workplace.,neutral,curriculum
 Giảng viên này biết cách tạo ra một không gian học tập thoải mái và an toàn.,neutral,lecturer
 Đồng nghiệp của tôi có tài năng đặc biệt và luôn góp ý xây dựng cho nhóm.,positive,others
 Nên giảng dạy các kỹ năng mềm như giao tiếp và quản lý thời gian,neutral,curriculum
@@ -6163,7 +5927,6 @@ Bạn cùng nhóm rất chuyên nghiệp và tận tâm với công việc.,neut
 Cô ấy thiếu tình thương gia đình và hay xem thường họ.,negative,others
 Sinh viên luôn cảm thấy bị bỏ lại phía sau nếu không đồng ý với ý kiến của giảng viên.,negative,lecturer
 "Giảng viên này dạy rất mệt, lại còn cố tình làm khó sinh viên.",negative,lecturer
-I am impressed by the accessibility and usability of the curriculum materials.,neutral,curriculum
 Toàn bộ nhóm đó chỉ biết cắt đứt và không bao giờ giúp đỡ lẫn nhau.,negative,others
 Tôi rất thích được giảng viên tận tình giúp đỡ thêm khi tôi gặp khó khăn trong quá trình học tập.,positive,curriculum
 "Thầy là giảng viên tuyệt vời, truyền đạt kiến thức một cách nhanh nhạy.",neutral,lecturer
@@ -6203,16 +5966,13 @@ Hắn ta hay dùng lời nói để làm tổn thương người khác.,negative
 Chương trình học giúp sinh viên phát triển tư duy logic và khả năng giao tiếp để bán hàng thành công.,neutral,curriculum
 Tôi cảm thấy rất thất vọng vì giáo viên không thể giải đáp các câu hỏi của tôi,negative,curriculum
 Điểm số luôn là một áp lực lớn đối với sinh viên.,negative,curriculum
-"Overall, the facilities offered by the university are decent.",neutral,facility
 "Phòng học thông thoáng, ánh sáng đầy đủ",neutral,facility
 Bài tập được thiết kế hợp lý và phù hợp với năng lực của sinh viên,neutral,curriculum
 Đội ngũ giáo viên có kinh nghiệm và sẵn sàng giúp đỡ sinh viên suốt quá trình học.,neutral,curriculum
 Giáo viên đưa ra những kiến thức bổ ích và trang bị cho sinh viên nhiều kỹ năng.,neutral,lecturer
 Đồng nghiệp thường đề xuất một số ý tưởng nhưng không có cách thức thực hiện,negative,others
-The university has a good range of medical facilities available on campus.,neutral,facility
 Học phần đòi hỏi sự tập trung cao độ và sự chăm chỉ của sinh viên để đạt được kết quả tốt nhất.,neutral,curriculum
 "Thầy là một người rất hài hước và gần gũi với sinh viên, điều này giúp sinh viên cảm thấy thoải mái khi học tập.",positive,lecturer
-The university has a good range of sports and wellness facilities.,neutral,facility
 "Em thấy thầy rất hòa đồng và dễ thương, giúp các em thấy thoải mái trong lớp học.",positive,lecturer
 Anh ta là một người có kỹ năng lãnh đạo tốt và đầy sự kiên nhẫn.,positive,others
 Học phần này chẳng có ích gì cho tương lai của tôi.,negative,curriculum
@@ -6308,12 +6068,10 @@ Nhà thời trang không đáp ứng được nhu cầu của các bạn trẻ.,
 Giáo viên này không có khả năng quản lý lớp học tốt.,negative,lecturer
 Giảng viên này đưa ra nhiều ví dụ thực tế để giúp học sinh hiểu rõ hơn về chủ đề.,neutral,lecturer
 "Chương trình học quá sát với giáo trình cũ, không có sự cập nhật mới nhất.",negative,curriculum
-The curriculum encourages collaboration and teamwork among students.,neutral,curriculum
 Tôi nghĩ rằng chương trình đào tạo có thể cải tiến hơn để đáp ứng nhu cầu của sinh viên và thị trường lao động,neutral,curriculum
 Tôi không thể chịu đựng được cô ấy và những câu nói vô văn hoá của mình.,negative,others
 Họ thường mở các cuộc thảo luận để giúp sinh viên học hỏi từ nhau.,neutral,lecturer
 "Tôi chán với giảng viên này, anh ta chỉ đọc toàn bài giảng mà không có gì thuyết phục.",negative,lecturer
-The curriculum encourages active learning.,neutral,curriculum
 "Thầy rất sáng tạo trong việc giảng dạy, làm cho lớp học trở nên thú vị hơn.",positive,lecturer
 Giảng viên của tôi không thể hiểu được mình cần làm gì để giúp học sinh,negative,lecturer
 "Thầy là một giảng viên tuyệt vời, cung cấp cho sinh viên một môi trường học tập tuyệt vời và tích cực.",positive,lecturer
@@ -6375,7 +6133,6 @@ Tôi được trang bị kỹ năng giao tiếp và giải quyết vấn đề t
 Giảng viên này không đáng học thuật nghiệp vụ của họ.,negative,lecturer
 Họ đề cao sự chịu trách nhiệm trong việc học hành của sinh viên.,neutral,lecturer
 Cô ấy là một giáo viên giỏi và tâm huyết trong việc truyền đạt kiến thức cho sinh viên.,neutral,others
-"The campus has a variety of study areas, such as the library and quiet rooms, that enable students to study in silence.",neutral,facility
 Giảng viên giúp tôi hiểu được những khái niệm phức tạp và từ đó có thể áp dụng vào thực tế công việc.,positive,lecturer
 Chương trình đào tạo không đáp ứng được tiêu chuẩn của người chủ trương giáo dục.,negative,curriculum
 Tôi cảm thấy chương trình học của trường rất linh hoạt và giúp tôi đạt được mục tiêu của mình.,neutral,curriculum
@@ -6395,14 +6152,12 @@ Anh ta luôn chia sẻ những ý tưởng tuyệt vời và cố gắng giúp �
 "Thời gian học không hợp lý, quá dài hoặc quá ngắn.",negative,curriculum
 "Chương trình học có tính ứng dụng cao và thực tế, tôi cảm thấy rất hứng thú.",positive,curriculum
 Giáo trình quá cứng nhắc đối với sinh viên.,negative,curriculum
-The campus has disabled access to all areas for students who require it.,neutral,facility
 Thầy tạo ra sự đốt cháy niềm đam mê và tinh thần sáng tạo trong việc học tập.,neutral,lecturer
 Trường đại học này có nhiều chương trình đào tạo khác nhau để sinh viên có thể lựa chọn.,neutral,facility
 Cô ta không thể giải quyết vấn đề.,negative,others
 Trường cần điều chỉnh lại cơ cấu tổ chức để tăng tính hiệu quả trong việc quản lý.,neutral,facility
 Chương trình đào tạo có thể giúp sinh viên phát triển tương tác xã hội và kỹ năng làm việc nhóm,neutral,curriculum
 Không có nơi để lưu trữ tài liệu của sinh viên.,negative,facility
-The university's facilities are adequate for my needs.,neutral,facility
 Trang thiết bị ở khuôn viên của đại học đa dạng và phong phú.,neutral,facility
 Đồng nghiệp của tôi là một người rất tận tụy và trung thành với công việc.,positive,others
 Cô giáo của em rất tận tâm với học sinh.,neutral,others
@@ -6410,7 +6165,6 @@ Tôi cảm thấy mệt mỏi với những bài tập khó lẫn độ khắt k
 Không có sự đồng bộ giữa chương trình học và định hướng nghề nghiệp của sinh viên.,negative,curriculum
 "Giờ đóng cửa của thư viện trường quá sớm, không đủ thời gian cho sinh viên đọc sách.",negative,facility
 Giảng viên rất chú trọng đến tiến độ học tập của sinh viên.,neutral,lecturer
-The university's security facility is effective and accommodating.,neutral,facility
 Quản lý của trường rất tuyệt vời và hỗ trợ kịp thời cho các yêu cầu của sinh viên.,positive,facility
 Thầy này luôn đưa ra feedback cụ thể và hữu ích cho học viên.,positive,lecturer
 Thầy thường xuyên đổi mới và cập nhật bài giảng để đáp ứng sự thay đổi của nền giáo dục hiện đại.,neutral,lecturer
@@ -6479,7 +6233,6 @@ Không có sự giám sát và theo dõi kịp thời từ giảng viên và qu�
 Thầy này đưa ra những bài giảng đầy tính thực tiễn.,positive,lecturer
 Cô ấy là một người rất tận tâm và đặt sự chú ý đến từng chi tiết.,positive,others
 "Các môn học khác nhau nhưng vẫn liên quan đến nhau, tạo nên một hệ thống học thuật hoàn chỉnh",neutral,curriculum
-The campus has a counseling center for mental health.,neutral,facility
 Tôi đã học được rất nhiều từ giảng viên này và có thể ứng dụng những kiến thức đó trong thực tế.,neutral,lecturer
 Nhà ăn trường có không gian rộng rãi và thoả mái.,positive,facility
 Thầy giáo của tôi rất thấu hiểu và luôn đưa ra lời khuyên được phản ánh rõ nét.,positive,others
@@ -6500,7 +6253,6 @@ Cô ấy là người rất chịu đựng và kiên nhẫn.,neutral,others
 Thầy đã thật sự tạo ra một môi trường học tập thoải mái và hiệu quả cho tôi.,positive,lecturer
 Giảng viên này thường xuyên gây ra bất hòa và xung đột với sinh viên tiềm năng của mình.,negative,lecturer
 Tôi cảm thấy rất an toàn và thoải mái khi học tập tại trường đại học này.,positive,curriculum
-The facilities enable students to live a healthy lifestyle through access to fitness classes.,neutral,facility
 Giảng viên thiếu sự quan tâm và không đáp ứng được nhu cầu của sinh viên đến từ các quốc gia khác nhau.,negative,curriculum
 Tôi thấy anh ta khá kín đáo và thường giữ cho mình.,neutral,others
 "Giảng viên này quá kém cười, không hề giúp sinh viên thư giãn được.",negative,lecturer
@@ -6563,7 +6315,6 @@ Trưởng khoa rất chuyên nghiệp và thấu hiểu các vấn đề của s
 Tôi nghĩ rằng chương trình đào tạo có thể có thêm chương trình đổi ngôn ngữ để giúp sinh viên nâng cao trình độ tiếng Anh và các ngôn ngữ khác,neutral,curriculum
 Môn học giúp tôi rèn luyện kỹ năng làm việc nhóm và tự quản lý thời gian.,positive,curriculum
 "Các nhân viên vệ sinh trong trường làm việc rất tốt và chuyên nghiệp, giúp cho nơi đây luôn sạch sẽ và tươi mới.",positive,facility
-The facility is spacious and well-maintained.,neutral,facility
 Cảm ơn anh/chị đã giúp đỡ và truyền lửa cho em.,positive,others
 Những hộp thư của trường quá đầy và không được quản lý tốt.,negative,facility
 "Anh ấy là một người thầy giáo tuyệt vời, giỏi giang và tận tâm với công việc.",positive,others
@@ -6622,7 +6373,6 @@ Anh ấy có khả năng quản lý tài chính tốt.,neutral,others
 Anh/chị là một người đầy tầm nhìn và ý chí quyết tâm.,positive,others
 Cô bạn này là một người rất tâm huyết với học tập.,positive,others
 Tủ locker trong thư viện không đủ cho sinh viên sử dụng.,negative,facility
-The university's language center facility is helpful.,neutral,facility
 Tôi rất thích số lượng tín chỉ của các môn học trong chương trình đào tạo.,neutral,curriculum
 Không có tài liệu cần thiết trong thư viện của trường.,negative,facility
 Giáo viên này không sử dụng các công nghệ hiện đại để giảng dạy.,negative,lecturer
@@ -6645,7 +6395,6 @@ Họ rất sáng suốt và quan tâm đến bản thân và người khác.,neu
 Học viên không thể hiểu gì vì giảng viên không nói rõ.,negative,lecturer
 Thầy cô này có kỹ năng chuyên môn tốt và biết cách tạo ra bài giảng động lực.,neutral,lecturer
 Giảng viên chưa được đào tạo tốt.,negative,curriculum
-The variety of classrooms accommodate different learning styles.,neutral,facility
 Giáo viên nhiệt tình hướng dẫn và truyền cảm hứng cho học sinh.,positive,lecturer
 "Hệ thống wifi quá yếu, không đáp ứng được nhu cầu của sinh viên.",negative,facility
 Giảng viên không đủ sáng tạo để giảng dạy.,negative,curriculum
@@ -6717,7 +6466,6 @@ Cô ấy thiếu cảm thông và không có sự đồng cảm với những ng
 "Bài giảng được thiết kế rõ ràng, dễ hiểu và học viên có thể áp dụng được vào thực tế.",neutral,lecturer
 Học tập tại đây giúp tôi phát triển kỹ năng độc lập.,positive,curriculum
 Thầy đưa ra những gợi ý tốt cho việc học tập và phát triển.,positive,lecturer
-The facilities offered by the university cater to students' needs.,neutral,facility
 Giảng viên này toàn sử dụng giọng điệu lạnh lùng và không có cảm xúc khi dạy.,negative,lecturer
 Trường hỗ trợ sinh viên tham gia các hoạt động tình nguyện và gây quỹ từ thiện.,positive,facility
 "Trường có các tổ chức hoạt động xã hội rất mạnh mẽ, giúp tôi tham gia tích cực và phát triển tính cách.",positive,facility
@@ -6741,7 +6489,6 @@ Tôi đã học được rất nhiều từ giảng viên này và sẽ tiếp t
 Họ là một người rất trưởng thành và có trách nhiệm.,neutral,others
 "Giáo trình có sự kết hợp các chương trình học thuật trong và ngoài trường học, giúp tôi có nhiều cơ hội học tập và thực hành.",neutral,curriculum
 Giảng viên luôn đưa ra những câu hỏi thú vị và khuyến khích chúng em suy nghĩ sáng tạo.,positive,lecturer
-The campus is clean and well-maintained.,neutral,facility
 Giáo trình không phù hợp cho những người học mới.,negative,curriculum
 Thuyết trình của giảng viên này thu hút sinh viên rất ít.,negative,lecturer
 "Tôi học được cách giải quyết vấn đề một cách tốt nhất trong công việc, giúp tôi thành công hơn.",positive,curriculum
@@ -6764,7 +6511,6 @@ Giảng viên này hoàn toàn không thể giúp tôi hiểu được bài họ
 Giảng viên rất thông minh và nhận định rất sáng suốt.,positive,lecturer
 Hệ thống thư điện tử của trường thường bị quá tải và không hoạt động đầy đủ.,negative,facility
 Thầy rất chuyên nghiệp và có kiến thức rất sâu rộng.,positive,lecturer
-The facilities are open for extended hours during exam weeks.,neutral,facility
 Học sinh này có khả năng quan sát và phân tích tốt.,neutral,others
 Bạn ấy là người hài hước và dễ thương lắm.,neutral,others
 Thầy rất cẩn thận trong việc chấm điểm và cho điểm công bằng.,positive,lecturer
@@ -6776,7 +6522,6 @@ Chương trình học không đáp ứng được sự đa dạng của sinh vi�
 Học phần quá phức tạp và khó hiểu.,negative,curriculum
 Giảng viên rất đam mê và chuyên nghiệp trong công việc của mình.,neutral,lecturer
 Bạn đồng nghiệp rất đáng tin cậy và luôn giữ lời hứa.,neutral,others
-The university's study rooms and lounges are comfortable and conducive to learning.,neutral,facility
 "Các trung tâm ngoại ngữ của trường rất chuyên nghiệp, giúp tôi nâng cao trình độ tiếng Anh.",positive,facility
 Các nhân viên ở trường luôn thân thiện và sẵn sàng giúp đỡ sinh viên.,neutral,facility
 . Giảng viên cho sinh viên tham gia nhiều dự án và hoạt động để giao lưu kết nối với tất cả các sinh viên khác.,neutral,lecturer
@@ -6806,7 +6551,6 @@ Cô ấy luôn tỉ mỉ và chăm chỉ trong công việc.,neutral,others
 Giáo trình giúp các em học tập và phát triển kiến thức một cách tự nhiên.,positive,curriculum
 Thầy cô đề cao chất lượng giảng dạy hơn là quan tâm đến những gì mình đã hoàn thành.,neutral,lecturer
 "Đồng bộ và tích hợp các dịch vụ khác như ăn uống, tiện ích bên ngoài vào trường cần cải tiến hơn.",neutral,facility
-The facilities at the university are in good condition.,neutral,facility
 Tôi rất cảm ơn thầy vì đã giúp tôi có được những kiến thức và kỹ năng hữu ích trong cuộc sống.,positive,lecturer
 Sách giáo khoa không đủ thực tế và không hấp dẫn.,negative,curriculum
 Bạn ấy thường quên mất nhiệm vụ cần làm,negative,others
@@ -6821,7 +6565,6 @@ Anh/Chị là người rất trách nhiệm và luôn hoàn thành tốt công v
 "Chương trình học quá lâu, sinh viên không có đủ thời gian để tìm kiếm việc làm.",negative,curriculum
 Giảng viên luôn sẵn sàng giải đáp thắc mắc của sinh viên và hỗ trợ trong công tác học tập và nghiên cứu.,positive,curriculum
 Giờ giấc của thư viện và phòng học không linh hoạt.,negative,facility
-The campus is always beautifully decorated during holidays.,neutral,facility
 Tôi đã thất bại nhiều lần trong việc nghiên cứu do không có đủ cơ sở vật chất và các thiết bị hỗ trợ.,negative,facility
 Tôi không thích giảng viên đưa ra quá ít tài liệu tham khảo.,negative,lecturer
 Được hỗ trợ học tập bằng hệ thống thư viện hiện đại.,positive,curriculum
@@ -6843,8 +6586,6 @@ Giảng viên này là một nguồn cảm hứng không thể bỏ qua đối v
 Thời hiệu học linh hoạt cho sinh viên.,neutral,curriculum
 Thầy đưa ra nhiều ví dụ và minh họa để giúp sinh viên hiểu bài học tốt hơn.,neutral,lecturer
 Điểm danh của giảng viên này quá nghiêm khắc và không cần thiết.,negative,lecturer
-"The campus has a good transportation network, allowing students to move around the campus easily.",neutral,facility
-The campus has a beautiful outdoor space.,neutral,facility
 Giáo trình đòi hỏi nhiều nỗ lực và thời gian hơn so với những trường khác.,neutral,curriculum
 Chương trình đào tạo tốt sử dụng nhiều ứng dụng công nghệ hiện đại.,neutral,curriculum
 Giảng viên có phương pháp giảng dạy tốt giúp sinh viên nắm bắt kiến thức nhanh hơn.,neutral,lecturer
@@ -6855,14 +6596,12 @@ Anh ấy luôn tìm cách trêu đùa và xúc phạm đồng nghiệp.,negative
 Trường không có đủ đồ để ăn khi sinh viên đến nhà ăn trễ.,negative,facility
 Tôi cảm thấy mình được quan tâm và đặt lên hàng đầu trong môn học này.,positive,curriculum
 Giảng viên luôn khuyến khích sinh viên để học hỏi thêm nhiều kiến thức mới.,neutral,lecturer
-The recreational facilities provide a good break from the academic work.,neutral,facility
 Anh chàng này có tinh thần lạc quan và sáng tạo.,positive,others
 Chương trình đào tạo ở đây khá chuẩn mực.,neutral,curriculum
 Cô ấy đánh giá quá cao bản thân.,negative,others
 Thầy chia sẻ những kỹ năng học tập quan trọng trong cuộc sống và công việc.,neutral,lecturer
 Thầy rất hỗ trợ và động viên sinh viên khi gặp khó khăn.,positive,lecturer
 Cách giảng dạy đầy tinh thần và truyền đạt kiến thức rất dễ hiểu.,positive,lecturer
-"The classrooms are equipped with whiteboards and projectors, allowing for effective learning.",neutral,facility
 "Tôi được học các kỹ năng quan trọng như kỹ năng thuyết trình và thuyết phục, giúp tôi có thể truyền tải ý tưởng một cách hiệu quả.",positive,curriculum
 Anh ấy lúc nào cũng mải chơi điện thoại.,negative,others
 Cô bạn đồng học này luôn giữ được tinh thần lạc quan và không bao giờ nản chí.,positive,others
@@ -6879,7 +6618,6 @@ Giảng viên của tôi rất đồng cảm và cởi mở với ý kiến ph�
 "Khuôn viên trường được xây dựng rộng rãi và thoáng mát, giúp sinh viên có thể thư giãn và tập thể dục trong không gian rộng rãi.",positive,facility
 Chị ấy rất giỏi về kinh doanh và quản lý.,neutral,others
 Các phòng học được trang bị máy lạnh giúp sinh viên tập trung học tập.,neutral,facility
-The sports facilities are great for keeping fit and healthy.,neutral,facility
 Thầy không đồng ý với những ý kiến được đưa ra bởi học sinh khác,negative,lecturer
 Những trang thiết bị của trường rất được chăm sóc và bảo trì tốt.,positive,facility
 Tôi rất biết ơn sự tận tâm và khả năng giảng dạy của giảng viên này.,positive,lecturer
@@ -6888,14 +6626,12 @@ Học phần quá khô khan và thiếu sự thực tiễn.,negative,curriculum
 "Em rất thích anh vì tính cách thân thiện và hài hước, giúp em vui vẻ đón nhận những buổi học tập mới.",positive,others
 Trường này không có đủ phòng tập thể dục để sinh viên có thể rèn luyện sức khỏe.,negative,facility
 Cô ấy hay bị nhiễm tiêu cực và không tốt cho tinh thần của nhóm.,negative,others
-The curriculum supports students' personal growth and development.,neutral,curriculum
 "Các khóa học của trường được giảng dạy bởi các giảng viên có tâm và kinh nghiệm, giúp sinh viên có động lực học tập cao hơn.",positive,facility
 . Giảng viên hỗ trợ học viên nạp lại kiến thức cũ khi cần thiết,neutral,lecturer
 Đội ngũ vệ sinh ở đây luôn giữ những địa điểm học tập sạch sẽ và ngăn nắp.,positive,facility
 Anh/chị luôn mang lại niềm tin và động lực cho tôi.,positive,others
 Giáo viên này thường xuyên dùng những từ ngữ khó hiểu và không giải thích rõ ràng.,negative,lecturer
 "Các phòng học đầy đủ trang thiết bị, góp phần nâng cao chất lượng giảng dạy.",positive,facility
-"Overall, I feel that the curriculum is well-rounded and comprehensive.",neutral,curriculum
 Tất cả các lớp học đều được giáo viên giảng dạy và quản lý rất tốt.,neutral,curriculum
 Giảng viên này thường đưa ra các ví dụ không liên quan đến các bài học của anh ta.,negative,lecturer
 Giáo án của giảng viên này rất rườm rà và khó hiểu.,negative,lecturer
@@ -6904,7 +6640,6 @@ Các lớp học và bài kiểm tra được thiết kế rất chặt chẽ đ
 Rất khó để kết nối wifi tại khuôn viên trường.,negative,facility
 Cơ sở vật chất ở trường rất tốt.,neutral,facility
 Trường có các phòng họp và phòng sinh hoạt chung rất thuận tiện cho sinh viên.,neutral,facility
-The library has a good collection of books and study materials.,neutral,facility
 Giảng viên này rất bắt nạt sinh viên yếu.,negative,lecturer
 Chương trình đào tạo có nhiều cơ hội để tôi phát triển các kỹ năng mà tôi không có trước đây.,positive,curriculum
 Thầy là người giáo viên tuyệt vời nhất mà tôi từng gặp.,positive,lecturer
@@ -6972,15 +6707,12 @@ Không nên áp đặt quá nhiều môn học cho sinh viên,neutral,curriculum
 Hạn chế phân vân trong lựa chọn các môn học.,neutral,curriculum
 Giảng viên nên đưa ra những ví dụ thực tế hơn.,neutral,lecturer
 "Các bài giảng và tài liệu quá già, không cập nhật với xu hướng mới nhất.",negative,curriculum
-There are plenty of study rooms available for group work.,neutral,facility
 Anh ta không bao giờ đưa ra quyết định đúng đắn.,negative,others
 Bạn của tôi là người rất chăm chỉ và có tinh thần học tập cao.,positive,others
 Không có mạng WiFi cho sinh viên sử dụng.,negative,facility
 Cậu ấy là một đồng nghiệp rất thân thiện và luôn đưa ra những ý kiến tích cực để giúp đỡ nhóm.,positive,others
 Bạn là người rất thân thiện và giúp đỡ tôi trong nhiều tình huống khó khăn.,positive,others
 Môi trường học tập ở đây rất tiện nghi và hiện đại.,neutral,facility
-The dining facilities serve a good range of food at reasonable prices.,neutral,facility
-The curriculum caters to students of different academic backgrounds.,neutral,curriculum
 "Cô ấy là một người bạn tuyệt vời, luôn sẵn sàng lắng nghe và giúp đỡ mọi người.",positive,others
 "Trường có sân bóng đá, sân cầu lông, sân chơi tennis cho sinh viên.",positive,facility
 Phòng học quá ồn ào khi các giờ học kết thúc.,negative,facility
@@ -7031,7 +6763,6 @@ Giảng viên này không kịp thời giải đáp câu hỏi của sinh viên.
 Tôi rất thất vọng và tuyệt vọng với giảng viên này.,negative,lecturer
 Thầy/cô giảng nói chuyện rất rõ ràng và có thái độ tốt đối với học viên.,neutral,lecturer
 Nhân viên đón tiếp tại trường rất thân thiện và giúp đỡ.,neutral,facility
-The curriculum promotes ethical and responsible leadership in students.,neutral,curriculum
 Người kia thường giữ thông tin cho riêng mình,negative,others
 Thiếu không gian để giữ giá sách.,negative,facility
 Tài liệu học tập đầy đủ và dễ tiếp cận.,neutral,curriculum
@@ -7072,8 +6803,6 @@ Không có các phương thức học tập đa dạng.,negative,curriculum
 "Tôi rất ngưỡng mộ sự thông minh và sáng tạo của bạn, đặc biệt trong những tình huống đặc thù.",positive,others
 Giảng viên không đưa ra tổng quát và dễ hiểu các khái niệm trong bài học.,negative,lecturer
 Giá trị lời khuyên từ giáo viên không đủ để giúp sinh viên tiến bộ hơn.,negative,facility
-The facilities at the university are good.,neutral,facility
-The university provides a range of functional facilities.,neutral,facility
 Tôi không cảm thấy khích lệ trong lớp học của giảng viên này.,negative,lecturer
 "Thiếu đồ dùng như bảng trắng, phấn, bảng đen.",negative,facility
 Cô ấy thông minh và nhanh nhẹn trong giải quyết vấn đề.,positive,others
@@ -7083,10 +6812,8 @@ Thầy giảng dạy rất kỹ lưỡng và chi tiết.,neutral,lecturer
 Giảng viên thường không nắm rõ về môn học mình giảng dạy.,negative,curriculum
 Tôi cảm thấy rất tự tin sau khi tốt nghiệp vì đã được học trong một môi trường giáo dục chất lượng cao.,positive,curriculum
 Có các tiện ích như phòng tập gym và sân chơi trong khu vực của trường.,neutral,facility
-"Overall, I feel that the curriculum is relevant to the current job market.",neutral,curriculum
 "Không có sự đổi mới trong chương trình học, không cập nhật với những xu hướng mới nhất.",negative,curriculum
 Thầy cô này giúp cho học sinh tự tin hơn khi trình bày kiến thức trước mặt mọi người.,neutral,lecturer
-The university provides satisfactory facilities for students.,neutral,facility
 Giảng viên này không hề có thái độ tôn trọng với sinh viên.,negative,lecturer
 Không có đèn đọc sách trong khu vực thư viện.,negative,facility
 Giảng viên rất thông minh và có kiến thức sâu rộng về chuyên ngành.,positive,lecturer
@@ -7100,7 +6827,6 @@ Giảng viên không quan tâm đến tình hình thị trường lao động h�
 "Ghế ngồi trong phòng học quá cứng và không thoải mái, học sinh cảm thấy đau lưng sau khi ngồi lâu.",negative,facility
 Học phần quá nhiều và không có sự tập trung vào chủ đề chính.,negative,curriculum
 Địa điểm thuận lợi,neutral,facility
-The conference rooms are great for holding events and meetings.,neutral,facility
 Tôi thấy rằng chương trình đào tạo giúp tôi có cơ hội tiếp cận với các chuyên gia và doanh nhân thành đạt.,neutral,curriculum
 "Các phòng học được bố trí rất tốt với các bảng chỉ dẫn, hình ảnh giúp cho sinh viên dễ dàng tiếp thu thông tin hơn.",positive,facility
 Cô ấy thường giảng dạy rất rõ ràng và chi tiết.,neutral,others
@@ -7118,7 +6844,6 @@ Thầy có thái độ rất tích cực và lạc quan.,positive,lecturer
 Không có sự quản lý cụ thể về an toàn các thiết bị trên khu vực trường.,negative,facility
 Cô ấy là người rất nhiệt tình và trách nhiệm trong công việc.,neutral,others
 Sự khó khăn trong việc tiếp cận tài liệu tham khảo.,negative,curriculum
-The dorms are clean and secure.,neutral,facility
 Người bạn học của tôi là một người rất ham học hỏi và thích khám phá những điều mới.,positive,others
 Đội ngũ giáo viên của trường rất chuyên nghiệp và trách nhiệm.,neutral,facility
 "Có thư viện trực tuyến giúp cho sinh viên dễ dàng tìm kiếm tài liệu điều tra, nghiên cứu.",neutral,facility
@@ -7146,7 +6871,6 @@ Môn học giúp tôi phát triển kỹ năng làm việc nhóm.,positive,curri
 Trung tâm hội nghị rộng lớn và là nơi tiên nghỉm.,positive,facility
 Giáo viên đưa ra những câu hỏi rất khó để học sinh trả lời,negative,lecturer
 "Các trang thiết bị trong phòng thực hành của trường rất đầy đủ, giúp sinh viên thực hành những kỹ năng cần thiết.",positive,facility
-The Wi-Fi connection across campus is reliable.,neutral,facility
 Giảng viên sử dụng các công nghệ mới nhất trong việc giảng dạy.,neutral,lecturer
 Khuôn viên trường được bảo vệ an toàn và sạch sẽ đảm bảo an toàn cho sinh viên.,positive,facility
 Nhiều cơ hội được tiếp xúc với các doanh nghiệp và nhà tuyển dụng.,positive,curriculum
@@ -7170,7 +6894,6 @@ Thầy làm cho học tập trở nên thú vị hơn bao giờ hết.,positive,
 Giáo trình hỗ trợ các em áp dụng kiến thức vào thực tế công việc.,positive,curriculum
 Các nhà ăn trường không được thiết kế phù hợp để phục vụ sinh viên.,negative,facility
 Anh ấy là người vui tính và dễ gần.,positive,others
-The curriculum aligns with current global trends and practices.,neutral,curriculum
 Có nhiều bài giảng trực tuyến thuận tiện cho các sinh viên.,neutral,curriculum
 Thầy giáo của tôi rất thông minh và có khả năng giảng dạy tuyệt vời.,positive,others
 Khu chơi game của trường cũng được thiết kế rất ấn tượng.,positive,facility
@@ -7186,8 +6909,6 @@ Cô bạn này chỉ toàn quất thẳng tay mà không suy nghĩ trước.,neg
 Anh ấy luôn dành thời gian để trau dồi kiến thức và kỹ năng của mình.,neutral,others
 Các phòng máy tính của trường được cung cấp các phần mềm mới nhất.,neutral,facility
 Anh ta thường tỏ ra thiếu kiên nhẫn đối với người khác và không chịu đón nhận ý kiến xây dựng.,negative,others
-The university's facilities are convenient and accessible.,neutral,facility
-I feel like the curriculum prepares us well for global citizenship and leadership roles.,neutral,curriculum
 Trường không có các chương trình tương tác giữa sinh viên.,negative,curriculum
 Tôi không thể chấp nhận cách giảng dạy của giảng viên này.,negative,lecturer
 Cô ấy là người luôn tìm cách xem thường người khác.,negative,others
@@ -7228,7 +6949,6 @@ Họ không bao giờ tạo ra bất kỳ giá trị nào cho cộng đồng xun
 Giảng viên rất trung thực và luôn đem đến môi trường học tập thoải mái cho sinh viên.,positive,lecturer
 "Cô giáo này không hề lấy ví dụ kinh nghiệm thực tế trong lớp, không hề truyền đạt văn hóa.",negative,lecturer
 Họ là một người tỉ mỉ và chăm chỉ trong công việc của mình.,neutral,others
-The campus is wheelchair accessible and accommodating to students with disabilities.,neutral,facility
 Anh ta thường xuyên phát ngôn gây hiểu lầm và khó chịu trong lớp.,negative,others
 Họ là người giỏi trong việc phân tích và đưa ra giải pháp cho các vấn đề phức tạp.,neutral,others
 Được học các bài giảng công nghệ giáo dục mới nhất.,positive,curriculum
@@ -7322,7 +7042,6 @@ Giảng viên của tôi thường xuyên bổ sung thêm kiến thức cho sinh
 Thầy/cô giảng đúng giờ và sắp xếp các tiết học hợp lý.,neutral,lecturer
 Em ấy luôn biết cách quan tâm và giúp đỡ bạn bè trong lớp.,positive,others
 Giảng viên này không đưa ra các ví dụ thực tế dễ hiểu.,negative,lecturer
-The facilities promote a safe environment for students.,neutral,facility
 "Chương trình học không có bối cảnh thực tế, sinh viên không biết chúng có liên quan gì đến công việc sau này.",negative,curriculum
 Thiết bị trong khuôn viên trường không đủ mới và đáp ứng được nhu cầu học tập của sinh viên.,negative,facility
 Trường cung cấp cho tôi nhiều cơ hội để phát triển khối lượng kiến thức và tay nghề.,neutral,curriculum
@@ -7351,7 +7070,6 @@ Em rất thích những kế hoạch học tập mở và linh hoạt trong lớ
 Trường rất chu đáo và hỗ trợ sinh viên trong việc giải quyết các vấn đề học tập và cuộc sống.,neutral,curriculum
 Giáo trình đưa ra các giải pháp mới mẻ và hiệu quả cho các vấn đề thực tế.,positive,curriculum
 "Giảng viên hướng dẫn sinh viên phát triển kỹ năng giao tiếp và làm việc nhóm, giúp tôi tự tin hơn trong công việc.",positive,curriculum
-The campus provides a range of useful facilities.,neutral,facility
 Bạn ấy luôn tìm cách giúp đỡ và hỗ trợ người khác.,neutral,others
 Giảng viên này cứ chỉ toàn phân tích lý thuyết mà không có ví dụ thực tế.,negative,lecturer
 Học tập và rèn luyện kỹ năng mềm được kết hợp rất tốt.,positive,curriculum
@@ -7379,7 +7097,6 @@ Giáo trình được phát triển bởi các giáo sư và chuyên gia hàng �
 "Giáo viên rất thân thiện và cởi mở với học viên, giúp họ tự tin hơn trong quá trình học tập.",positive,curriculum
 Thầy rất cởi mở và thoải mái khi trao đổi với học viên.,positive,lecturer
 Em/Cô là người rất có tâm và thành thạo trong việc giảng dạy.,positive,others
-The university's maintenance facility is helpful and accommodating.,neutral,facility
 "Môn học này quá khó, tôi không hiểu gì cả.",negative,curriculum
 Cô ấy luôn nói về mình và không quan tâm đến ý kiến ​​của người khác.,negative,others
 Bạn của tôi là người rất thông cảm và luôn luôn chia sẻ với những người xung quanh.,positive,others
@@ -7435,7 +7152,6 @@ Tất cả các phòng ở và cho thuê trong trường đều rất tốt và 
 Kỹ năng mềm không được đào tạo đầy đủ.,negative,curriculum
 Nhà xử lý rác không đảm bảo sạch sẽ.,negative,facility
 Giảng viên tạo cảm giác thoải mái cho học sinh khi học.,positive,lecturer
-The university's international program facility is helpful and accommodating.,neutral,facility
 Giảng viên này giúp tôi hiểu được sự thực trong lĩnh vực mà tôi đang học.,neutral,lecturer
 Giảng viên cần cung cấp thông tin về các cơ hội việc làm sau khi tốt nghiệp.,neutral,lecturer
 Anh ấy rất đam mê nghiên cứu và có kiến thức rộng.,positive,others
@@ -7474,7 +7190,6 @@ Kiến thức của giảng viên này cũng chỉ để tràn đầy đường.
 Chương trình học quá tập trung vào lý thuyết chứ không để quan tâm đến kinh nghiệm thực tế.,negative,curriculum
 Đồng nghiệp của tôi luôn sẵn sàng giúp đỡ và hỗ trợ mình trong học tập.,positive,others
 "Giảng viên này không dạy bài cẩn thận, tôi thấy mình đang lãng phí tiền học.",negative,lecturer
-The curriculum provides students with a variety of elective courses to choose from.,neutral,curriculum
 Anh ấy là người rất thông minh và có tinh thần nghị lực cao.,positive,others
 Giảng viên đã truyền đạt kiến thức rất rõ ràng.,neutral,lecturer
 Cậu bạn này là người có tài năng đáng kể trong lãnh vực của mình.,neutral,others
@@ -7504,7 +7219,6 @@ Giảng viên này thiếu sự đam mê trong ngành giảng dạy.,negative,le
 Số lượng giờ học của một số môn học là tương đối ít.,neutral,curriculum
 Giảng viên luôn khuyến khích học sinh trau dồi kiến thức của mình.,positive,lecturer
 Giờ mở cửa của trường thuận tiện cho sinh viên.,neutral,facility
-The university provides a good range of useful facilities.,neutral,facility
 Tôi đã nhận được nhiều hỗ trợ cần thiết từ trường suốt thời gian học tập tại đây.,positive,facility
 Cô ấy rất quan tâm đến sự phát triển của sinh viên.,neutral,others
 Trường đảm bảo các tiêu chuẩn an toàn vệ sinh tối ưu cho sinh viên.,neutral,facility
@@ -7520,7 +7234,6 @@ Giảng viên này không có học phần thực hành đáp ứng yêu cầu c
 Anh ấy hay giật mình và không sẵn sàng khiến người khác bị stress.,negative,others
 "Các phòng học và phòng thực hành của trường đều được trang bị đầy đủ thiết bị và công nghệ hiện đại, giúp cho tôi có thể nghiên cứu khoa học và thực hành tốt nhất.",positive,facility
 Cảm giác thoải mái và khám phá được một môi trường đào tạo mới.,neutral,curriculum
-The campus has a nature trail for nature enthusiasts.,neutral,facility
 Các hoạt động sinh viên không đủ sáng tạo và lôi cuốn.,negative,facility
 Giảng viên này thật sự quan tâm đến sự thành công của học sinh và luôn sẵn sàng giúp đỡ họ.,neutral,lecturer
 Học sinh này có khả năng giải quyết vấn đề tốt.,neutral,others
@@ -7533,8 +7246,6 @@ Chủ nhiệm lớp cứ suốt ngày chỉ ra lỗi cho học sinh,negative,oth
 "Trường có nhiều khuôn viên đẹp và rộng lớn, giúp sinh viên có thêm không gian giải trí và thư giãn.",positive,facility
 Bạn ấy là người có trách nhiệm và luôn đóng góp tích cực trong học tập.,neutral,others
 Chương trình đào tạo cần phải thông tin rõ ràng hơn về các môn học và mục tiêu của chương trình,neutral,curriculum
-The sports center offers great amenities for students.,neutral,facility
-The campus offers good facilities that students can use.,neutral,facility
 Những khóa học đào tạo nghề nghiệp được đưa vào giáo trình rất hữu ích cho sinh viên.,neutral,curriculum
 Em hài lòng với cách anh/chị giúp đỡ và hướng dẫn trong dự án.,positive,others
 Giảng viên này không thể giải thích Rộng rãi hơn.,negative,lecturer
@@ -7583,7 +7294,6 @@ Trường không có trang thiết bị cho sinh viên nghiên cứu.,negative,f
 Cô ấy có khả năng thích ứng với nhiều tình huống.,neutral,others
 Nhà trường không đáp ứng được nhu cầu của các học viên.,negative,facility
 Trường không có đủ tài nguyên để đáp ứng cho nhu cầu phát triển và nghiên cứu của sinh viên.,negative,facility
-The computer labs are equipped with high-speed internet and up-to-date technology.,neutral,facility
 Hành lang và cầu thang trường rộng rãi và dễ di chuyển.,neutral,facility
 Đại học của tôi có máy chiếu rất hiện đại và tiện lợi.,neutral,facility
 Thiếu sự đổi mới và sáng tạo trong phương pháp giảng dạy.,negative,curriculum
@@ -7592,7 +7302,6 @@ Nhà trường không đầu tư đúng sản phẩm cần thiết cho sinh viê
 Toàn bộ nhóm đó chỉ biết khoe khoang về bản thân mình mà không có trách nhiệm với công việc.,negative,others
 "Trường có các phòng tập thể dục, phòng yoga và các khu vực thể thao rất thuận tiện.",neutral,facility
 Thầy rất quan tâm đến đời sống của sinh viên.,positive,lecturer
-The curriculum provides a platform for students to engage in social and environmental advocacy.,neutral,curriculum
 Chương trình đào tạo giúp tôi hiểu rõ hơn về tiềm năng và cơ hội sự nghiệp trong ngành học của mình.,positive,curriculum
 "Điều hòa của các phòng được bảo trì thường xuyên, giúp cho không khí trong phòng luôn tươi mát.",neutral,facility
 Anh ta luôn có tinh thần cầu tiến và không ngừng nỗ lực học tập.,positive,others
@@ -7690,7 +7399,6 @@ Hệ thống camera an ninh được lắp đặt đầy đủ và đảm bảo 
 Thầy cô này không ngừng cập nhật cái mới và giúp học sinh hiểu biết sâu hơn về chuyên môn.,neutral,lecturer
 Anh/chị luôn đưa ra những ý kiến xây dựng và đầy ý nghĩa.,positive,others
 Trường đã đưa ra các giải pháp tiêu chuẩn trong việc quản lý và tập trung nhiều hơn vào việc cải thiện chất lượng giáo dục.,neutral,facility
-The campus has multiple extension outlets for charging devices.,neutral,facility
 Được cung cấp tài liệu học tập đầy đủ.,neutral,curriculum
 "Giảng viên tuyệt vời, họ giúp tôi hiểu rõ hơn về khái niệm.",positive,lecturer
 Tôi cảm thấy nhàm chán và thất vọng khi nghe giảng của giảng viên này.,negative,lecturer
@@ -7706,7 +7414,6 @@ Tôi rất ấn tượng với kiến thức rộng và sâu của thầy/cô v�
 Thầy/Cô là người thật tâm huyết và nhiệt tình với công việc giảng dạy của mình.,positive,others
 Giảng viên tạo ra môi trường học tập tích cực và động lực.,neutral,lecturer
 "Chương trình học không linh hoạt, không thể thay đổi để phù hợp với tình hình thị trường lao động.",negative,curriculum
-I have no complaints about the facilities at the university.,neutral,facility
 Thầy giảng dạy rất rõ ràng và dễ hiểu.,neutral,lecturer
 Giáo trình cập nhật thường xuyên những kiến thức mới nhất.,positive,curriculum
 Khóa học thiếu tài liệu tham khảo phù hợp.,negative,curriculum
@@ -7719,7 +7426,6 @@ Giảng viên không lưu tâm đến tiến độ của học sinh trong quá t
 Trường cung cấp các chương trình học bổng để hỗ trợ đào tạo cho sinh viên.,neutral,facility
 Bạn ấy luôn có tinh thần trách nhiệm cao.,neutral,others
 "Cần tạo điều kiện cho sinh viên giải quyết các vấn đề đời sống, tâm lý.",neutral,curriculum
-The facilities allow students to make the most out of their academic life.,neutral,facility
 "Học tập khó khăn quá nhiều, tôi cảm thấy động lực giảm sút.",negative,curriculum
 Các phòng lab đáp ứng được nhu cầu của sinh viên trong học tập.,positive,facility
 Tôi yêu thích việc tận dụng công nghệ trong việc học tập tại đây.,positive,curriculum
@@ -7730,7 +7436,6 @@ Giảng viên rất chăm sóc và quan tâm đến học sinh.,positive,lecture
 Cậu bạn này có tinh thần đồng đội rất cao và tuyệt vời.,positive,others
 Nội dung học không phù hợp với trình độ của sinh viên.,negative,curriculum
 Tôi thích sự đổi mới và sáng tạo trong chương trình đào tạo.,positive,curriculum
-The university's facilities are well-suited to academic objectives.,neutral,facility
 "Thầy là giảng viên tuyệt vời, giảng dạy rất có tâm.",neutral,lecturer
 Tài liệu giảng dạy không phù hợp với nhu cầu của sinh viên.,negative,curriculum
 Cô bạn này là người rất tỉ mỉ và chính xác trong công việc.,positive,others
@@ -7771,9 +7476,7 @@ Giảng viên này toàn lười làm slide.,negative,lecturer
 Chương trình giảng dạy có sự kết hợp giữa giảng dạy truyền thống và hướng tới công nghệ mới.,neutral,curriculum
 "Giáo viên không quan tâm đến sinh viên, chỉ quan tâm đến công việc của họ.",negative,facility
 Chương trình học không cung cấp đủ kiến thức cho sinh viên để tạo ra sự khác biệt trong thị trường lao động.,negative,curriculum
-The courses are challenging and intellectually stimulating.,neutral,curriculum
 Cô bạn học của tôi luôn có tinh thần rèn luyện và cố gắng hết sức để nâng cao kỹ năng cá nhân.,positive,others
-The art facilities offer good resources for students.,neutral,facility
 Tôi đã học được nhiều kỹ năng mới và định hướng rõ ràng hơn về tương lai.,positive,curriculum
 Môn học dạy sinh viên tư duy phản biện và kinh nghiệm giải quyết vấn đề.,neutral,curriculum
 "Các hoạt động ngoại khóa tại trường rất đa dạng và phong phú, giúp cho sinh viên có thể rèn luyện các kỹ năng cần thiết và đa dạng hoá kỹ năng.",positive,facility
@@ -7814,8 +7517,6 @@ Tôi cảm thấy giảng viên này không có tâm huyết với nghề giản
 Tôi học được nhiều kinh nghiệm thực tế từ các giảng viên thực sự trong lĩnh vực mình đang theo đuổi.,positive,curriculum
 Giảng viên của tôi rất thông minh và am hiểu về lĩnh vực của mình.,positive,lecturer
 Hỗ trợ học tập đầy đủ và những người phụ trách thân thiện.,neutral,curriculum
-The curriculum encourages collaboration and teamwork.,neutral,curriculum
-The facilities enable students to engage effectively in online learning.,neutral,facility
 Thời gian đăng kí các môn học quá ngắn khiến cho số lượng sinh viên không có cơ hội đăng ký vào các môn học mình mong muốn.,negative,curriculum
 Tôi cảm thấy giảng viên này không nên dạy học.,negative,lecturer
 Anh bạn này là người rất có trách nhiệm và chăm sóc đến từng chi tiết nhỏ.,positive,others
@@ -7824,13 +7525,11 @@ Giáo viên có nhiều kinh nghiệm và kiến thức chuyên môn sâu rộng
 Giảng viên này quá khó chịu và ích kỷ nên tôi không muốn gặp lại.,negative,lecturer
 Trường có rất nhiều khu vực để sinh viên có thể tập thể dục hoặc chơi thể thao.,positive,facility
 Cô ấy có sự đam mê và nhiệt huyết với công việc.,neutral,others
-The university's facilities meet our academic requirements.,neutral,facility
 Em thấy anh là một người rất chân thành và luôn đặt niềm tin vào bạn bè.,positive,others
 Không có không gian để sinh viên thư giãn sau giờ học.,negative,facility
 "Anh ấy là người bạn thân thiết và đáng tin cậy, luôn bên cạnh em trong mọi hoàn cảnh.",positive,others
 Anh ta là người rất tận tâm với công việc của mình.,neutral,others
 Tôi cảm thấy không thoải mái khi phải trao đổi với người khác vì họ thường xuyên có những quan điểm tiêu cực.,negative,others
-"The university has a good sense of community, with students supporting one another in their academic journey.",neutral,facility
 Các hoạt động ngoại khóa đa dạng và bổ ích.,neutral,curriculum
 Sự tham gia của sinh viên không được khuyến khích trong quá trình học tập.,negative,curriculum
 Anh ấy có sự chu đáo và tận tâm trong công việc.,neutral,others
@@ -7860,7 +7559,6 @@ Các phòng học tại đây rất đẹp và thoải mái.,positive,facility
 Cô ấy luôn trân trọng ý kiến của người khác.,neutral,others
 Thầy giảng dạy những kỹ năng thực tế và có giá trị trong cuộc sống.,positive,lecturer
 Giáo trình này rất thiết yếu và hữu ích với các học viên.,positive,curriculum
-The facilities at the university are quite impressive.,neutral,facility
 Anh/chị giảng viên sáng tạo và dễ tiếp cận với các sinh viên.,positive,lecturer
 Thầy có tính cách tôn trọng ý kiến và những trăn trở của sinh viên.,positive,lecturer
 Giáo trình khá khô khan và không thu hút nhiều sự chú ý từ học sinh.,neutral,curriculum
@@ -7974,8 +7672,6 @@ Người đồng hành của tôi là một người rất thông minh và có t
 Đổi mới chương trình học quá nhanh khiến cho sinh viên không theo kịp.,negative,curriculum
 Thầy này luôn tích cực khuyến khích học sinh giải quyết vấn đề.,positive,lecturer
 "Tôi không thể chịu được tính cách của anh ta, dù cho anh ta luôn là người nổi tiếng trong lớp.",negative,others
-The facilities of the university meet most of the students' needs.,neutral,facility
-I appreciate the opportunity to take electives outside of my major.,neutral,curriculum
 "Thầy cô này dạy rất chuyên nghiệp, tôn trọng học sinh và luôn giúp đỡ khi cần.",neutral,lecturer
 Sinh viên này luôn có một thái độ uể oải trong việc học tập và phát triển bản thân.,negative,others
 Giáo viên thiếu sự nhiệt tình và kinh nghiệm đầy đủ.,negative,curriculum
@@ -7984,7 +7680,6 @@ Thầy đưa ra những phương pháp và chiến lược học tập hữu íc
 "Phòng học không được vệ sinh thường xuyên, phần nội thất rất lụt lội.",negative,facility
 Thấy mấy bạn này luôn muốn điều khiển nhóm mình.,negative,others
 "Các phòng học được xây dựng với thiết kế vừa đẹp mắt vừa thoải mái, giúp sinh viên học tập hiệu quả hơn.",positive,facility
-The university has a program for exchanging students with other schools.,neutral,facility
 Em rất thích cách mà giáo trình kết hợp giữa lý thuyết và thực tiễn.,positive,curriculum
 Môi trường học tập an toàn và thân thiện.,positive,curriculum
 Tôi không còn tin tưởng vào tài năng của cậu ta nữa.,negative,others
@@ -7996,7 +7691,6 @@ Tôi cảm nhận mình đang được chăm sóc kỹ lưỡng tại đây.,pos
 Thầy cô thiếu cập nhật kiến thức mới.,negative,curriculum
 Chị ấy là một người rất dịu dàng.,positive,others
 Thầy không có khả năng định hướng cho sinh viên phát triển đúng hướng hiệu quả.,negative,lecturer
-The curriculum emphasizes the development of critical soft skills such as communication and teamwork.,neutral,curriculum
 Bài tập và kiểm tra được thiết kế rất tốt để kiểm tra kiến thức của sinh viên.,neutral,lecturer
 Có nhiều hoạt động ngoại khóa được tổ chức để giúp sinh viên rèn luyện kỹ năng mềm.,positive,facility
 Cô ấy hay làm phiền người khác không quan tâm đến việc họ có thể bận rộn hay không.,negative,others
@@ -8017,16 +7711,13 @@ Thầy rất tận tâm với từng sinh viên trong lớp học.,neutral,lectu
 Họ là một người rất thú vị và đầy sức sống.,neutral,others
 Tôi cảm thấy rất may mắn khi được tham gia chương trình học tại đây.,neutral,curriculum
 Trình độ chuyên môn của giáo viên không được cập nhật đầy đủ.,negative,curriculum
-The curriculum teaches students to think creatively and outside of the box.,neutral,curriculum
 Giảng viên đóng vai trò như một người đồng hành cùng học sinh trong suốt quá trình học tập.,positive,lecturer
 Tôi luôn cảm thấy an toàn khi ở ký túc xá của trường.,positive,facility
 Anh ấy là một người rất tốt bụng và luôn giúp đỡ mọi người.,positive,others
 Các khu vực trong trường được căn chỉnh rất tốt về ánh sáng và âm thanh.,neutral,facility
 Giảng viên này đưa ra những ví dụ rất thực tế giúp sinh viên dễ hiểu hơn.,neutral,lecturer
 Chương trình giảng dạy đáp ứng được những yêu cầu deluaruận đầu ra.,neutral,curriculum
-The university's admissions facility is helpful and accommodating.,neutral,facility
 Thiếu sự liên kết giữa các chương trình học và thực tiễn.,negative,curriculum
-The university has a good selection of food and dining facilities on campus.,neutral,facility
 "Tôi rất hài lòng về cơ sở vật chất của trường đại học này, đặc biệt là phòng thí nghiệm rất đầy đủ và chất lượng cao.",positive,facility
 Cô ấy không có nghĩa vụ để hợp tác hoàn thành một số nhiệm vụ trong dự án của nhóm.,negative,others
 Giảng viên thường xuyên cập nhật kiến thức mới nhất để đưa đến cho chúng em.,positive,lecturer
@@ -8035,7 +7726,6 @@ Tôi cảm thấy an toàn và thoải mái khi sử dụng những khu vực ch
 Khung chương trình được thiết kế chặt chẽ và có hệ thống.,neutral,curriculum
 Thành viên này cứng đầu và không chịu chấp nhận ý kiến của người khác.,negative,others
 Họ thật sự đáng khen khi có được điểm số tốt trong kỳ thi.,neutral,others
-The campus bus system makes traveling around campus easy and convenient.,neutral,facility
 Giáo viên thường xuyên chơi trội với kiến thức của mình.,negative,lecturer
 "Cách giảng dạy của giáo viên quá tẻ nhạt, không kích thích được sự tò mò của sinh viên.",negative,curriculum
 Giảng viên này không đảm bảo sự hiệu quả trong việc dạy học của mình.,negative,lecturer
@@ -8051,7 +7741,6 @@ Khu vực tiếp khách quá nhỏ và không đáp ứng được nhu cầu c�
 Thầy luôn tạo khí thế học tập sôi động và tích cực cho sinh viên.,neutral,lecturer
 Thư viện đại học có nhiều tài liệu và sách tham khảo hữu ích giúp sinh viên làm bài tập dễ dàng hơn.,positive,curriculum
 "Sân thể thao quá nhỏ, không đủ cho các hoạt động tập thể.",negative,facility
-The curriculum promotes interdisciplinary and cross-disciplinary approaches to problem-solving.,neutral,curriculum
 Giảng viên dạy học ở mức độ phù hợp với năng lực của sinh viên.,neutral,lecturer
 Giảng viên thiếu tâm huyết và động lực.,negative,curriculum
 Bạn đó không bao giờ làm việc bổ sung để giúp đỡ những người khác.,negative,others
@@ -8099,12 +7788,10 @@ Giảng viên luôn cố gắng để tạo ra nơi học tập an toàn cho sin
 "Bạn là người rất thông minh và có tầm nhìn xa, tôi mong muốn học tập từ bạn.",positive,others
 "Chương trình học thú vị và đa dạng, tôi cảm thấy tự tin hơn khi học",positive,curriculum
 Giảng viên rất thấu hiểu và thông cảm với học sinh.,neutral,lecturer
-The psychology clinic on campus is a helpful resource.,neutral,facility
 Giảng viên của tôi là người khó chịu nhất mà tôi đã từng gặp,negative,lecturer
 Thầy là một người hướng dẫn tuyệt vời cho các sinh viên.,positive,lecturer
 Tôi luôn cảm thấy được sự ủng hộ của anh/chị.,positive,others
 Ngành học của tôi rất thú vị và truyền cảm hứng cho sự phát triển của tôi.,positive,curriculum
-The curriculum encourages independent thinking and problem-solving skills.,neutral,curriculum
 Anh/chị rất giàu tình cảm và thân thiện với mọi người trong lớp.,positive,others
 Hệ thống điều hòa không khí của trường hoạt động tốt và hiệu quả.,neutral,facility
 Giáo trình này quá khó hiểu đối với những người mới bắt đầu.,negative,curriculum
@@ -8112,11 +7799,9 @@ Giáo trình này quá khó hiểu đối với những người mới bắt đ�
 Chương trình học quá dài và quá khó để hoàn thành trong thời gian quy định.,negative,curriculum
 Trường đang có nhiều cơ hội tham gia các hoạt động ngoại khóa.,positive,curriculum
 "Tôi thấy giảng viên này làm việc chăm chỉ, nhưng không có khả năng giảng dạy tốt.",negative,lecturer
-The campus has multiple ATMs for convenient access to cash.,neutral,facility
 Một số đồng nghiệp của tôi luôn cố gắng để đánh bại tôi một cách vô lý.,negative,others
 Giảng viên này giúp tôi hiểu vấn đề một cách rõ ràng hơn và dễ hiểu hơn.,positive,lecturer
 Cô ấy không chịu dạy và dẫn dắt các thành viên khác trong nhóm.,negative,others
-The facilities enable students to have a well-rounded university experience.,neutral,facility
 Giảng viên đưa ra những chương trình phụ họp sinh viên cải thiện kỹ năng mềm của mình.,neutral,lecturer
 "Giáo viên quá nghiêm khắc, không thể đưa ra những ý kiến ​​xây dựng cho sinh viên.",negative,curriculum
 Anh ta luôn giành giật quyền lực và không bao giờ chia sẻ cho người khác.,negative,others
